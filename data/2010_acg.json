@@ -1,0 +1,810 @@
+{
+ "year": 2010,
+ "cat": "acg",
+ "pid": 7775361487,
+ "pname": "怀旧 ｜ 2010-2019年动漫歌曲人气榜TOP100",
+ "creator": "华东纯爱牛马战士",
+ "fetched": 100,
+ "tracks": [
+  {
+   "id": 413961906,
+   "name": "STYX HELIX",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」エンディングテーマ「STYX HELIX」 歌：MYTH ＆ ROID 読み：STYX HELIX＝ステュクス ヘリックス",
+   "fee": 1,
+   "rank": 1
+  },
+  {
+   "id": 496869422,
+   "name": "打上花火",
+   "artist": "Daoko/米津玄師",
+   "album": "打上花火",
+   "fee": 0,
+   "rank": 2
+  },
+  {
+   "id": 33911781,
+   "name": "secret base ~君がくれたもの~ (10 years after Ver.)",
+   "artist": "茅野愛衣/戸松遥/早見沙織",
+   "album": "secret base ～君がくれたもの～",
+   "fee": 1,
+   "rank": 3
+  },
+  {
+   "id": 426881506,
+   "name": "なんでもないや (movie ver.)",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 4
+  },
+  {
+   "id": 579954,
+   "name": "恋愛サーキュレーション",
+   "artist": "花澤香菜",
+   "album": "恋愛サーキュレーション & あとがたり",
+   "fee": 0,
+   "rank": 5
+  },
+  {
+   "id": 29307041,
+   "name": "aLIEz",
+   "artist": "瑞葵(mizuki)/SawanoHiroyuki[nZk]",
+   "album": "A/Z|aLIEz",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 725692,
+   "name": "only my railgun",
+   "artist": "fripSide",
+   "album": "only my railgun",
+   "fee": 1,
+   "rank": 7
+  },
+  {
+   "id": 29017078,
+   "name": "unravel",
+   "artist": "TK from 凛として時雨",
+   "album": "Fantastic Magic",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 426881480,
+   "name": "夢灯籠",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 426881487,
+   "name": "前前前世 (movie ver.)",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 1360592706,
+   "name": "紅蓮華",
+   "artist": "LiSA",
+   "album": "紅蓮華",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 29732992,
+   "name": "光るなら",
+   "artist": "Goose house",
+   "album": "光るなら",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 412327036,
+   "name": "いけないボーダーライン",
+   "artist": "ワルキューレ",
+   "album": "一度だけの恋なら / ルンがピカッと光ったら",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 498096,
+   "name": "βios",
+   "artist": "小林未郁",
+   "album": "ギルティクラウン オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 426502173,
+   "name": "Stay Alive",
+   "artist": "高橋李依",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」 歌：エミリア（CV：高橋李依）",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 29027453,
+   "name": "crossing field",
+   "artist": "LiSA",
+   "album": "ソードアート・オンライン ソングコレクション",
+   "fee": 8,
+   "rank": 16
+  },
+  {
+   "id": 441116287,
+   "name": "茜さす",
+   "artist": "Aimer",
+   "album": "茜さす/everlasting snow",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 534065323,
+   "name": "Sincerely",
+   "artist": "TRUE",
+   "album": "Sincerely",
+   "fee": 0,
+   "rank": 18
+  },
+  {
+   "id": 426501183,
+   "name": "Wishing",
+   "artist": "水瀬いのり",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」 歌：エミリア（CV：高橋李依）",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 478731355,
+   "name": "心臓を捧げよ！",
+   "artist": "Linked Horizon",
+   "album": "進撃の軌跡",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 478736273,
+   "name": "紅蓮の弓矢",
+   "artist": "Linked Horizon",
+   "album": "進撃の軌跡",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 536623501,
+   "name": "Ref:rain",
+   "artist": "Aimer",
+   "album": "Ref:rain / 眩いばかり",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 1334778977,
+   "name": "canzoni preferite",
+   "artist": "長谷川大祐",
+   "album": "ジョジョの奇妙な冒険 黄金の风 O.S.T vol.1 Overture",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 548890933,
+   "name": "asphyxia",
+   "artist": "Cö shu Nie",
+   "album": "asphyxia",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 26239032,
+   "name": "Bloody Stream",
+   "artist": "Coda(小田和奏)",
+   "album": "Bloody Stream",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 494330771,
+   "name": "ガヴリールの数え歌",
+   "artist": "大西沙織",
+   "album": "ガヴリールドロップアウト 天使と悪魔のキャラソン&サントラCD",
+   "fee": 0,
+   "rank": 26
+  },
+  {
+   "id": 32102071,
+   "name": "X.U.",
+   "artist": "SawanoHiroyuki[nZk]/R!N/Gemie",
+   "album": "X.U. / scaPEGoat",
+   "fee": 1,
+   "rank": 27
+  },
+  {
+   "id": 1397097038,
+   "name": "竈門炭治郎のうた",
+   "artist": "中川奈美",
+   "album": "竈門炭治郎のうた",
+   "fee": 0,
+   "rank": 28
+  },
+  {
+   "id": 418708385,
+   "name": "ミチノチモシーキミノキモチ",
+   "artist": "森永千才",
+   "album": "TVアニメ「あんハピ♪」キャラクターソングシリーズ2",
+   "fee": 1,
+   "rank": 29
+  },
+  {
+   "id": 531051597,
+   "name": "KISS OF DEATH (Produced by HYDE)",
+   "artist": "中島美嘉",
+   "album": "KISS OF DEATH (Produced by HYDE) (アニメ盤)",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 461301621,
+   "name": "可愛くなりたい",
+   "artist": "HoneyWorks/雨宮天",
+   "album": "何度だって、好き。〜告白実行委員会〜",
+   "fee": 1,
+   "rank": 31
+  },
+  {
+   "id": 28563214,
+   "name": "This game",
+   "artist": "鈴木このみ",
+   "album": "TVアニメ「ノーゲーム・ノーライフ」OPテーマ「This game」【通常盤】 歌：鈴木このみ",
+   "fee": 1,
+   "rank": 32
+  },
+  {
+   "id": 1378491296,
+   "name": "グランドエスケープ (Movie edit)",
+   "artist": "三浦透子/RADWIMPS",
+   "album": "天気の子",
+   "fee": 1,
+   "rank": 33
+  },
+  {
+   "id": 1311347592,
+   "name": "remember",
+   "artist": "Uru",
+   "album": "Remember",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 459925524,
+   "name": "フリージア",
+   "artist": "Uru",
+   "album": "フリージア",
+   "fee": 1,
+   "rank": 35
+  },
+  {
+   "id": 25916045,
+   "name": "One day",
+   "artist": "The ROOTLESS",
+   "album": "One day",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 809268,
+   "name": "sweets parade",
+   "artist": "花澤香菜",
+   "album": "妖狐×僕SS ENDING SONG Vol.3",
+   "fee": 8,
+   "rank": 37
+  },
+  {
+   "id": 718551,
+   "name": "比翼の羽根",
+   "artist": "eufonius",
+   "album": "比翼の羽根",
+   "fee": 1,
+   "rank": 38
+  },
+  {
+   "id": 424264956,
+   "name": "ピカチュウのうた",
+   "artist": "大谷育江",
+   "album": "ピカチュウのうた",
+   "fee": 0,
+   "rank": 39
+  },
+  {
+   "id": 825343,
+   "name": "My Dearest",
+   "artist": "supercell",
+   "album": "My Dearest",
+   "fee": 1,
+   "rank": 40
+  },
+  {
+   "id": 1357399415,
+   "name": "BLUE SAPPHIRE",
+   "artist": "ØMI",
+   "album": "SUPERMOON",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 482636088,
+   "name": "Barricades",
+   "artist": "澤野弘之/R!N/Gemie/mpi",
+   "album": "TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 33418857,
+   "name": "LAST STARDUST",
+   "artist": "Aimer",
+   "album": "DAWN",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 1299557936,
+   "name": "Prayer X",
+   "artist": "King Gnu",
+   "album": "Prayer X",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 1369903412,
+   "name": "海の幽霊",
+   "artist": "米津玄師",
+   "album": "海の幽霊",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 490182455,
+   "name": "THERE IS A REASON",
+   "artist": "鈴木このみ",
+   "album": "「ノーゲーム・ノーライフ」コンプリートソングス「NO SONG NO LIFE」",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 27566958,
+   "name": "ジョジョ~その血の運命~",
+   "artist": "富永TOMMY弘明",
+   "album": "ジョジョ~その血の運命~",
+   "fee": 1,
+   "rank": 47
+  },
+  {
+   "id": 1388595437,
+   "name": "Call of Silence",
+   "artist": "Eternal Raijin",
+   "album": "Call of Silence",
+   "fee": 8,
+   "rank": 48
+  },
+  {
+   "id": 31649312,
+   "name": "Departures ~あなたにおくるアイの歌~",
+   "artist": "EGOIST",
+   "album": "ノイタミナ FAN BEST",
+   "fee": 8,
+   "rank": 49
+  },
+  {
+   "id": 422649,
+   "name": "透明だった世界",
+   "artist": "秦基博",
+   "album": "透明だった世界",
+   "fee": 1,
+   "rank": 50
+  },
+  {
+   "id": 28442575,
+   "name": "STAND PROUD",
+   "artist": "橋本仁",
+   "album": "STAND PROUD",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 536098015,
+   "name": "HYDRA",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「オーバーロードⅡ」エンディングテーマ「HYDRA」【通常盤】 歌：MYTH ＆ ROID",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 34077763,
+   "name": "灼け落ちない翼",
+   "artist": "多田葵",
+   "album": "Bravely You / 灼け落ちない翼",
+   "fee": 8,
+   "rank": 53
+  },
+  {
+   "id": 473964449,
+   "name": "ヒトリゴト",
+   "artist": "ClariS",
+   "album": "ヒトリゴト",
+   "fee": 1,
+   "rank": 54
+  },
+  {
+   "id": 28891491,
+   "name": "世界は恋に落ちている",
+   "artist": "CHiCO with HoneyWorks",
+   "album": "世界は恋に落ちている",
+   "fee": 8,
+   "rank": 55
+  },
+  {
+   "id": 32288081,
+   "name": "Ring of Fortune",
+   "artist": "佐々木恵梨",
+   "album": "Ring of Fortune (TVアニメ「プラスティック・メモリーズ」OPテーマ)",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 28481337,
+   "name": "Trust in you",
+   "artist": "sweet ARMS",
+   "album": "Trust in you",
+   "fee": 0,
+   "rank": 57
+  },
+  {
+   "id": 547971231,
+   "name": "トリカゴ",
+   "artist": "XX:me",
+   "album": "ダーリン・イン・ザ・フランキス エンディング集 vol.1",
+   "fee": 8,
+   "rank": 58
+  },
+  {
+   "id": 38019747,
+   "name": "好きなので。",
+   "artist": "雨宮天",
+   "album": "「プラスティック・メモリーズ」6巻特典",
+   "fee": 8,
+   "rank": 59
+  },
+  {
+   "id": 30706129,
+   "name": "GLASSY SKY",
+   "artist": "Donna Burke",
+   "album": "TV ANIMATION Tokyo Ghoul Original Soundtrack",
+   "fee": 8,
+   "rank": 60
+  },
+  {
+   "id": 873684,
+   "name": "ラヴァーズ",
+   "artist": "seven oops",
+   "album": "ラヴァーズ",
+   "fee": 1,
+   "rank": 61
+  },
+  {
+   "id": 1352199795,
+   "name": "裏切り者のレクイエム",
+   "artist": "長谷川大祐",
+   "album": "裏切り者のレクイエム",
+   "fee": 8,
+   "rank": 62
+  },
+  {
+   "id": 463842649,
+   "name": "嘘の火花",
+   "artist": "96猫",
+   "album": "嘘の火花 (Special Edition)",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 34077762,
+   "name": "Bravely You",
+   "artist": "Lia",
+   "album": "Bravely You / 灼け落ちない翼",
+   "fee": 8,
+   "rank": 64
+  },
+  {
+   "id": 722932,
+   "name": "Euterpe",
+   "artist": "EGOIST",
+   "album": "Departures~あなたにおくるアイの歌~",
+   "fee": 1,
+   "rank": 65
+  },
+  {
+   "id": 34169530,
+   "name": "Clattanoia",
+   "artist": "OxT",
+   "album": "TVアニメ「オーバーロード」オープニングテーマ「Clattanoia（クラタノイア）」 歌：OxT（オクト）（オーイシマサヨシ × Tom-H@ck）",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 471987,
+   "name": "一番の宝物 (Original Version)",
+   "artist": "karuta",
+   "album": "Angel Beats! Original SoundTrack",
+   "fee": 8,
+   "rank": 67
+  },
+  {
+   "id": 35023412,
+   "name": "Let Me Hear",
+   "artist": "Fear, and Loathing in Las Vegas",
+   "album": "Feeling of Unity",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 29744626,
+   "name": "月灯り",
+   "artist": "雨宮天",
+   "album": "月灯り",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 1361188105,
+   "name": "チカっとチカ千花っ",
+   "artist": "小原好美",
+   "album": "チカっとチカ千花っ",
+   "fee": 8,
+   "rank": 70
+  },
+  {
+   "id": 1397725153,
+   "name": "unlasting",
+   "artist": "LiSA",
+   "album": "unlasting",
+   "fee": 1,
+   "rank": 71
+  },
+  {
+   "id": 865048551,
+   "name": "VORACITY",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「オーバーロードⅢ」オープニングテーマ「VORACITY」　※読み：VORACITY=ヴォラシティ 歌：MYTH ＆ ROID",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 26584163,
+   "name": "Hacking to the Gate",
+   "artist": "いとうかなこ",
+   "album": "STEINS;GATE VOCAL BEST",
+   "fee": 0,
+   "rank": 73
+  },
+  {
+   "id": 35345760,
+   "name": "朝焼けのスターマイン -Anime Ver.-",
+   "artist": "今井麻美",
+   "album": "朝焼けのスターマイン",
+   "fee": 0,
+   "rank": 74
+  },
+  {
+   "id": 29460679,
+   "name": "Best of my Love",
+   "artist": "安田レイ",
+   "album": "Will",
+   "fee": 1,
+   "rank": 75
+  },
+  {
+   "id": 600347,
+   "name": "Resuscitated Hope",
+   "artist": "コミネリサ",
+   "album": "Resuscitated Hope/unity",
+   "fee": 0,
+   "rank": 76
+  },
+  {
+   "id": 1316562362,
+   "name": "katharsis",
+   "artist": "TK from 凛として時雨",
+   "album": "katharsis",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 412178711,
+   "name": "Redo",
+   "artist": "鈴木このみ",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」オープニングテーマ「Redo」【通常盤】 歌：鈴木このみ ※読み：Redo＝リドゥ",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 583503,
+   "name": "レクイエム",
+   "artist": "柊奈绪",
+   "album": "「黄昏乙女×アムネジア」スペシャルインサートソング",
+   "fee": 8,
+   "rank": 79
+  },
+  {
+   "id": 480097178,
+   "name": "月がきれい",
+   "artist": "東山奈央",
+   "album": "イマココ / 月がきれい (アニメ盤)",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 705331,
+   "name": "コネクト",
+   "artist": "ClariS",
+   "album": "コネクト",
+   "fee": 1,
+   "rank": 81
+  },
+  {
+   "id": 29750962,
+   "name": "シルエット",
+   "artist": "KANA-BOON",
+   "album": "シルエット",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 26259014,
+   "name": "いつもこの場所で",
+   "artist": "彩音",
+   "album": "劇場版「STEINS;GATE 負荷領域のデジャヴ」エンディングテーマ「いつもこの場所で」",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 29814175,
+   "name": "Perfect Time",
+   "artist": "小林未郁/mpi",
+   "album": "七つの大罪 オリジナル・サウンドトラック",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 28936241,
+   "name": "Skyreach",
+   "artist": "雨宮天",
+   "album": "Skyreach",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 1450735421,
+   "name": "ラブ・ドラマティック",
+   "artist": "鈴木雅之/伊原六花",
+   "album": "ラブ・ドラマティック",
+   "fee": 1,
+   "rank": 86
+  },
+  {
+   "id": 443875425,
+   "name": "タカラバコ",
+   "artist": "ササノマリイ",
+   "album": "タカラバコ",
+   "fee": 1,
+   "rank": 87
+  },
+  {
+   "id": 471795,
+   "name": "My Soul, Your Beats!",
+   "artist": "Lia",
+   "album": "Angel Beats! Original SoundTrack",
+   "fee": 8,
+   "rank": 88
+  },
+  {
+   "id": 1305366565,
+   "name": "春夏秋冬",
+   "artist": "sumika",
+   "album": "ファンファーレ / 春夏秋冬",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 460476149,
+   "name": "longing",
+   "artist": "神田沙也加",
+   "album": "劇場版「ソードアートオンライン-オーディナルスケール-」Original Soundtrack",
+   "fee": 1,
+   "rank": 90
+  },
+  {
+   "id": 28018264,
+   "name": "銀色飛行船",
+   "artist": "supercell",
+   "album": "ZIGAEXPERIENTIA",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 490602360,
+   "name": "英雄 運命の詩",
+   "artist": "EGOIST",
+   "album": "英雄　運命の詩",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 28012031,
+   "name": "stand still",
+   "artist": "井口裕香",
+   "album": "Grow Slowly",
+   "fee": 8,
+   "rank": 93
+  },
+  {
+   "id": 1329358995,
+   "name": "hectopascal",
+   "artist": "寿美菜子/高田憂希",
+   "album": "Hectopascal",
+   "fee": 8,
+   "rank": 94
+  },
+  {
+   "id": 1311347602,
+   "name": "リセット",
+   "artist": "向井太一",
+   "album": "リセット",
+   "fee": 1,
+   "rank": 95
+  },
+  {
+   "id": 29775810,
+   "name": "M♭",
+   "artist": "安野希世乃",
+   "album": "冴えない彼女の育てかた キャラクターイメージソング 加藤恵",
+   "fee": 8,
+   "rank": 96
+  },
+  {
+   "id": 1350516869,
+   "name": "五等分の気持ち",
+   "artist": "中野家の五つ子",
+   "album": "五等分の気持ち",
+   "fee": 1,
+   "rank": 97
+  },
+  {
+   "id": 444524615,
+   "name": "sync",
+   "artist": "lol-エルオーエル-",
+   "album": "bye bye",
+   "fee": 1,
+   "rank": 98
+  },
+  {
+   "id": 1306000879,
+   "name": "Grand Blue",
+   "artist": "湘南乃風",
+   "album": "湘南乃風 〜一五一会〜",
+   "fee": 1,
+   "rank": 99
+  },
+  {
+   "id": 865021646,
+   "name": "chAngE",
+   "artist": "miwa",
+   "album": "miwa THE BEST",
+   "fee": 8,
+   "rank": 100
+  }
+ ]
+}

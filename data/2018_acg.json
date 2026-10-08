@@ -1,0 +1,786 @@
+{
+ "year": 2018,
+ "cat": "acg",
+ "pid": 650878014,
+ "pname": "2018最具人气的动漫歌曲top100",
+ "creator": "九尾丶十香",
+ "fetched": 97,
+ "tracks": [
+  {
+   "id": 4940920,
+   "name": "Butter-Fly",
+   "artist": "和田光司",
+   "album": "DIGIMON HISTORY 1999-2006 All The Best",
+   "fee": 8,
+   "rank": 1
+  },
+  {
+   "id": 33911781,
+   "name": "secret base ~君がくれたもの~ (10 years after Ver.)",
+   "artist": "茅野愛衣/戸松遥/早見沙織",
+   "album": "secret base ～君がくれたもの～",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 412327036,
+   "name": "いけないボーダーライン",
+   "artist": "ワルキューレ",
+   "album": "一度だけの恋なら / ルンがピカッと光ったら",
+   "fee": 1,
+   "rank": 3
+  },
+  {
+   "id": 413961906,
+   "name": "STYX HELIX",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」エンディングテーマ「STYX HELIX」 歌：MYTH ＆ ROID 読み：STYX HELIX＝ステュクス ヘリックス",
+   "fee": 1,
+   "rank": 4
+  },
+  {
+   "id": 725692,
+   "name": "only my railgun",
+   "artist": "fripSide",
+   "album": "only my railgun",
+   "fee": 1,
+   "rank": 5
+  },
+  {
+   "id": 426881487,
+   "name": "前前前世 (movie ver.)",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 29307041,
+   "name": "aLIEz",
+   "artist": "瑞葵(mizuki)/SawanoHiroyuki[nZk]",
+   "album": "A/Z|aLIEz",
+   "fee": 1,
+   "rank": 7
+  },
+  {
+   "id": 29732992,
+   "name": "光るなら",
+   "artist": "Goose house",
+   "album": "光るなら",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 760533,
+   "name": "だんご大家族",
+   "artist": "茶太",
+   "album": "メグメル/だんご大家族",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 27493153,
+   "name": "君が好きだと叫びたい",
+   "artist": "BAAD",
+   "album": "SLAM DUNK Original Soundtrack",
+   "fee": 0,
+   "rank": 10
+  },
+  {
+   "id": 579954,
+   "name": "恋愛サーキュレーション",
+   "artist": "花澤香菜",
+   "album": "恋愛サーキュレーション & あとがたり",
+   "fee": 0,
+   "rank": 11
+  },
+  {
+   "id": 410821967,
+   "name": "COOLEST",
+   "artist": "カスタマイZ",
+   "album": "COOLEST",
+   "fee": 0,
+   "rank": 12
+  },
+  {
+   "id": 441116287,
+   "name": "茜さす",
+   "artist": "Aimer",
+   "album": "茜さす/everlasting snow",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 32364947,
+   "name": "Brave Shine",
+   "artist": "Aimer",
+   "album": "Brave Shine",
+   "fee": 8,
+   "rank": 14
+  },
+  {
+   "id": 498096,
+   "name": "βios",
+   "artist": "小林未郁",
+   "album": "ギルティクラウン オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 426502173,
+   "name": "Stay Alive",
+   "artist": "高橋李依",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」 歌：エミリア（CV：高橋李依）",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 26608719,
+   "name": "紅蓮の弓矢",
+   "artist": "Linked Horizon",
+   "album": "自由への進撃",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 399367220,
+   "name": "白金ディスコ",
+   "artist": "井口裕香",
+   "album": "歌物語-〈物語〉シリーズ主題歌集-",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 28018274,
+   "name": "回レ！雪月花",
+   "artist": "原田ひとみ/茅野愛衣/小倉唯",
+   "album": "TVアニメ「機巧少女（マシンドール）は傷つかない」エンディングテーマ「回レ！雪月花」 歌：歌組雪月花（夜々（CV：原田ひとみ）・いろり（CV：茅野愛衣）・小紫（CV：小倉唯））",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 32102071,
+   "name": "X.U.",
+   "artist": "SawanoHiroyuki[nZk]/R!N/Gemie",
+   "album": "X.U. / scaPEGoat",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 34045116,
+   "name": "かくしん的☆めたまるふぉ～ぜっ!",
+   "artist": "田中あいみ",
+   "album": "かくしん的☆めたまるふぉ~ぜっ!",
+   "fee": 0,
+   "rank": 21
+  },
+  {
+   "id": 433018439,
+   "name": "History Maker",
+   "artist": "DEAN FUJIOKA",
+   "album": "History Maker",
+   "fee": 8,
+   "rank": 22
+  },
+  {
+   "id": 28018431,
+   "name": "Daisy",
+   "artist": "R・O・N",
+   "album": "Daisy(初回限定盤)",
+   "fee": 0,
+   "rank": 23
+  },
+  {
+   "id": 541131,
+   "name": "時代を超える想い2",
+   "artist": "和田薫",
+   "album": "映画「犬夜叉 時代を越える想い」音楽篇",
+   "fee": 0,
+   "rank": 24
+  },
+  {
+   "id": 426501183,
+   "name": "Wishing",
+   "artist": "水瀬いのり",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」 歌：エミリア（CV：高橋李依）",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 592046,
+   "name": "Stories",
+   "artist": "黒石ひとみ",
+   "album": "コードギアス 反逆のルルーシュ O.S.T.",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 22645196,
+   "name": "Bad Apple!!",
+   "artist": "のみこ",
+   "album": "Lovelight",
+   "fee": 1,
+   "rank": 27
+  },
+  {
+   "id": 718765,
+   "name": "ブルーバード",
+   "artist": "いきものがかり",
+   "album": "ブルーバード",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 809268,
+   "name": "sweets parade",
+   "artist": "花澤香菜",
+   "album": "妖狐×僕SS ENDING SONG Vol.3",
+   "fee": 8,
+   "rank": 29
+  },
+  {
+   "id": 28606052,
+   "name": "鸟之诗 (八音盒版)",
+   "artist": "折戸伸治",
+   "album": "最新热歌慢摇66",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 28563214,
+   "name": "This game",
+   "artist": "鈴木このみ",
+   "album": "TVアニメ「ノーゲーム・ノーライフ」OPテーマ「This game」【通常盤】 歌：鈴木このみ",
+   "fee": 1,
+   "rank": 31
+  },
+  {
+   "id": 854729,
+   "name": "ニッポン笑顔百景",
+   "artist": "ももいろクローバーZ",
+   "album": "ニッポン笑顔百景",
+   "fee": 1,
+   "rank": 32
+  },
+  {
+   "id": 26201885,
+   "name": "Don't say \"lazy\"",
+   "artist": "桜高軽音部",
+   "album": "K-ON! Music History's Box",
+   "fee": 0,
+   "rank": 33
+  },
+  {
+   "id": 756701,
+   "name": "愛してる",
+   "artist": "高鈴",
+   "album": "ヒビノウタ",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 455345773,
+   "name": "青空のラプソディ",
+   "artist": "fhána",
+   "album": "青空のラプソディ (アーティスト盤)",
+   "fee": 8,
+   "rank": 35
+  },
+  {
+   "id": 718551,
+   "name": "比翼の羽根",
+   "artist": "eufonius",
+   "album": "比翼の羽根",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 28563201,
+   "name": "奏 (かなで)",
+   "artist": "雨宮天",
+   "album": "奏 (かなで)",
+   "fee": 0,
+   "rank": 37
+  },
+  {
+   "id": 36307272,
+   "name": "灼け落ちない翼",
+   "artist": "多田葵",
+   "album": "Charlotte Original Soundtrack",
+   "fee": 8,
+   "rank": 38
+  },
+  {
+   "id": 29814175,
+   "name": "Perfect Time",
+   "artist": "小林未郁/mpi",
+   "album": "七つの大罪 オリジナル・サウンドトラック",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 825343,
+   "name": "My Dearest",
+   "artist": "supercell",
+   "album": "My Dearest",
+   "fee": 1,
+   "rank": 40
+  },
+  {
+   "id": 26341140,
+   "name": "sister's noise",
+   "artist": "fripSide",
+   "album": "sister's noise",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 26218091,
+   "name": "START:DASH!!",
+   "artist": "μ's",
+   "album": "No brand girls / START:DASH!!",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 463842649,
+   "name": "嘘の火花",
+   "artist": "96猫",
+   "album": "嘘の火花 (Special Edition)",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 35806019,
+   "name": "THE HERO!! ~怒れる拳に火をつけろ",
+   "artist": "JAM Project",
+   "album": "THE HERO!! ~怒れる拳に火をつけろ~",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 29178366,
+   "name": "ルフィ猛攻!",
+   "artist": "浜口史郎",
+   "album": "ONE PIECE Log Collection “SABAODY\" サウンドトラック",
+   "fee": 0,
+   "rank": 45
+  },
+  {
+   "id": 443875425,
+   "name": "タカラバコ",
+   "artist": "ササノマリイ",
+   "album": "タカラバコ",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 608667,
+   "name": "時を刻む唄",
+   "artist": "Lia",
+   "album": "時を刻む唄/TORCH",
+   "fee": 8,
+   "rank": 47
+  },
+  {
+   "id": 33556379,
+   "name": "Hacking to the Gate (symphonic ver.)",
+   "artist": "いとうかなこ",
+   "album": "STEINS;GATE SYMPHONIC REUNION",
+   "fee": 8,
+   "rank": 48
+  },
+  {
+   "id": 32019707,
+   "name": "希望の唄",
+   "artist": "ULTRA TOWER",
+   "album": "希望の唄",
+   "fee": 1,
+   "rank": 49
+  },
+  {
+   "id": 591797,
+   "name": "M01",
+   "artist": "梶浦由記",
+   "album": "空の境界 Vol.2 殺人考察(前)",
+   "fee": 0,
+   "rank": 50
+  },
+  {
+   "id": 33715500,
+   "name": "プライド革命",
+   "artist": "CHiCO with HoneyWorks",
+   "album": "プライド革命",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 26380298,
+   "name": "デート・ア・ライブ",
+   "artist": "sweet ARMS",
+   "album": "デート・ア・ライブ",
+   "fee": 0,
+   "rank": 52
+  },
+  {
+   "id": 32364449,
+   "name": "朝焼けのスターマイン",
+   "artist": "今井麻美",
+   "album": "朝焼けのスターマイン",
+   "fee": 0,
+   "rank": 53
+  },
+  {
+   "id": 27594382,
+   "name": "届かない恋",
+   "artist": "上原れな",
+   "album": "WHITE ALBUM2 Original Soundtrack〜introductory〜",
+   "fee": 8,
+   "rank": 54
+  },
+  {
+   "id": 28941694,
+   "name": "君じゃなきゃダメみたい",
+   "artist": "オーイシマサヨシ",
+   "album": "TVアニメ「月刊少女野崎くん」OPテーマ「君じゃなきゃダメみたい」 歌：オーイシマサヨシ",
+   "fee": 1,
+   "rank": 55
+  },
+  {
+   "id": 668479,
+   "name": "again",
+   "artist": "YUI",
+   "album": "again",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 36492782,
+   "name": "ときめきポポロン♪",
+   "artist": "水瀬いのり/徳井青空/村川梨衣",
+   "album": "ときめきポポロン♪",
+   "fee": 1,
+   "rank": 57
+  },
+  {
+   "id": 471048,
+   "name": "Bird",
+   "artist": "松下優也",
+   "album": "Bird/4 Seasons(黒执事盘)",
+   "fee": 0,
+   "rank": 58
+  },
+  {
+   "id": 35090756,
+   "name": "狂乱 Hey Kids!!",
+   "artist": "THE ORAL CIGARETTES",
+   "album": "狂乱 Hey Kids!!",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 560108,
+   "name": "MEMORIA",
+   "artist": "藍井エイル",
+   "album": "MEMORIA",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 28949434,
+   "name": "IGNITE",
+   "artist": "藍井エイル",
+   "album": "IGNITE",
+   "fee": 1,
+   "rank": 61
+  },
+  {
+   "id": 471795,
+   "name": "My Soul, Your Beats!",
+   "artist": "Lia",
+   "album": "Angel Beats! Original SoundTrack",
+   "fee": 8,
+   "rank": 62
+  },
+  {
+   "id": 32405870,
+   "name": "春擬き",
+   "artist": "やなぎなぎ",
+   "album": "春擬き",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 421160925,
+   "name": "青空Jumping Heart",
+   "artist": "Aqours",
+   "album": "青空Jumping Heart",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 705376,
+   "name": "irony",
+   "artist": "ClariS",
+   "album": "irony (期間生産限定盤)",
+   "fee": 0,
+   "rank": 65
+  },
+  {
+   "id": 29744626,
+   "name": "月灯り",
+   "artist": "雨宮天",
+   "album": "月灯り",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 409430903,
+   "name": "TRASH CANDY",
+   "artist": "GRANRODEO",
+   "album": "TRASH CANDY",
+   "fee": 0,
+   "rank": 67
+  },
+  {
+   "id": 488864,
+   "name": "光芒",
+   "artist": "川田まみ",
+   "album": "灼眼のシャナF SUPERIORITY SHANAIII vol.3",
+   "fee": 0,
+   "rank": 68
+  },
+  {
+   "id": 416700390,
+   "name": "ちいさな冒険者",
+   "artist": "ハンバート ハンバート",
+   "album": "FOLK",
+   "fee": 8,
+   "rank": 69
+  },
+  {
+   "id": 404543013,
+   "name": "QUESTION",
+   "artist": "渕上舞/洲崎綾/岡本信彦",
+   "album": "QUESTION",
+   "fee": 1,
+   "rank": 70
+  },
+  {
+   "id": 559760,
+   "name": "優しさの理由",
+   "artist": "ChouCho",
+   "album": "優しさの理由",
+   "fee": 1,
+   "rank": 71
+  },
+  {
+   "id": 705331,
+   "name": "コネクト",
+   "artist": "ClariS",
+   "album": "コネクト",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 30284550,
+   "name": "カラフル。",
+   "artist": "沢井美空",
+   "album": "カラフル。",
+   "fee": 1,
+   "rank": 73
+  },
+  {
+   "id": 830775,
+   "name": "サムライハート(Some Like It Hot!!)",
+   "artist": "SPYAIR",
+   "album": "サムライハート(Some Like It Hot!!)",
+   "fee": 1,
+   "rank": 74
+  },
+  {
+   "id": 461332138,
+   "name": "ガヴリールドロップキック",
+   "artist": "富田美憂/大西沙織/大空直美",
+   "album": "TVアニメ「ガヴリールドロップアウト」オープニングテーマ「ガヴリールドロップキック」 歌：ガヴリール（CV：富田美憂）、ヴィーネ（CV：大西沙織）、 　　サターニャ（CV：大空直美）、ラフィエル（CV：花澤香菜）",
+   "fee": 1,
+   "rank": 75
+  },
+  {
+   "id": 31967343,
+   "name": "恋は渾沌の隷也",
+   "artist": "後ろから這いより隊G",
+   "album": "『這いよれ! ニャル子さん』ベストセレクションミニアルバム「邪選曲たち」",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 28427359,
+   "name": "Sparkling Daydream",
+   "artist": "ZAQ",
+   "album": "NOISY Lab.",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 26512245,
+   "name": "ゆりゆららららゆるゆり大事件",
+   "artist": "七森中☆ごらく部",
+   "album": "YURUYURI♪1st.Series Best Album 「ゆるゆりずむ♪」",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 27736272,
+   "name": "PSI-missing",
+   "artist": "川田まみ",
+   "album": "とある魔術の楽曲目録",
+   "fee": 1,
+   "rank": 79
+  },
+  {
+   "id": 756580,
+   "name": "oblivious",
+   "artist": "Kalafina",
+   "album": "Seventh Heaven",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 33728002,
+   "name": "ワンダーステラ",
+   "artist": "fhána",
+   "album": "ワンダーステラ",
+   "fee": 8,
+   "rank": 81
+  },
+  {
+   "id": 28481582,
+   "name": "fallen down",
+   "artist": "早見沙織",
+   "album": "そらのおとしもの ～エターナル・イカロス～ そらのおとしものFinal 永遠の私の鳥籠(エターナルマイマスター) 上映記念アルバム",
+   "fee": 0,
+   "rank": 82
+  },
+  {
+   "id": 28578948,
+   "name": "楽園PROJECT",
+   "artist": "Ray",
+   "album": "楽園PROJECT",
+   "fee": 0,
+   "rank": 83
+  },
+  {
+   "id": 867227,
+   "name": "空想メソロギヰ",
+   "artist": "妖精帝國",
+   "album": "空想メソロギヰ",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 401382175,
+   "name": "Checkmate!?",
+   "artist": "MICHI",
+   "album": "Checkmate!?",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 32823239,
+   "name": "曖昧ヘルツ",
+   "artist": "東山奈央/花澤香菜/小松未可子",
+   "album": "曖昧ヘルツ / TrIGgER",
+   "fee": 0,
+   "rank": 86
+  },
+  {
+   "id": 680409,
+   "name": "覚醒ヒロイズム~THE HERO WITHOUT A “NAME”~",
+   "artist": "アンティック-珈琲店-",
+   "album": "覚醒ヒロイズム〜THE HERO WITHOUT A \"NAME\"〜",
+   "fee": 1,
+   "rank": 87
+  },
+  {
+   "id": 31356395,
+   "name": "ZERO",
+   "artist": "小野賢章",
+   "album": "ZERO",
+   "fee": 0,
+   "rank": 88
+  },
+  {
+   "id": 651241,
+   "name": "Zzz",
+   "artist": "佐咲紗花",
+   "album": "Zzz",
+   "fee": 0,
+   "rank": 89
+  },
+  {
+   "id": 41666671,
+   "name": "a-gain",
+   "artist": "Ray",
+   "album": "a-gain",
+   "fee": 1,
+   "rank": 90
+  },
+  {
+   "id": 28949232,
+   "name": "BRIGHT STREAM",
+   "artist": "Iron Attack!",
+   "album": "ARTEMIS",
+   "fee": 0,
+   "rank": 91
+  },
+  {
+   "id": 620590,
+   "name": "My Secret",
+   "artist": "水野佐彩",
+   "album": "My Secret",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 609829,
+   "name": "Chase the world",
+   "artist": "May'n",
+   "album": "Chase the world",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 22709627,
+   "name": "ブラック★ロックシューター",
+   "artist": "supercell/初音ミク",
+   "album": "Supercell",
+   "fee": 0,
+   "rank": 94
+  },
+  {
+   "id": 30854596,
+   "name": "Rising Hope",
+   "artist": "LiSA",
+   "album": "Launcher",
+   "fee": 8,
+   "rank": 95
+  },
+  {
+   "id": 609891,
+   "name": "Scarlet Ballet",
+   "artist": "May'n",
+   "album": "Scarlet Ballet",
+   "fee": 8,
+   "rank": 96
+  },
+  {
+   "id": 22677433,
+   "name": "千本桜",
+   "artist": "黒うさP/初音ミク",
+   "album": "初音ミク 5thバースデーベスト ～impacts～",
+   "fee": 0,
+   "rank": 97
+  }
+ ]
+}

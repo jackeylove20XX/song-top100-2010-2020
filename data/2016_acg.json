@@ -1,0 +1,778 @@
+{
+ "year": 2016,
+ "cat": "acg",
+ "pid": 569962914,
+ "pname": "【iTunes】2016 日本动漫 OP&ED&IN top100",
+ "creator": "Ud-w-bU",
+ "fetched": 96,
+ "tracks": [
+  {
+   "id": 426881506,
+   "name": "なんでもないや (movie ver.)",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 1
+  },
+  {
+   "id": 426881503,
+   "name": "スパークル (movie ver.)",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 426881480,
+   "name": "夢灯籠",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 3
+  },
+  {
+   "id": 407485521,
+   "name": "友よ～この先もずっと···",
+   "artist": "ケツメイシ",
+   "album": "友よ ～ この先もずっと…",
+   "fee": 1,
+   "rank": 4
+  },
+  {
+   "id": 420500278,
+   "name": "翼",
+   "artist": "藍井エイル",
+   "album": "翼(期間生産限定盤)",
+   "fee": 8,
+   "rank": 5
+  },
+  {
+   "id": 412327034,
+   "name": "一度だけの恋なら",
+   "artist": "ワルキューレ",
+   "album": "一度だけの恋なら / ルンがピカッと光ったら",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 433018439,
+   "name": "History Maker",
+   "artist": "DEAN FUJIOKA",
+   "album": "History Maker",
+   "fee": 8,
+   "rank": 7
+  },
+  {
+   "id": 41629793,
+   "name": "いけないボーダーライン",
+   "artist": "ワルキューレ",
+   "album": "いけないボーダーライン",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 413077249,
+   "name": "THE DAY",
+   "artist": "ポルノグラフィティ",
+   "album": "THE DAY",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 410654688,
+   "name": "Kabaneri Of The Iron Fortress",
+   "artist": "EGOIST",
+   "album": "KABANERI OF THE IRON FORTRESS",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 435552097,
+   "name": "RAGE OF DUST",
+   "artist": "SPYAIR",
+   "album": "RAGE OF DUST (通常盤)",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 406716925,
+   "name": "Re:Re: (Single ver.)",
+   "artist": "ASIAN KUNG-FU GENERATION",
+   "album": "Re:Re:",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 413961906,
+   "name": "STYX HELIX",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」エンディングテーマ「STYX HELIX」 歌：MYTH ＆ ROID 読み：STYX HELIX＝ステュクス ヘリックス",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 41654855,
+   "name": "全力バタンキュー",
+   "artist": "A応P",
+   "album": "全力バタンキュー",
+   "fee": 0,
+   "rank": 14
+  },
+  {
+   "id": 409872504,
+   "name": "ninelie",
+   "artist": "Aimer/EGOIST",
+   "album": "ninelie EP",
+   "fee": 8,
+   "rank": 15
+  },
+  {
+   "id": 405599967,
+   "name": "Survivor",
+   "artist": "BLUE ENCOUNT",
+   "album": "Survivor",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 426852028,
+   "name": "Paradisus-Paradoxum",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」後期オープニングテーマ「Paradisus-Paradoxum」 歌：MYTH ＆ ROID ※読み：Paradisus-Paradoxum＝パラディスス　パラドクスム",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 419238096,
+   "name": "恋! ハレイション THE WAR～album version～",
+   "artist": "ワルキューレ",
+   "album": "Walküre Attack!",
+   "fee": 0,
+   "rank": 18
+  },
+  {
+   "id": 423314373,
+   "name": "黒い猫の歌",
+   "artist": "back number",
+   "album": "黒い猫の歌",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 421149002,
+   "name": "SAKURAスキップ",
+   "artist": "高田憂希/山口愛/戸田めぐみ",
+   "album": "TVアニメ「NEW GAME!」オープニングテーマ「SAKURAステップ」 歌：fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美） ※読み：fourfolium＝フォーフォリウム",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 421160925,
+   "name": "青空Jumping Heart",
+   "artist": "Aqours",
+   "album": "青空Jumping Heart",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 424264952,
+   "name": "絶対零度θノヴァティック",
+   "artist": "ワルキューレ",
+   "album": "絶対零度θノヴァティック/破滅の純情",
+   "fee": 0,
+   "rank": 22
+  },
+  {
+   "id": 412327035,
+   "name": "ルンがピカッと光ったら",
+   "artist": "ワルキューレ",
+   "album": "一度だけの恋なら / ルンがピカッと光ったら",
+   "fee": 8,
+   "rank": 23
+  },
+  {
+   "id": 441116287,
+   "name": "茜さす",
+   "artist": "Aimer",
+   "album": "茜さす/everlasting snow",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 412178711,
+   "name": "Redo",
+   "artist": "鈴木このみ",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」オープニングテーマ「Redo」【通常盤】 歌：鈴木このみ ※読み：Redo＝リドゥ",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 417833566,
+   "name": "Into the Sky",
+   "artist": "Tielle/SawanoHiroyuki[nZk]",
+   "album": "Into the Sky EP",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 412327884,
+   "name": "High Free Spirits",
+   "artist": "TrySail",
+   "album": "High Free Spirits",
+   "fee": 8,
+   "rank": 27
+  },
+  {
+   "id": 442589015,
+   "name": "You Only Live Once",
+   "artist": "羽多野渉",
+   "album": "You Only Live Once",
+   "fee": 0,
+   "rank": 28
+  },
+  {
+   "id": 419238089,
+   "name": "僕らの戦場",
+   "artist": "ワルキューレ",
+   "album": "Walküre Attack!",
+   "fee": 0,
+   "rank": 29
+  },
+  {
+   "id": 420922556,
+   "name": "ポストに声を投げ入れて",
+   "artist": "YUKI",
+   "album": "ポストに声を投げ入れて",
+   "fee": 1,
+   "rank": 30
+  },
+  {
+   "id": 424262992,
+   "name": "破滅の純情",
+   "artist": "ワルキューレ",
+   "album": "絶対零度θノヴァティック/破滅の純情",
+   "fee": 0,
+   "rank": 31
+  },
+  {
+   "id": 404182359,
+   "name": "それは小さな光のような",
+   "artist": "さユり",
+   "album": "それは小さな光のような (期間生産限定盤)",
+   "fee": 8,
+   "rank": 32
+  },
+  {
+   "id": 41645816,
+   "name": "GATE Ⅱ ~世界を超えて~",
+   "artist": "岸田教団＆THE明星ロケッツ",
+   "album": "GATE Ⅱ ~世界を超えて~",
+   "fee": 0,
+   "rank": 33
+  },
+  {
+   "id": 401382131,
+   "name": "Naked Dive",
+   "artist": "SCREEN mode",
+   "album": "Naked Dive",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 411349020,
+   "name": "Crazy Noisy Bizarre Town",
+   "artist": "THE DU",
+   "album": "Crazy Noisy Bizarre Town",
+   "fee": 0,
+   "rank": 35
+  },
+  {
+   "id": 419681324,
+   "name": "怒りをくれよ",
+   "artist": "GLIM SPANKY",
+   "album": "Next One",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 427142171,
+   "name": "風ノ唄",
+   "artist": "FLOW",
+   "album": "「風ノ唄 / BURN」Special Edition",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 410821967,
+   "name": "COOLEST",
+   "artist": "カスタマイZ",
+   "album": "COOLEST",
+   "fee": 0,
+   "rank": 38
+  },
+  {
+   "id": 414670072,
+   "name": "The Asterisk War",
+   "artist": "西沢幸奏",
+   "album": "The Asterisk War",
+   "fee": 8,
+   "rank": 39
+  },
+  {
+   "id": 418602075,
+   "name": "シャンランラン feat.96猫",
+   "artist": "miwa/96猫",
+   "album": "Princess(期間生産限定アニメ盤)",
+   "fee": 0,
+   "rank": 40
+  },
+  {
+   "id": 448316055,
+   "name": "アンサー",
+   "artist": "BUMP OF CHICKEN",
+   "album": "アンサー",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 420154399,
+   "name": "STARTING NOW!",
+   "artist": "水樹奈々",
+   "album": "STARTING NOW!",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 405079762,
+   "name": "FLY HIGH!!",
+   "artist": "BURNOUT SYNDROMES",
+   "album": "FLY HIGH!!",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 41645636,
+   "name": "fantastic dreamer",
+   "artist": "Machico",
+   "album": "fantastic dreamer",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 419238092,
+   "name": "GIRAFFE BLUES",
+   "artist": "ワルキューレ",
+   "album": "Walküre Attack!",
+   "fee": 0,
+   "rank": 45
+  },
+  {
+   "id": 412951767,
+   "name": "Knew day",
+   "artist": "Ayaka Tachibana",
+   "album": "TVアニメ「灰と幻想のグリムガル」 CD-BOX『Grimgar, Ashes and Illusions \"BEST\"』",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 442869793,
+   "name": "夢のありか",
+   "artist": "ナオト・インティライミ",
+   "album": "夢のありか",
+   "fee": 1,
+   "rank": 47
+  },
+  {
+   "id": 405242079,
+   "name": "KNOW KNOW KNOW",
+   "artist": "DOES",
+   "album": "KNOW KNOW KNOW",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 412327882,
+   "name": "デストピア",
+   "artist": "GLAY",
+   "album": "デストピア",
+   "fee": 0,
+   "rank": 49
+  },
+  {
+   "id": 420922554,
+   "name": "ブラッドサーキュレーター",
+   "artist": "ASIAN KUNG-FU GENERATION",
+   "album": "ブラッドサーキュレーター",
+   "fee": 1,
+   "rank": 50
+  },
+  {
+   "id": 431610015,
+   "name": "恋をしたのは",
+   "artist": "aiko",
+   "album": "恋をしたのは",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 436698418,
+   "name": "Great Days",
+   "artist": "青木カレン/長谷川大祐",
+   "album": "Great Days",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 402073870,
+   "name": "夜は眠れるかい?",
+   "artist": "flumpool",
+   "album": "夜は眠れるかい? 通常盤",
+   "fee": 1,
+   "rank": 53
+  },
+  {
+   "id": 419238093,
+   "name": "Walküre Attack!",
+   "artist": "ワルキューレ",
+   "album": "Walküre Attack!",
+   "fee": 0,
+   "rank": 54
+  },
+  {
+   "id": 424264956,
+   "name": "ピカチュウのうた",
+   "artist": "大谷育江",
+   "album": "ピカチュウのうた",
+   "fee": 0,
+   "rank": 55
+  },
+  {
+   "id": 423314244,
+   "name": "chase",
+   "artist": "batta",
+   "album": "chase",
+   "fee": 0,
+   "rank": 56
+  },
+  {
+   "id": 400579260,
+   "name": "羽",
+   "artist": "稲葉浩志",
+   "album": "羽",
+   "fee": 1,
+   "rank": 57
+  },
+  {
+   "id": 426850013,
+   "name": "ユメ語るよりユメ歌おう",
+   "artist": "Aqours",
+   "album": "ユメ語るよりユメ歌おう",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 413812672,
+   "name": "KUMAMIKO DANCING",
+   "artist": "安元洋貴/日岡なつみ",
+   "album": "TVアニメ「くまみこ」エンディングテーマ「KUMAMIKO DANCING」 歌：雨宿まち（CV:日岡なつみ）＆クマ井ナツ（CV:安元洋貴）ｆｅａｔ．熊出村のみなさん",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 419238091,
+   "name": "AXIA～ダイスキでダイキライ～",
+   "artist": "ワルキューレ",
+   "album": "Walküre Attack!",
+   "fee": 0,
+   "rank": 60
+  },
+  {
+   "id": 423407096,
+   "name": "決めたよHand in Hand",
+   "artist": "伊波杏樹/逢田梨香子/斉藤朱夏",
+   "album": "決めたよHand in Hand / ダイスキだったらダイジョウブ!",
+   "fee": 0,
+   "rank": 61
+  },
+  {
+   "id": 427142124,
+   "name": "Brave Freak Out",
+   "artist": "LiSA",
+   "album": "Brave Freak Out (期間生産限定盤)",
+   "fee": 8,
+   "rank": 62
+  },
+  {
+   "id": 422790401,
+   "name": "カミイロアワセ",
+   "artist": "binaria",
+   "album": "カミイロアワセ",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 426194357,
+   "name": "DEAD OR LIE",
+   "artist": "黒崎真音/TRUSTRICK",
+   "album": "DEAD OR LIE",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 417859429,
+   "name": "Next 2 U - Euc",
+   "artist": "naNami/SawanoHiroyuki[nZk]",
+   "album": "Into the Sky EP",
+   "fee": 1,
+   "rank": 65
+  },
+  {
+   "id": 426502173,
+   "name": "Stay Alive",
+   "artist": "高橋李依",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」 歌：エミリア（CV：高橋李依）",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 428375160,
+   "name": "99",
+   "artist": "MOB CHOIR",
+   "album": "99",
+   "fee": 8,
+   "rank": 67
+  },
+  {
+   "id": 406096033,
+   "name": "空へ",
+   "artist": "山崎まさよし",
+   "album": "空へ",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 425015139,
+   "name": "blaze",
+   "artist": "Kalafina",
+   "album": "blaze",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 41654760,
+   "name": "white forces",
+   "artist": "fripSide",
+   "album": "white forces",
+   "fee": 1,
+   "rank": 70
+  },
+  {
+   "id": 420500547,
+   "name": "天鏡のアルデラミン",
+   "artist": "岸田教団＆THE明星ロケッツ",
+   "album": "天鏡のアルデラミン",
+   "fee": 0,
+   "rank": 71
+  },
+  {
+   "id": 437290624,
+   "name": "心魂の在処",
+   "artist": "新垣樽助/泰勇気/山下誠一郎",
+   "album": "『刀剣乱舞-花丸-』歌詠集 其の二",
+   "fee": 0,
+   "rank": 72
+  },
+  {
+   "id": 443277028,
+   "name": "恋と浄土の八重桜",
+   "artist": "入江玲於奈/斉藤壮馬/山下誠一郎",
+   "album": "『刀剣乱舞-花丸-』歌詠集 其の四",
+   "fee": 0,
+   "rank": 73
+  },
+  {
+   "id": 41645550,
+   "name": "Genesis",
+   "artist": "R・O・N",
+   "album": "Genesis(アニメ盤)",
+   "fee": 0,
+   "rank": 74
+  },
+  {
+   "id": 439911022,
+   "name": "想いよひとつになれ",
+   "artist": "伊波杏樹/諏訪ななか/小宮有紗",
+   "album": "想いよひとつになれ / MIRAI TICKET",
+   "fee": 1,
+   "rank": 75
+  },
+  {
+   "id": 404543010,
+   "name": "STEEL -鉄血の絆-",
+   "artist": "TRUE",
+   "album": "STEEL -鉄血の絆-",
+   "fee": 0,
+   "rank": 76
+  },
+  {
+   "id": 402070932,
+   "name": "飛竜の騎士",
+   "artist": "TRUE",
+   "album": "Flying Dragon Knight",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 41666291,
+   "name": "Harvest",
+   "artist": "(K)NoW_NAME",
+   "album": "Harvest",
+   "fee": 0,
+   "rank": 78
+  },
+  {
+   "id": 429450934,
+   "name": "clever",
+   "artist": "ClariS/GARNiDELiA",
+   "album": "clever",
+   "fee": 1,
+   "rank": 79
+  },
+  {
+   "id": 437608480,
+   "name": "光の破片",
+   "artist": "高橋優",
+   "album": "来し方行く末",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 445665050,
+   "name": "にっかり妖かし数え唄",
+   "artist": "間島淳司",
+   "album": "『刀剣乱舞-花丸-』歌詠集 其の五",
+   "fee": 0,
+   "rank": 81
+  },
+  {
+   "id": 41629255,
+   "name": "虹を編めたら",
+   "artist": "fhána",
+   "album": "虹を編めたら",
+   "fee": 8,
+   "rank": 82
+  },
+  {
+   "id": 41647018,
+   "name": "Golden Life",
+   "artist": "AKINO",
+   "album": "OVERNIGHT REVOLUTION / Golden Life",
+   "fee": 8,
+   "rank": 83
+  },
+  {
+   "id": 439915171,
+   "name": "ヒカリアレ",
+   "artist": "BURNOUT SYNDROMES",
+   "album": "檸檬",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 404184376,
+   "name": "カザキリ",
+   "artist": "やなぎなぎ",
+   "album": "カザキリ",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 41666225,
+   "name": "Love your enemies",
+   "artist": "分島花音",
+   "album": "Love your enemies",
+   "fee": 0,
+   "rank": 86
+  },
+  {
+   "id": 435289261,
+   "name": "花丸◎日和!",
+   "artist": "市来光弘/増田俊樹",
+   "album": "『刀剣乱舞-花丸-』歌詠集 其の一",
+   "fee": 0,
+   "rank": 87
+  },
+  {
+   "id": 41650071,
+   "name": "Beat your Heart",
+   "artist": "鈴木このみ",
+   "album": "Beat your Heart(初回限定盤)",
+   "fee": 0,
+   "rank": 88
+  },
+  {
+   "id": 400689268,
+   "name": "Steppin' out",
+   "artist": "FLOW",
+   "album": "Steppin' out",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 422790604,
+   "name": "WE ARE GO",
+   "artist": "UVERworld",
+   "album": "WE ARE GO/ALL ALONE (Complete Edition)",
+   "fee": 1,
+   "rank": 90
+  },
+  {
+   "id": 415786427,
+   "name": "HEROES",
+   "artist": "Brian the Sun",
+   "album": "HEROES",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 429348295,
+   "name": "夢で夜空を照らしたい",
+   "artist": "伊波杏樹/逢田梨香子/斉藤朱夏",
+   "album": "夢で夜空を照らしたい / 未熟DREAMER",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 449824737,
+   "name": "Over the Sunshine!",
+   "artist": "柿原徹也/前野智昭/増田俊樹",
+   "album": "Over The Rainbow SPECIAL FAN DISC",
+   "fee": 8,
+   "rank": 93
+  },
+  {
+   "id": 415786052,
+   "name": "はじまりの速度",
+   "artist": "三月のパンタシア",
+   "album": "はじまりの速度",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 439121994,
+   "name": "cross the line",
+   "artist": "AKINO",
+   "album": "cross the line",
+   "fee": 8,
+   "rank": 95
+  },
+  {
+   "id": 41644635,
+   "name": "天かける星",
+   "artist": "Suara",
+   "album": "天かける星",
+   "fee": 8,
+   "rank": 96
+  }
+ ]
+}

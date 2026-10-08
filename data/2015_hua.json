@@ -1,0 +1,810 @@
+{
+ "year": 2015,
+ "cat": "hua",
+ "pid": 151354449,
+ "pname": "2015年度最热歌曲",
+ "creator": "Alan77",
+ "fetched": 103,
+ "tracks": [
+  {
+   "id": 486814412,
+   "name": "沙漠骆驼",
+   "artist": "展展与罗罗",
+   "album": "沙漠骆驼",
+   "fee": 0,
+   "rank": 1
+  },
+  {
+   "id": 163333,
+   "name": "快乐的节奏",
+   "artist": "王绎龙",
+   "album": "康电情歌",
+   "fee": 0,
+   "rank": 2
+  },
+  {
+   "id": 163364,
+   "name": "摇啊摇",
+   "artist": "王绎龙",
+   "album": "摇啊摇",
+   "fee": 0,
+   "rank": 3
+  },
+  {
+   "id": 27890306,
+   "name": "意外",
+   "artist": "薛之谦",
+   "album": "意外",
+   "fee": 1,
+   "rank": 4
+  },
+  {
+   "id": 415792881,
+   "name": "刚刚好",
+   "artist": "薛之谦",
+   "album": "初学者",
+   "fee": 1,
+   "rank": 5
+  },
+  {
+   "id": 27955653,
+   "name": "你还要我怎样",
+   "artist": "薛之谦",
+   "album": "意外",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 482395261,
+   "name": "我们不一样",
+   "artist": "大壮",
+   "album": "我们不一样",
+   "fee": 0,
+   "rank": 7
+  },
+  {
+   "id": 36841107,
+   "name": "勇闯天涯(DJ王绎龙Remix-EDM)",
+   "artist": "高夫/王绎龙",
+   "album": "勇闯天涯",
+   "fee": 0,
+   "rank": 8
+  },
+  {
+   "id": 27808044,
+   "name": "丑八怪",
+   "artist": "薛之谦",
+   "album": "意外",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 474567044,
+   "name": "我害怕",
+   "artist": "薛之谦",
+   "album": "渡",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 468517654,
+   "name": "动物世界",
+   "artist": "薛之谦",
+   "album": "渡",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 471385043,
+   "name": "暧昧",
+   "artist": "薛之谦",
+   "album": "渡",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 32507039,
+   "name": "下雨了",
+   "artist": "薛之谦",
+   "album": "绅士",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 429450375,
+   "name": "来日方长",
+   "artist": "薛之谦/黄龄",
+   "album": "来日方长",
+   "fee": 8,
+   "rank": 14
+  },
+  {
+   "id": 169140,
+   "name": "几个你",
+   "artist": "薛之谦",
+   "album": "几个薛之谦",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 412902689,
+   "name": "初学者",
+   "artist": "薛之谦",
+   "album": "初学者",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 169137,
+   "name": "我知道你都知道",
+   "artist": "薛之谦",
+   "album": "几个薛之谦",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 27955652,
+   "name": "等我回家",
+   "artist": "薛之谦",
+   "album": "意外",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 27955656,
+   "name": "有没有",
+   "artist": "薛之谦",
+   "album": "意外",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 27955654,
+   "name": "其实",
+   "artist": "薛之谦",
+   "album": "意外",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 466122271,
+   "name": "高尚",
+   "artist": "薛之谦",
+   "album": "渡",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 27955658,
+   "name": "方圆几里",
+   "artist": "薛之谦",
+   "album": "意外",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 417859631,
+   "name": "我好像在哪见过你",
+   "artist": "薛之谦",
+   "album": "初学者",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 536099160,
+   "name": "不染",
+   "artist": "毛不易",
+   "album": "香蜜沉沉烬如霜 电视原声音乐专辑",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 557581476,
+   "name": "去年夏天",
+   "artist": "王大毛",
+   "album": "去年夏天",
+   "fee": 0,
+   "rank": 25
+  },
+  {
+   "id": 29722582,
+   "name": "一百万个可能",
+   "artist": "Christine Welch",
+   "album": "一百万个可能",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 440208476,
+   "name": "That Girl",
+   "artist": "Olly Murs",
+   "album": "24 HRS (Deluxe)",
+   "fee": 1,
+   "rank": 27
+  },
+  {
+   "id": 546279760,
+   "name": "目不转睛",
+   "artist": "王以太",
+   "album": "Feel & Sight",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 1296583188,
+   "name": "星球坠落 (Live)",
+   "artist": "艾热 AIR/李佳隆",
+   "album": "中国新说唱 第3期",
+   "fee": 1,
+   "rank": 29
+  },
+  {
+   "id": 1294899063,
+   "name": "陷阱",
+   "artist": "王北车",
+   "album": "陷阱",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 208958,
+   "name": "越来越不懂",
+   "artist": "蔡健雅",
+   "album": "Close To 蔡健雅 Original X Tanya Demo",
+   "fee": 1,
+   "rank": 31
+  },
+  {
+   "id": 569214126,
+   "name": "可能否",
+   "artist": "木小雅",
+   "album": "可能否",
+   "fee": 1,
+   "rank": 32
+  },
+  {
+   "id": 571338279,
+   "name": "往后余生",
+   "artist": "王贰浪",
+   "album": "往后余生",
+   "fee": 1,
+   "rank": 33
+  },
+  {
+   "id": 574566207,
+   "name": "盗将行",
+   "artist": "花粥/马雨阳",
+   "album": "粥请客（二）",
+   "fee": 8,
+   "rank": 34
+  },
+  {
+   "id": 1305366556,
+   "name": "寒鸦少年",
+   "artist": "华晨宇",
+   "album": "寒鸦少年",
+   "fee": 8,
+   "rank": 35
+  },
+  {
+   "id": 192400,
+   "name": "少女的祈祷(Live)",
+   "artist": "张智霖",
+   "album": "十指紧扣",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 320950,
+   "name": "上海滩",
+   "artist": "叶丽仪",
+   "album": "上海滩",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 178841,
+   "name": "大侠霍元甲(万里长城永不倒)",
+   "artist": "叶振棠",
+   "album": "百份百经典电视剧集金曲精选",
+   "fee": 1,
+   "rank": 38
+  },
+  {
+   "id": 194443,
+   "name": "岁月无情",
+   "artist": "郑少秋",
+   "album": "大时代",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 30375320,
+   "name": "你怎么舍得让我掉眼泪 (加快)",
+   "artist": "灵心儿",
+   "album": "Dj串烧-2015灵心儿高音质劲爆全中文伤感情歌大碟",
+   "fee": 0,
+   "rank": 40
+  },
+  {
+   "id": 27646205,
+   "name": "安和桥",
+   "artist": "宋冬野",
+   "album": "安和桥北",
+   "fee": 8,
+   "rank": 41
+  },
+  {
+   "id": 28815250,
+   "name": "平凡之路",
+   "artist": "朴树",
+   "album": "猎户星座",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 35090764,
+   "name": "먼저 말해줘 (Farewell)",
+   "artist": "太妍",
+   "album": "I - The 1st Mini Album",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 27678655,
+   "name": "李白",
+   "artist": "李荣浩",
+   "album": "模特",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 27731176,
+   "name": "模特",
+   "artist": "李荣浩",
+   "album": "模特",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 299604,
+   "name": "给自己的情书",
+   "artist": "王菲",
+   "album": "寓言",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 25906124,
+   "name": "不要说话",
+   "artist": "陈奕迅",
+   "album": "不想放手",
+   "fee": 1,
+   "rank": 47
+  },
+  {
+   "id": 3413895,
+   "name": "Liekkas",
+   "artist": "Sofia Jannok",
+   "album": "Assogattis: By The Embers",
+   "fee": 0,
+   "rank": 48
+  },
+  {
+   "id": 27804029,
+   "name": "走在冷风中",
+   "artist": "刘思涵",
+   "album": "拥抱你",
+   "fee": 0,
+   "rank": 49
+  },
+  {
+   "id": 445703207,
+   "name": "易燃易爆炸",
+   "artist": "华晨宇",
+   "album": "天籁之战 第九期",
+   "fee": 0,
+   "rank": 50
+  },
+  {
+   "id": 35090765,
+   "name": "I (Inst.)",
+   "artist": "太妍",
+   "album": "I - The 1st Mini Album",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 35090763,
+   "name": "스트레스 (Stress)",
+   "artist": "太妍",
+   "album": "I - The 1st Mini Album",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 31877471,
+   "name": "夜夜夜夜 (Live)",
+   "artist": "萧煌奇",
+   "album": "我是歌手第三季 第12期",
+   "fee": 1,
+   "rank": 53
+  },
+  {
+   "id": 1293886117,
+   "name": "年少有为",
+   "artist": "李荣浩",
+   "album": "耳朵",
+   "fee": 1,
+   "rank": 54
+  },
+  {
+   "id": 553755659,
+   "name": "可不可以",
+   "artist": "张紫豪",
+   "album": "可不可以",
+   "fee": 1,
+   "rank": 55
+  },
+  {
+   "id": 30953009,
+   "name": "See You Again",
+   "artist": "Wiz Khalifa/Charlie Puth",
+   "album": "Furious 7: Original Motion Picture Soundtrack (Deluxe)",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 32507038,
+   "name": "演员",
+   "artist": "薛之谦",
+   "album": "绅士",
+   "fee": 1,
+   "rank": 57
+  },
+  {
+   "id": 31473269,
+   "name": "默",
+   "artist": "那英",
+   "album": "默",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 29431066,
+   "name": "奇妙能力歌",
+   "artist": "陈粒",
+   "album": "未收录的单曲",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 29966565,
+   "name": "Love Me Like You Do",
+   "artist": "Ellie Goulding",
+   "album": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 35403523,
+   "name": "陪你度过漫长岁月",
+   "artist": "陈奕迅",
+   "album": "陪你度过漫长岁月",
+   "fee": 0,
+   "rank": 61
+  },
+  {
+   "id": 31654343,
+   "name": "不将就",
+   "artist": "李荣浩",
+   "album": "有理想",
+   "fee": 1,
+   "rank": 62
+  },
+  {
+   "id": 35470197,
+   "name": "一次就好",
+   "artist": "杨宗纬",
+   "album": "夏洛特烦恼 电影原声带",
+   "fee": 0,
+   "rank": 63
+  },
+  {
+   "id": 30841076,
+   "name": "I Really Like You",
+   "artist": "Carly Rae Jepsen",
+   "album": "I Really Like You",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 35847388,
+   "name": "Hello",
+   "artist": "Adele",
+   "album": "Hello",
+   "fee": 1,
+   "rank": 65
+  },
+  {
+   "id": 33162226,
+   "name": "悟空",
+   "artist": "戴荃",
+   "album": "悟空 (Live版)",
+   "fee": 0,
+   "rank": 66
+  },
+  {
+   "id": 30612793,
+   "name": "多远都要在一起",
+   "artist": "G.E.M.邓紫棋",
+   "album": "新的心跳",
+   "fee": 1,
+   "rank": 67
+  },
+  {
+   "id": 32619064,
+   "name": "年轮",
+   "artist": "张碧晨",
+   "album": "花千骨 电视原声带",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 32192436,
+   "name": "绅士",
+   "artist": "薛之谦",
+   "album": "绅士",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 34228719,
+   "name": "What Do You Mean?",
+   "artist": "Justin Bieber",
+   "album": "What Do You Mean?",
+   "fee": 1,
+   "rank": 70
+  },
+  {
+   "id": 31789317,
+   "name": "LOSER",
+   "artist": "BIGBANG",
+   "album": "M",
+   "fee": 1,
+   "rank": 71
+  },
+  {
+   "id": 30431376,
+   "name": "易燃易爆炸",
+   "artist": "陈粒",
+   "album": "如也",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 32924132,
+   "name": "红颜旧",
+   "artist": "刘涛",
+   "album": "琅琊榜 电视原声带",
+   "fee": 0,
+   "rank": 73
+  },
+  {
+   "id": 34586075,
+   "name": "清风徐来",
+   "artist": "王菲",
+   "album": "清风徐来",
+   "fee": 1,
+   "rank": 74
+  },
+  {
+   "id": 34916642,
+   "name": "夏洛特烦恼",
+   "artist": "金志文",
+   "album": "夏洛特烦恼 电影原声带",
+   "fee": 0,
+   "rank": 75
+  },
+  {
+   "id": 32922450,
+   "name": "IF YOU",
+   "artist": "BIGBANG",
+   "album": "D",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 29535531,
+   "name": "历历万乡",
+   "artist": "陈粒",
+   "album": "未收录的单曲",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 35528482,
+   "name": "一半",
+   "artist": "薛之谦",
+   "album": "一半",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 36024806,
+   "name": "再见（good bye）",
+   "artist": "G.E.M.邓紫棋",
+   "album": "新的心跳",
+   "fee": 1,
+   "rank": 79
+  },
+  {
+   "id": 34998961,
+   "name": "咱们屯里人(粤语版)",
+   "artist": "罗凯楠",
+   "album": "夏洛特烦恼 电影原声带",
+   "fee": 0,
+   "rank": 80
+  },
+  {
+   "id": 34834746,
+   "name": "有个爱你的人不容易",
+   "artist": "那英",
+   "album": "夏洛特烦恼 电影原声带",
+   "fee": 0,
+   "rank": 81
+  },
+  {
+   "id": 30854130,
+   "name": "Lean On",
+   "artist": "Major Lazer/DJ Snake/MØ",
+   "album": "Lean On",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 31152310,
+   "name": "种种",
+   "artist": "陈粒",
+   "album": "未收录的单曲",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 30621954,
+   "name": "当你老了",
+   "artist": "莫文蔚",
+   "album": "当你老了",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 35090760,
+   "name": "I (feat. Verbal Jint)",
+   "artist": "太妍/Verbal Jint",
+   "album": "I - The 1st Mini Album",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 32835566,
+   "name": "从前的我",
+   "artist": "陈洁仪",
+   "album": "从前的我",
+   "fee": 0,
+   "rank": 86
+  },
+  {
+   "id": 34228130,
+   "name": "剩下的盛夏",
+   "artist": "TFBOYS/嘻游记",
+   "album": "大梦想家",
+   "fee": 0,
+   "rank": 87
+  },
+  {
+   "id": 31445772,
+   "name": "理想三旬",
+   "artist": "陈鸿宇",
+   "album": "浓烟下的诗歌电台",
+   "fee": 8,
+   "rank": 88
+  },
+  {
+   "id": 36539010,
+   "name": "Sleep Alone",
+   "artist": "陈奕迅",
+   "album": "Sleep Alone",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 32835565,
+   "name": "国王与乞丐",
+   "artist": "华晨宇/杨宗纬",
+   "album": "异类",
+   "fee": 8,
+   "rank": 90
+  },
+  {
+   "id": 32785586,
+   "name": "五环之歌",
+   "artist": "岳云鹏/MC HotDog 热狗",
+   "album": "五环之歌",
+   "fee": 0,
+   "rank": 91
+  },
+  {
+   "id": 30212890,
+   "name": "Worth It",
+   "artist": "Fifth Harmony/Kid Ink",
+   "album": "Reflection",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 35847559,
+   "name": "Sorry",
+   "artist": "Justin Bieber",
+   "album": "Sorry",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 32317560,
+   "name": "不可说",
+   "artist": "霍建华/赵丽颖",
+   "album": "花千骨 电视原声带",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 36229051,
+   "name": "野子",
+   "artist": "苏运莹",
+   "album": "第二季中国好歌曲十大金曲",
+   "fee": 1,
+   "rank": 95
+  },
+  {
+   "id": 31090820,
+   "name": "Stitches",
+   "artist": "Shawn Mendes",
+   "album": "Handwritten (Deluxe)",
+   "fee": 0,
+   "rank": 96
+  },
+  {
+   "id": 32507839,
+   "name": "Can't Feel My Face",
+   "artist": "The Weeknd",
+   "album": "Can’t Feel My Face",
+   "fee": 1,
+   "rank": 97
+  },
+  {
+   "id": 31654001,
+   "name": "Reset",
+   "artist": "Tiger JK/JINSIL",
+   "album": "후아유 - 학교 2015 OST Part 1",
+   "fee": 8,
+   "rank": 98
+  },
+  {
+   "id": 33715027,
+   "name": "Let's not fall in love",
+   "artist": "BIGBANG",
+   "album": "E",
+   "fee": 1,
+   "rank": 99
+  },
+  {
+   "id": 31010794,
+   "name": "I Will Return",
+   "artist": "Skylar Grey",
+   "album": "Furious 7: Original Motion Picture Soundtrack (Deluxe)",
+   "fee": 1,
+   "rank": 100
+  }
+ ]
+}

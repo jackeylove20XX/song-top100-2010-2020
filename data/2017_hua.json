@@ -1,0 +1,810 @@
+{
+ "year": 2017,
+ "cat": "hua",
+ "pid": 2131586557,
+ "pname": "2017年度最热新歌TOP100",
+ "creator": "淼淼淼淼丶淼淼",
+ "fetched": 100,
+ "tracks": [
+  {
+   "id": 1412242872,
+   "name": "这就是爱吗",
+   "artist": "十豆彡",
+   "album": "这就是爱吗",
+   "fee": 8,
+   "rank": 1
+  },
+  {
+   "id": 1460682363,
+   "name": "爱，存在",
+   "artist": "卢卢快闭嘴",
+   "album": "爱，存在",
+   "fee": 8,
+   "rank": 2
+  },
+  {
+   "id": 1388608541,
+   "name": "体面 (Live)",
+   "artist": "于文文",
+   "album": "聚划算99划算盛典Live",
+   "fee": 0,
+   "rank": 3
+  },
+  {
+   "id": 33911781,
+   "name": "secret base ~君がくれたもの~ (10 years after Ver.)",
+   "artist": "茅野愛衣/戸松遥/早見沙織",
+   "album": "secret base ～君がくれたもの～",
+   "fee": 1,
+   "rank": 4
+  },
+  {
+   "id": 518781004,
+   "name": "生僻字",
+   "artist": "陈柯宇",
+   "album": "生僻字",
+   "fee": 1,
+   "rank": 5
+  },
+  {
+   "id": 523251118,
+   "name": "说散就散",
+   "artist": "袁娅维TIA RAY",
+   "album": "说散就散",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 1311319058,
+   "name": "东西",
+   "artist": "林俊呈",
+   "album": "东西",
+   "fee": 0,
+   "rank": 7
+  },
+  {
+   "id": 1382596189,
+   "name": "嚣张",
+   "artist": "en（王翊恩）",
+   "album": "嚣张",
+   "fee": 0,
+   "rank": 8
+  },
+  {
+   "id": 1386259535,
+   "name": "飞",
+   "artist": "王恩信Est/二胖u（王訫）",
+   "album": "飞",
+   "fee": 8,
+   "rank": 9
+  },
+  {
+   "id": 210045,
+   "name": "看我72变",
+   "artist": "蔡依林",
+   "album": "看我72变",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 504646547,
+   "name": "追梦赤子心",
+   "artist": "鹿晗",
+   "album": "追梦赤子心",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 167942,
+   "name": "王妃",
+   "artist": "萧敬腾",
+   "album": "王妃",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 307003,
+   "name": "阳光总在风雨后",
+   "artist": "许美静",
+   "album": "都是夜归人",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 452601948,
+   "name": "哈尼宝贝",
+   "artist": "南征北战NZBZ",
+   "album": "6415",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 1330348068,
+   "name": "起风了",
+   "artist": "冯沁苑(买辣椒也用券)",
+   "album": "起风了",
+   "fee": 8,
+   "rank": 15
+  },
+  {
+   "id": 1411784809,
+   "name": "欧若拉",
+   "artist": "夏苏烦",
+   "album": "欧若拉",
+   "fee": 8,
+   "rank": 16
+  },
+  {
+   "id": 1404885266,
+   "name": "下山",
+   "artist": "徐泽（要不要买菜）",
+   "album": "下山",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 1400256289,
+   "name": "你的答案",
+   "artist": "阿冗",
+   "album": "你的答案",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 25713022,
+   "name": "我的歌声里",
+   "artist": "曲婉婷",
+   "album": "Everything In The World (白金庆功版)",
+   "fee": 8,
+   "rank": 19
+  },
+  {
+   "id": 29722582,
+   "name": "一百万个可能",
+   "artist": "Christine Welch",
+   "album": "一百万个可能",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 28031119,
+   "name": "Let It Go (From \"Frozen\"/Soundtrack Version)",
+   "artist": "Idina Menzel",
+   "album": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 191268,
+   "name": "仰望星空",
+   "artist": "张杰",
+   "album": "明天过后",
+   "fee": 8,
+   "rank": 22
+  },
+  {
+   "id": 402070513,
+   "name": "River",
+   "artist": "Bishop Briggs",
+   "album": "River",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 31473269,
+   "name": "默",
+   "artist": "那英",
+   "album": "默",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 1363948882,
+   "name": "世间美好与你环环相扣",
+   "artist": "柏松",
+   "album": "听闻余生",
+   "fee": 8,
+   "rank": 25
+  },
+  {
+   "id": 4173190,
+   "name": "Take Me To Your Heart",
+   "artist": "Michael Learns To Rock",
+   "album": "Take Me to Your Heart",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 410801653,
+   "name": "啷个哩个啷",
+   "artist": "鹏泊",
+   "album": "啷个哩个啷",
+   "fee": 1,
+   "rank": 27
+  },
+  {
+   "id": 25714277,
+   "name": "热情的沙漠 (Live)",
+   "artist": "羽·泉",
+   "album": "我是歌手第一季 第4期",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 554245069,
+   "name": "好像掉进爱情海里  (对唱版)",
+   "artist": "Rosy赵露思/谷嘉诚",
+   "album": "哦！我的皇帝陛下 原声专辑",
+   "fee": 1,
+   "rank": 29
+  },
+  {
+   "id": 1313558186,
+   "name": "一曲相思",
+   "artist": "半阳",
+   "album": "一曲相思",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 167876,
+   "name": "有何不可",
+   "artist": "许嵩",
+   "album": "自定义",
+   "fee": 1,
+   "rank": 31
+  },
+  {
+   "id": 254574,
+   "name": "后来",
+   "artist": "刘若英",
+   "album": "我等你",
+   "fee": 1,
+   "rank": 32
+  },
+  {
+   "id": 25706282,
+   "name": "夜空中最亮的星",
+   "artist": "逃跑计划",
+   "album": "世界",
+   "fee": 1,
+   "rank": 33
+  },
+  {
+   "id": 553755659,
+   "name": "可不可以",
+   "artist": "张紫豪",
+   "album": "可不可以",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 425298905,
+   "name": "下一秒",
+   "artist": "张碧晨",
+   "album": "微微一笑很倾城 电视原声带",
+   "fee": 1,
+   "rank": 35
+  },
+  {
+   "id": 504624714,
+   "name": "青柠",
+   "artist": "徐秉龙/桃十五",
+   "album": "青柠",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 424474214,
+   "name": "微微一笑很倾城",
+   "artist": "杨洋",
+   "album": "微微一笑很倾城 电视原声带",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 33206214,
+   "name": "小幸运",
+   "artist": "田馥甄",
+   "album": "小幸运",
+   "fee": 0,
+   "rank": 38
+  },
+  {
+   "id": 526464145,
+   "name": "喜欢",
+   "artist": "阿肆",
+   "album": "喜欢",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 108468,
+   "name": "小酒窝",
+   "artist": "林俊杰/蔡卓妍",
+   "album": "JJ陆",
+   "fee": 1,
+   "rank": 40
+  },
+  {
+   "id": 108251,
+   "name": "当你",
+   "artist": "林俊杰",
+   "album": "她说 概念自选辑",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 29713754,
+   "name": "匆匆那年",
+   "artist": "王菲",
+   "album": "匆匆那年",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 209643,
+   "name": "日不落",
+   "artist": "蔡依林",
+   "album": "特务J",
+   "fee": 8,
+   "rank": 43
+  },
+  {
+   "id": 375085,
+   "name": "中国话",
+   "artist": "S.H.E",
+   "album": "Play",
+   "fee": 0,
+   "rank": 44
+  },
+  {
+   "id": 254285,
+   "name": "下个, 路口, 见",
+   "artist": "李宇春",
+   "album": "李宇春 同名专辑",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 30987293,
+   "name": "讲真的",
+   "artist": "曾惜",
+   "album": "讲真的",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 543607345,
+   "name": "BINGBIAN病变 (女声版)",
+   "artist": "鞠文娴",
+   "album": "BINGBIAN病变 (女声版)",
+   "fee": 0,
+   "rank": 47
+  },
+  {
+   "id": 516076896,
+   "name": "纸短情长",
+   "artist": "烟把儿",
+   "album": "纸短情长",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 566442496,
+   "name": "浪人琵琶",
+   "artist": "胡66",
+   "album": "浪人琵琶",
+   "fee": 0,
+   "rank": 49
+  },
+  {
+   "id": 465920905,
+   "name": "全部都是你",
+   "artist": "DP龙猪/宝楽CNBALLER/王云 Cloud Wang",
+   "album": "全部都是你",
+   "fee": 8,
+   "rank": 50
+  },
+  {
+   "id": 562594322,
+   "name": "给陌生的你听",
+   "artist": "G.G张思源",
+   "album": "给陌生的你听",
+   "fee": 8,
+   "rank": 51
+  },
+  {
+   "id": 476513774,
+   "name": "琵琶行",
+   "artist": "奇然/沈谧仁",
+   "album": "高考必背曲目",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 539941039,
+   "name": "佛系少女",
+   "artist": "冯提莫",
+   "album": "佛系少女",
+   "fee": 0,
+   "rank": 53
+  },
+  {
+   "id": 375762,
+   "name": "Super Star",
+   "artist": "S.H.E",
+   "album": "Super Star",
+   "fee": 0,
+   "rank": 54
+  },
+  {
+   "id": 139808,
+   "name": "快乐崇拜",
+   "artist": "潘玮柏/张韶涵",
+   "album": "Wu Ha",
+   "fee": 1,
+   "rank": 55
+  },
+  {
+   "id": 1377129955,
+   "name": "一起走的幸福",
+   "artist": "段奥娟",
+   "album": "亲爱的，热爱的 影视原声带",
+   "fee": 8,
+   "rank": 56
+  },
+  {
+   "id": 526464293,
+   "name": "空空如也",
+   "artist": "任然",
+   "album": "空空如也",
+   "fee": 1,
+   "rank": 57
+  },
+  {
+   "id": 1345848098,
+   "name": "绿色",
+   "artist": "陈雪凝",
+   "album": "绿色",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 209719,
+   "name": "马德里不思议",
+   "artist": "蔡依林",
+   "album": "舞娘",
+   "fee": 8,
+   "rank": 59
+  },
+  {
+   "id": 36841951,
+   "name": "欧若拉 (Live)",
+   "artist": "张韶涵",
+   "album": "隐藏的歌手 第六期",
+   "fee": 0,
+   "rank": 60
+  },
+  {
+   "id": 209718,
+   "name": "舞娘",
+   "artist": "蔡依林",
+   "album": "舞娘",
+   "fee": 8,
+   "rank": 61
+  },
+  {
+   "id": 1399840172,
+   "name": "伤心总是难免的（DJ版）",
+   "artist": "MC九凌",
+   "album": "一个人的北京",
+   "fee": 0,
+   "rank": 62
+  },
+  {
+   "id": 1399840171,
+   "name": "一个人的北京 (DJ版)",
+   "artist": "MC九凌",
+   "album": "一个人的北京",
+   "fee": 0,
+   "rank": 63
+  },
+  {
+   "id": 1338414110,
+   "name": "月牙湾",
+   "artist": "马丹妮丫蛋蛋/沈虫虫",
+   "album": "月牙湾",
+   "fee": 0,
+   "rank": 64
+  },
+  {
+   "id": 1346101981,
+   "name": "渡我不渡她",
+   "artist": "苏谭谭/佳鹏",
+   "album": "渡我不渡她",
+   "fee": 0,
+   "rank": 65
+  },
+  {
+   "id": 1341964346,
+   "name": "你的酒馆对我打了烊",
+   "artist": "陈雪凝",
+   "album": "你的酒馆对我打了烊",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 239682,
+   "name": "蝴蝶泉边",
+   "artist": "黄雅莉",
+   "album": "崽崽",
+   "fee": 8,
+   "rank": 67
+  },
+  {
+   "id": 531295576,
+   "name": "最美的期待",
+   "artist": "周笔畅",
+   "album": "最美的期待",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 1375514229,
+   "name": "牛奶面包",
+   "artist": "杨紫/鱿小鱼",
+   "album": "亲爱的，热爱的 影视原声带",
+   "fee": 8,
+   "rank": 69
+  },
+  {
+   "id": 426852063,
+   "name": "一笑倾城",
+   "artist": "汪苏泷",
+   "album": "微微一笑很倾城 电视原声带",
+   "fee": 1,
+   "rank": 70
+  },
+  {
+   "id": 481859794,
+   "name": "齐天",
+   "artist": "华晨宇",
+   "album": "齐天",
+   "fee": 8,
+   "rank": 71
+  },
+  {
+   "id": 32619105,
+   "name": "我管你",
+   "artist": "华晨宇",
+   "album": "异类",
+   "fee": 8,
+   "rank": 72
+  },
+  {
+   "id": 554242032,
+   "name": "飞云之下",
+   "artist": "韩红/林俊杰",
+   "album": "飞云之下",
+   "fee": 1,
+   "rank": 73
+  },
+  {
+   "id": 1299550532,
+   "name": "倒数",
+   "artist": "G.E.M.邓紫棋",
+   "album": "另一个童话",
+   "fee": 1,
+   "rank": 74
+  },
+  {
+   "id": 486814412,
+   "name": "沙漠骆驼",
+   "artist": "展展与罗罗",
+   "album": "沙漠骆驼",
+   "fee": 0,
+   "rank": 75
+  },
+  {
+   "id": 165379,
+   "name": "小星星",
+   "artist": "汪苏泷",
+   "album": "慢慢懂",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 165340,
+   "name": "有点甜",
+   "artist": "汪苏泷/By2",
+   "album": "万有引力",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 557584888,
+   "name": "往后余生",
+   "artist": "马良",
+   "album": "往后余生",
+   "fee": 8,
+   "rank": 78
+  },
+  {
+   "id": 1367368790,
+   "name": "情深深雨濛濛",
+   "artist": "杨胖雨",
+   "album": "情深深雨濛濛",
+   "fee": 0,
+   "rank": 79
+  },
+  {
+   "id": 436514312,
+   "name": "成都",
+   "artist": "赵雷",
+   "album": "成都",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 452986458,
+   "name": "红昭愿",
+   "artist": "音阙诗听",
+   "album": "红昭愿",
+   "fee": 1,
+   "rank": 81
+  },
+  {
+   "id": 28815250,
+   "name": "平凡之路",
+   "artist": "朴树",
+   "album": "猎户星座",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 1379456709,
+   "name": "把孤独当做晚餐",
+   "artist": "井胧",
+   "album": "把孤独当做晚餐",
+   "fee": 0,
+   "rank": 83
+  },
+  {
+   "id": 449818741,
+   "name": "光年之外",
+   "artist": "G.E.M.邓紫棋",
+   "album": "光年之外",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 36270426,
+   "name": "来自天堂的魔鬼",
+   "artist": "G.E.M.邓紫棋",
+   "album": "新的心跳",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 1376142151,
+   "name": "无名之辈",
+   "artist": "陈雪燃",
+   "album": "亲爱的，热爱的 影视原声带",
+   "fee": 8,
+   "rank": 86
+  },
+  {
+   "id": 1349292048,
+   "name": "心如止水",
+   "artist": "Ice Paper",
+   "album": "成语接龙",
+   "fee": 1,
+   "rank": 87
+  },
+  {
+   "id": 574566207,
+   "name": "盗将行",
+   "artist": "花粥/马雨阳",
+   "album": "粥请客（二）",
+   "fee": 8,
+   "rank": 88
+  },
+  {
+   "id": 1293886117,
+   "name": "年少有为",
+   "artist": "李荣浩",
+   "album": "耳朵",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 1313354324,
+   "name": "出山",
+   "artist": "花粥/王胜娚",
+   "album": "粥请客（四）",
+   "fee": 8,
+   "rank": 90
+  },
+  {
+   "id": 412911436,
+   "name": "画 (Live Piano Session II)",
+   "artist": "G.E.M.邓紫棋",
+   "album": "再见",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 1369798757,
+   "name": "芒种",
+   "artist": "音阙诗听/赵方婧",
+   "album": "二十四节气",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 1381755293,
+   "name": "山楂树之恋",
+   "artist": "程佳佳",
+   "album": "山楂树之恋 (完整版)",
+   "fee": 8,
+   "rank": 93
+  },
+  {
+   "id": 1357785909,
+   "name": "野狼disco",
+   "artist": "宝石Gem",
+   "album": "野狼disco",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 1299550093,
+   "name": "陪我长大",
+   "artist": "段奥娟",
+   "album": "陪我长大",
+   "fee": 1,
+   "rank": 95
+  },
+  {
+   "id": 554244157,
+   "name": "好像掉进爱情海里 (独唱版)",
+   "artist": "Rosy赵露思",
+   "album": "哦！我的皇帝陛下 原声专辑",
+   "fee": 1,
+   "rank": 96
+  },
+  {
+   "id": 483671599,
+   "name": "追光者",
+   "artist": "岑宁儿",
+   "album": "夏至未至 影视原声带",
+   "fee": 1,
+   "rank": 97
+  },
+  {
+   "id": 476987525,
+   "name": "咖喱咖喱",
+   "artist": "牛奶咖啡",
+   "album": "欢乐颂2 电视原声带",
+   "fee": 0,
+   "rank": 98
+  },
+  {
+   "id": 482386133,
+   "name": "那个男孩",
+   "artist": "汪苏泷",
+   "album": "那个男孩",
+   "fee": 1,
+   "rank": 99
+  },
+  {
+   "id": 516321290,
+   "name": "是梦吧",
+   "artist": "胡一天",
+   "album": "致我们单纯的小美好 影视原声带",
+   "fee": 1,
+   "rank": 100
+  }
+ ]
+}

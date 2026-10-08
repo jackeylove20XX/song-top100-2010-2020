@@ -1,0 +1,786 @@
+{
+ "year": 2010,
+ "cat": "hua",
+ "pid": 5014147162,
+ "pname": "2010年华语精选",
+ "creator": "没有一个冬天可以逾越",
+ "fetched": 97,
+ "tracks": [
+  {
+   "id": 5240550,
+   "name": "北京东路的日子",
+   "artist": "汪源/刘千楚/徐逸昊",
+   "album": "北京东路的日子",
+   "fee": 8,
+   "rank": 1
+  },
+  {
+   "id": 133998,
+   "name": "老街",
+   "artist": "李荣浩",
+   "album": "小黄",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 25643291,
+   "name": "需要人陪",
+   "artist": "王力宏",
+   "album": "十八般武艺",
+   "fee": 0,
+   "rank": 3
+  },
+  {
+   "id": 167827,
+   "name": "素颜",
+   "artist": "许嵩/何曼婷",
+   "album": "素颜",
+   "fee": 1,
+   "rank": 4
+  },
+  {
+   "id": 108242,
+   "name": "她说",
+   "artist": "林俊杰",
+   "album": "她说 概念自选辑",
+   "fee": 1,
+   "rank": 5
+  },
+  {
+   "id": 167850,
+   "name": "庐州月",
+   "artist": "许嵩",
+   "album": "寻雾启示",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 255294,
+   "name": "我很快乐",
+   "artist": "刘惜君",
+   "album": "爱情花园",
+   "fee": 1,
+   "rank": 7
+  },
+  {
+   "id": 25642125,
+   "name": "你不知道的事",
+   "artist": "王力宏",
+   "album": "火力全开 (新歌+精选)",
+   "fee": 0,
+   "rank": 8
+  },
+  {
+   "id": 64634,
+   "name": "一丝不挂",
+   "artist": "陈奕迅",
+   "album": "Time Flies",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 72408,
+   "name": "天后",
+   "artist": "陈势安",
+   "album": "天后(台湾版)",
+   "fee": 0,
+   "rank": 10
+  },
+  {
+   "id": 28378115,
+   "name": "美丽的神话",
+   "artist": "胡歌/白冰",
+   "album": "《神话》电视原声带",
+   "fee": 0,
+   "rank": 11
+  },
+  {
+   "id": 174963,
+   "name": "客官不可以",
+   "artist": "徐良/小凌",
+   "album": "犯贱",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 316100,
+   "name": "雨爱",
+   "artist": "杨丞琳",
+   "album": "雨爱",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 247512,
+   "name": "星月神话",
+   "artist": "金莎",
+   "album": "星月神话",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 165379,
+   "name": "小星星",
+   "artist": "汪苏泷",
+   "album": "慢慢懂",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 353066,
+   "name": "迷人的危险",
+   "artist": "Dance Flow",
+   "album": "df 1",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 185668,
+   "name": "烟花易冷",
+   "artist": "周杰伦",
+   "album": "跨时代",
+   "fee": 0,
+   "rank": 17
+  },
+  {
+   "id": 205342,
+   "name": "给我一个理由忘记",
+   "artist": "黄丽玲",
+   "album": "寂寞不痛",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 247936,
+   "name": "最后一页",
+   "artist": "江语晨",
+   "album": "恋习",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 227012,
+   "name": "雪",
+   "artist": "杜婧荧/王艺翔",
+   "album": "孤独的乐章",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 185667,
+   "name": "说了再见",
+   "artist": "周杰伦",
+   "album": "跨时代",
+   "fee": 0,
+   "rank": 21
+  },
+  {
+   "id": 188550,
+   "name": "春秋",
+   "artist": "张敬轩",
+   "album": "No. Eleven",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 174961,
+   "name": "红装",
+   "artist": "徐良/阿悄",
+   "album": "犯贱",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 306920,
+   "name": "错的人",
+   "artist": "萧亚轩",
+   "album": "萧洒小姐",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 298838,
+   "name": "传奇",
+   "artist": "王菲",
+   "album": "传奇",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 251594,
+   "name": "练习题",
+   "artist": "江映蓉",
+   "album": "坏天使",
+   "fee": 8,
+   "rank": 26
+  },
+  {
+   "id": 296885,
+   "name": "寂寞寂寞就好",
+   "artist": "田馥甄",
+   "album": "To Hebe",
+   "fee": 0,
+   "rank": 27
+  },
+  {
+   "id": 143403,
+   "name": "十一年",
+   "artist": "邱永传",
+   "album": "十一年",
+   "fee": 0,
+   "rank": 28
+  },
+  {
+   "id": 272590,
+   "name": "你看到的我是蓝色的",
+   "artist": "李霄云",
+   "album": "你看到的我是蓝色的",
+   "fee": 8,
+   "rank": 29
+  },
+  {
+   "id": 109125,
+   "name": "夏天",
+   "artist": "李玖哲",
+   "album": "好玖",
+   "fee": 1,
+   "rank": 30
+  },
+  {
+   "id": 191060,
+   "name": "这，就是爱",
+   "artist": "张杰",
+   "album": "这，就是爱",
+   "fee": 8,
+   "rank": 31
+  },
+  {
+   "id": 26082851,
+   "name": "爱不单行",
+   "artist": "罗志祥",
+   "album": "罗生门",
+   "fee": 1,
+   "rank": 32
+  },
+  {
+   "id": 132316,
+   "name": "清明上河图",
+   "artist": "李玉刚",
+   "album": "新贵妃醉酒",
+   "fee": 0,
+   "rank": 33
+  },
+  {
+   "id": 376100,
+   "name": "启程",
+   "artist": "水木年华",
+   "album": "启程",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 234015,
+   "name": "A.I.N.Y. 爱你",
+   "artist": "G.E.M.邓紫棋",
+   "album": "18",
+   "fee": 8,
+   "rank": 35
+  },
+  {
+   "id": 240141,
+   "name": "越伤越爱",
+   "artist": "何洁",
+   "album": "想要回到 何洁",
+   "fee": 0,
+   "rank": 36
+  },
+  {
+   "id": 165375,
+   "name": "专属味道",
+   "artist": "汪苏泷/林希儿",
+   "album": "慢慢懂",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 344406,
+   "name": "爱的双重魔力",
+   "artist": "By2",
+   "album": "成人礼",
+   "fee": 1,
+   "rank": 38
+  },
+  {
+   "id": 316108,
+   "name": "匿名的好友",
+   "artist": "杨丞琳",
+   "album": "雨爱",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 171088,
+   "name": "大笑江湖",
+   "artist": "小沈阳",
+   "album": "大笑江湖",
+   "fee": 0,
+   "rank": 40
+  },
+  {
+   "id": 247527,
+   "name": "画中仙",
+   "artist": "金莎",
+   "album": "星月神话",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 306894,
+   "name": "潇洒小姐",
+   "artist": "萧亚轩",
+   "album": "萧洒小姐",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 326965,
+   "name": "如果这就是爱情",
+   "artist": "张靓颖",
+   "album": "我相信",
+   "fee": 0,
+   "rank": 43
+  },
+  {
+   "id": 316167,
+   "name": "暖心",
+   "artist": "郁可唯",
+   "album": "蓝短裤",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 374890,
+   "name": "爱上你",
+   "artist": "S.H.E",
+   "album": "SHERO",
+   "fee": 0,
+   "rank": 45
+  },
+  {
+   "id": 306556,
+   "name": "非你不爱",
+   "artist": "弦子",
+   "album": "天真",
+   "fee": 0,
+   "rank": 46
+  },
+  {
+   "id": 63518,
+   "name": "爺爺",
+   "artist": "曹格",
+   "album": "曹之在我",
+   "fee": 0,
+   "rank": 47
+  },
+  {
+   "id": 27867507,
+   "name": "破相 (Live)",
+   "artist": "容祖儿",
+   "album": "Concert YY 黄伟文作品展 演唱会",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 306654,
+   "name": "绿洲",
+   "artist": "徐佳莹",
+   "album": "极限",
+   "fee": 1,
+   "rank": 49
+  },
+  {
+   "id": 177074,
+   "name": "就想赖着你",
+   "artist": "言承旭",
+   "album": "9314男人与男孩 Bonus CD",
+   "fee": 0,
+   "rank": 50
+  },
+  {
+   "id": 296888,
+   "name": "你太猖狂",
+   "artist": "田馥甄",
+   "album": "To Hebe",
+   "fee": 0,
+   "rank": 51
+  },
+  {
+   "id": 368751,
+   "name": "早上好",
+   "artist": "牛奶咖啡",
+   "album": "给你点儿颜色",
+   "fee": 0,
+   "rank": 52
+  },
+  {
+   "id": 5235243,
+   "name": "错错错",
+   "artist": "六哲/陈娟儿",
+   "album": "网络新四大天王",
+   "fee": 0,
+   "rank": 53
+  },
+  {
+   "id": 286684,
+   "name": "剑雨浮生",
+   "artist": "萨顶顶/吴青峰",
+   "album": "剑雨浮生",
+   "fee": 0,
+   "rank": 54
+  },
+  {
+   "id": 306558,
+   "name": "天真",
+   "artist": "弦子",
+   "album": "天真",
+   "fee": 0,
+   "rank": 55
+  },
+  {
+   "id": 188552,
+   "name": "衬",
+   "artist": "张敬轩",
+   "album": "No. Eleven",
+   "fee": 8,
+   "rank": 56
+  },
+  {
+   "id": 32689202,
+   "name": "我记得我爱过",
+   "artist": "何润东",
+   "album": "完美情人",
+   "fee": 1,
+   "rank": 57
+  },
+  {
+   "id": 209548,
+   "name": "美人计",
+   "artist": "蔡依林",
+   "album": "Myself",
+   "fee": 0,
+   "rank": 58
+  },
+  {
+   "id": 130846,
+   "name": "小三",
+   "artist": "冷漠",
+   "album": "这条街",
+   "fee": 0,
+   "rank": 59
+  },
+  {
+   "id": 279431,
+   "name": "爱情买卖",
+   "artist": "慕容晓晓",
+   "album": "爱情买卖",
+   "fee": 0,
+   "rank": 60
+  },
+  {
+   "id": 5356977,
+   "name": "我的心好冷",
+   "artist": "Sara",
+   "album": "我的心好冷",
+   "fee": 0,
+   "rank": 61
+  },
+  {
+   "id": 354284,
+   "name": "向日葵盛开的夏天",
+   "artist": "F.I.R.",
+   "album": "让我们一起微笑吧",
+   "fee": 1,
+   "rank": 62
+  },
+  {
+   "id": 276863,
+   "name": "宝贝",
+   "artist": "莫文蔚",
+   "album": "宝贝",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 27599185,
+   "name": "再见不再见",
+   "artist": "陈柏宇",
+   "album": "PUT ON",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 255526,
+   "name": "花一开就相爱吧",
+   "artist": "林依晨",
+   "album": "美好的旅行",
+   "fee": 1,
+   "rank": 65
+  },
+  {
+   "id": 369079,
+   "name": "做你的一半",
+   "artist": "男才女貌",
+   "album": "做你的一半",
+   "fee": 0,
+   "rank": 66
+  },
+  {
+   "id": 10308010,
+   "name": "散场的拥抱",
+   "artist": "倪安东",
+   "album": "第一课",
+   "fee": 0,
+   "rank": 67
+  },
+  {
+   "id": 254151,
+   "name": "我们没有在一起",
+   "artist": "刘若英",
+   "album": "在一起",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 233897,
+   "name": "烟火",
+   "artist": "郭采洁",
+   "album": "烟火",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 354222,
+   "name": "心疼你的心疼",
+   "artist": "飞轮海",
+   "album": "太热",
+   "fee": 0,
+   "rank": 70
+  },
+  {
+   "id": 344398,
+   "name": "曾经的约定",
+   "artist": "By2",
+   "album": "曾经的约定",
+   "fee": 0,
+   "rank": 71
+  },
+  {
+   "id": 233854,
+   "name": "每一天都不同",
+   "artist": "郭静",
+   "album": "你 朋友",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 374866,
+   "name": "Shero",
+   "artist": "S.H.E",
+   "album": "SHERO",
+   "fee": 0,
+   "rank": 73
+  },
+  {
+   "id": 354300,
+   "name": "荆棘里的花",
+   "artist": "F.I.R.",
+   "album": "让我们一起微笑吧",
+   "fee": 1,
+   "rank": 74
+  },
+  {
+   "id": 354237,
+   "name": "误会",
+   "artist": "飞轮海",
+   "album": "太热",
+   "fee": 0,
+   "rank": 75
+  },
+  {
+   "id": 350923,
+   "name": "牵心的朋友",
+   "artist": "大嘴巴",
+   "album": "万凸3",
+   "fee": 8,
+   "rank": 76
+  },
+  {
+   "id": 22740101,
+   "name": "黑色月亮",
+   "artist": "杨丞琳",
+   "album": "异想天开(新歌+精选)",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 326753,
+   "name": "单面镜",
+   "artist": "周笔畅",
+   "album": "i，鱼，光，镜",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 101415,
+   "name": "爱的翅膀",
+   "artist": "韩庚",
+   "album": "庚心",
+   "fee": 1,
+   "rank": 79
+  },
+  {
+   "id": 160023,
+   "name": "有没有",
+   "artist": "韦礼安",
+   "album": "首张同名全创作专辑",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 362875,
+   "name": "快乐你懂的",
+   "artist": "快乐家族",
+   "album": "快乐你懂的",
+   "fee": 8,
+   "rank": 81
+  },
+  {
+   "id": 297761,
+   "name": "困在",
+   "artist": "魏如萱",
+   "album": "优雅的刺猬",
+   "fee": 8,
+   "rank": 82
+  },
+  {
+   "id": 307963,
+   "name": "脆弱",
+   "artist": "谢安琪",
+   "album": "第二个家",
+   "fee": 8,
+   "rank": 83
+  },
+  {
+   "id": 156088,
+   "name": "没关系",
+   "artist": "吴克群",
+   "album": "爱我 恨我",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 363266,
+   "name": "小南",
+   "artist": "旅行团乐队",
+   "album": "小南",
+   "fee": 8,
+   "rank": 85
+  },
+  {
+   "id": 328041,
+   "name": "我不爱你了",
+   "artist": "张芸京",
+   "album": "相反的我",
+   "fee": 1,
+   "rank": 86
+  },
+  {
+   "id": 340566,
+   "name": "放低过去",
+   "artist": "钟欣潼",
+   "album": "Move On...",
+   "fee": 1,
+   "rank": 87
+  },
+  {
+   "id": 156099,
+   "name": "寄生",
+   "artist": "吴克群",
+   "album": "寄生",
+   "fee": 1,
+   "rank": 88
+  },
+  {
+   "id": 85963,
+   "name": "独男",
+   "artist": "古巨基",
+   "album": "时代",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 247796,
+   "name": "爱转了一圈",
+   "artist": "金海心",
+   "album": "拥抱爱",
+   "fee": 0,
+   "rank": 90
+  },
+  {
+   "id": 229012,
+   "name": "如果…阳光",
+   "artist": "冯曦妤",
+   "album": "Sweet Melody",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 360573,
+   "name": "哎咿呀",
+   "artist": "i Me",
+   "album": "哎咿呀",
+   "fee": 8,
+   "rank": 92
+  },
+  {
+   "id": 368742,
+   "name": "风雪梧桐",
+   "artist": "南拳妈妈",
+   "album": "决斗巴赫",
+   "fee": 0,
+   "rank": 93
+  },
+  {
+   "id": 187278,
+   "name": "找对你",
+   "artist": "张学友",
+   "album": "Private Corner",
+   "fee": 8,
+   "rank": 94
+  },
+  {
+   "id": 27646093,
+   "name": "全城热恋",
+   "artist": "BOBO/张禹凌",
+   "album": "Let's BOBO",
+   "fee": 0,
+   "rank": 95
+  },
+  {
+   "id": 340570,
+   "name": "心多",
+   "artist": "钟欣潼/欧阳靖",
+   "album": "人人弹起",
+   "fee": 1,
+   "rank": 96
+  },
+  {
+   "id": 273800,
+   "name": "小树",
+   "artist": "梁心颐",
+   "album": "Hello 梁心颐",
+   "fee": 0,
+   "rank": 97
+  }
+ ]
+}

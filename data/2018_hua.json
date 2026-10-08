@@ -1,0 +1,810 @@
+{
+ "year": 2018,
+ "cat": "hua",
+ "pid": 2650288937,
+ "pname": "2018年度最热新歌TOP100",
+ "creator": "后来肆虐",
+ "fetched": 103,
+ "tracks": [
+  {
+   "id": 1327064652,
+   "name": "布鲁克的心跳",
+   "artist": "海小贼",
+   "album": "布鲁克的心跳",
+   "fee": 0,
+   "rank": 1
+  },
+  {
+   "id": 505820138,
+   "name": "听说",
+   "artist": "丛铭君",
+   "album": "听说",
+   "fee": 0,
+   "rank": 2
+  },
+  {
+   "id": 1331642344,
+   "name": "幸福了然后呢",
+   "artist": "李瑨瑶",
+   "album": "伴奏原版 Cover（from 抖音）",
+   "fee": 0,
+   "rank": 3
+  },
+  {
+   "id": 528326686,
+   "name": "I don't wanna see u anymore",
+   "artist": "NINEONE#乃万",
+   "album": "I don't wanna see u anymore",
+   "fee": 8,
+   "rank": 4
+  },
+  {
+   "id": 32619105,
+   "name": "我管你",
+   "artist": "华晨宇",
+   "album": "异类",
+   "fee": 8,
+   "rank": 5
+  },
+  {
+   "id": 516728102,
+   "name": "浪子回头",
+   "artist": "茄子蛋",
+   "album": "卡通人物",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 1334647784,
+   "name": "天份",
+   "artist": "薛之谦",
+   "album": "怪咖",
+   "fee": 1,
+   "rank": 7
+  },
+  {
+   "id": 1293886117,
+   "name": "年少有为",
+   "artist": "李荣浩",
+   "album": "耳朵",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 574566207,
+   "name": "盗将行",
+   "artist": "花粥/马雨阳",
+   "album": "粥请客（二）",
+   "fee": 8,
+   "rank": 9
+  },
+  {
+   "id": 536099160,
+   "name": "不染",
+   "artist": "毛不易",
+   "album": "香蜜沉沉烬如霜 电视原声音乐专辑",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 571338279,
+   "name": "往后余生",
+   "artist": "王贰浪",
+   "album": "往后余生",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 569214126,
+   "name": "可能否",
+   "artist": "木小雅",
+   "album": "可能否",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 551816010,
+   "name": "我们",
+   "artist": "陈奕迅",
+   "album": "我们",
+   "fee": 0,
+   "rank": 13
+  },
+  {
+   "id": 1330348068,
+   "name": "起风了",
+   "artist": "冯沁苑(买辣椒也用券)",
+   "album": "起风了",
+   "fee": 8,
+   "rank": 14
+  },
+  {
+   "id": 1296583188,
+   "name": "星球坠落 (Live)",
+   "artist": "艾热 AIR/李佳隆",
+   "album": "中国新说唱 第3期",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 1331322046,
+   "name": "Everything I Need (Film Version)",
+   "artist": "Skylar Grey",
+   "album": "Aquaman (Original Motion Picture Soundtrack)",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 1335350268,
+   "name": "圣诞夜",
+   "artist": "朱星杰",
+   "album": "圣诞夜",
+   "fee": 8,
+   "rank": 17
+  },
+  {
+   "id": 531295576,
+   "name": "最美的期待",
+   "artist": "周笔畅",
+   "album": "最美的期待",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 1318234987,
+   "name": "贝贝",
+   "artist": "李荣浩",
+   "album": "耳朵",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 1308818970,
+   "name": "竹 (Bamboo)",
+   "artist": "Far East Movement/张杰",
+   "album": "竹 (Bamboo)",
+   "fee": 8,
+   "rank": 20
+  },
+  {
+   "id": 863046037,
+   "name": "Way Back Home",
+   "artist": "SHAUN",
+   "album": "Take",
+   "fee": 8,
+   "rank": 21
+  },
+  {
+   "id": 1308818967,
+   "name": "飘向北方 (Live)",
+   "artist": "那吾克热-NW/尤长靖",
+   "album": "中国新说唱 第10期",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 1321385655,
+   "name": "POP/STARS",
+   "artist": "K/DA/Madison Beer/i-dle",
+   "album": "POP/STARS",
+   "fee": 8,
+   "rank": 23
+  },
+  {
+   "id": 557584888,
+   "name": "往后余生",
+   "artist": "马良",
+   "album": "往后余生",
+   "fee": 8,
+   "rank": 24
+  },
+  {
+   "id": 1313354324,
+   "name": "出山",
+   "artist": "花粥/王胜娚",
+   "album": "粥请客（四）",
+   "fee": 8,
+   "rank": 25
+  },
+  {
+   "id": 1299550532,
+   "name": "倒数",
+   "artist": "G.E.M.邓紫棋",
+   "album": "另一个童话",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 557581284,
+   "name": "纸短情长",
+   "artist": "花粥",
+   "album": "纸短情长",
+   "fee": 1,
+   "rank": 27
+  },
+  {
+   "id": 1294924781,
+   "name": "卡路里",
+   "artist": "火箭少女101",
+   "album": "卡路里",
+   "fee": 8,
+   "rank": 28
+  },
+  {
+   "id": 1334820713,
+   "name": "When It's Christmas",
+   "artist": "张艺兴",
+   "album": "When It's Christmas",
+   "fee": 1,
+   "rank": 29
+  },
+  {
+   "id": 1316563427,
+   "name": "삐삐",
+   "artist": "IU",
+   "album": "삐삐",
+   "fee": 1,
+   "rank": 30
+  },
+  {
+   "id": 553755659,
+   "name": "可不可以",
+   "artist": "张紫豪",
+   "album": "可不可以",
+   "fee": 1,
+   "rank": 31
+  },
+  {
+   "id": 1313107065,
+   "name": "RISE",
+   "artist": "英雄联盟/Mako/The Word Alive",
+   "album": "RISE",
+   "fee": 1,
+   "rank": 32
+  },
+  {
+   "id": 1294899063,
+   "name": "陷阱",
+   "artist": "王北车",
+   "album": "陷阱",
+   "fee": 0,
+   "rank": 33
+  },
+  {
+   "id": 542690276,
+   "name": "GOOD NIGHT",
+   "artist": "Ghost (王琳凯)",
+   "album": "GOOD NIGHT",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 534542079,
+   "name": "侧脸",
+   "artist": "于果",
+   "album": "侧脸",
+   "fee": 8,
+   "rank": 35
+  },
+  {
+   "id": 557581476,
+   "name": "去年夏天",
+   "artist": "王大毛",
+   "album": "去年夏天",
+   "fee": 0,
+   "rank": 36
+  },
+  {
+   "id": 1318235595,
+   "name": "耳朵",
+   "artist": "李荣浩",
+   "album": "耳朵",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 562594322,
+   "name": "给陌生的你听",
+   "artist": "G.G张思源",
+   "album": "给陌生的你听",
+   "fee": 8,
+   "rank": 38
+  },
+  {
+   "id": 546279760,
+   "name": "目不转睛",
+   "artist": "王以太",
+   "album": "Feel & Sight",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 557583281,
+   "name": "哑巴",
+   "artist": "薛之谦",
+   "album": "怪咖",
+   "fee": 1,
+   "rank": 40
+  },
+  {
+   "id": 1331322055,
+   "name": "Everything I Need",
+   "artist": "Skylar Grey",
+   "album": "Aquaman (Original Motion Picture Soundtrack)",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 562594267,
+   "name": "成全",
+   "artist": "林宥嘉",
+   "album": "成全",
+   "fee": 0,
+   "rank": 42
+  },
+  {
+   "id": 553543014,
+   "name": "摩天大楼",
+   "artist": "薛之谦",
+   "album": "怪咖",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 529668356,
+   "name": "你要的全拿走",
+   "artist": "胡彦斌",
+   "album": "覅忒好",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 1334659052,
+   "name": "我要给世界最悠长的湿吻",
+   "artist": "蔡健雅",
+   "album": "我要给世界最悠长的湿吻",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 1310728498,
+   "name": "R.",
+   "artist": "李子豪(HtFR)/大喜",
+   "album": "R.",
+   "fee": 8,
+   "rank": 46
+  },
+  {
+   "id": 1303019637,
+   "name": "说书人",
+   "artist": "暗杠/寅子",
+   "album": "说书人",
+   "fee": 8,
+   "rank": 47
+  },
+  {
+   "id": 1306400549,
+   "name": "写给黄淮（demo）",
+   "artist": "邵帅",
+   "album": "我在黄淮",
+   "fee": 8,
+   "rank": 48
+  },
+  {
+   "id": 574919767,
+   "name": "只要平凡",
+   "artist": "张杰/张碧晨",
+   "album": "只要平凡",
+   "fee": 8,
+   "rank": 49
+  },
+  {
+   "id": 571074019,
+   "name": "时间飞行",
+   "artist": "白宇/朱一龙",
+   "album": "时间飞行",
+   "fee": 8,
+   "rank": 50
+  },
+  {
+   "id": 864647456,
+   "name": "Lover Boy 88",
+   "artist": "Higher Brothers/Phum Viphurit",
+   "album": "Lover Boy 88",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 541687281,
+   "name": "慢慢喜欢你",
+   "artist": "莫文蔚",
+   "album": "我们在中场相遇",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 566442496,
+   "name": "浪人琵琶",
+   "artist": "胡66",
+   "album": "浪人琵琶",
+   "fee": 0,
+   "rank": 53
+  },
+  {
+   "id": 529823971,
+   "name": "Ei Ei",
+   "artist": "偶像练习生",
+   "album": "偶像练习生",
+   "fee": 1,
+   "rank": 54
+  },
+  {
+   "id": 571338083,
+   "name": "醒着醉",
+   "artist": "马良",
+   "album": "往后余生",
+   "fee": 8,
+   "rank": 55
+  },
+  {
+   "id": 1334327077,
+   "name": "世本常态",
+   "artist": "隔壁老樊",
+   "album": "我曾",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 486999661,
+   "name": "莫妮卡",
+   "artist": "柳爽",
+   "album": "生长",
+   "fee": 8,
+   "rank": 57
+  },
+  {
+   "id": 557148288,
+   "name": "The Way I Am",
+   "artist": "Charlie Puth",
+   "album": "Voicenotes",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 1293951677,
+   "name": "昨日青空",
+   "artist": "尤长靖",
+   "album": "昨日青空",
+   "fee": 0,
+   "rank": 59
+  },
+  {
+   "id": 548097885,
+   "name": "Change (feat. James Taylor)",
+   "artist": "Charlie Puth/James Taylor",
+   "album": "Voicenotes",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 547976490,
+   "name": "爱了很久的朋友",
+   "artist": "田馥甄",
+   "album": "爱了很久的朋友",
+   "fee": 0,
+   "rank": 61
+  },
+  {
+   "id": 539941039,
+   "name": "佛系少女",
+   "artist": "冯提莫",
+   "album": "佛系少女",
+   "fee": 0,
+   "rank": 62
+  },
+  {
+   "id": 1325711347,
+   "name": "喜新恋旧",
+   "artist": "Jony J",
+   "album": "喜新恋旧",
+   "fee": 8,
+   "rank": 63
+  },
+  {
+   "id": 554191055,
+   "name": "学猫叫",
+   "artist": "小潘潘（潘柚彤）/小峰峰（陈峰）",
+   "album": "学猫叫",
+   "fee": 8,
+   "rank": 64
+  },
+  {
+   "id": 1333199831,
+   "name": "Nightglow",
+   "artist": "蔡健雅",
+   "album": "崩坏3-Onwards-Original Soundtrack",
+   "fee": 0,
+   "rank": 65
+  },
+  {
+   "id": 553310138,
+   "name": "忽而今夏",
+   "artist": "汪苏泷",
+   "album": "忽而今夏 电视剧珍爱原声大碟",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 1333350746,
+   "name": "台北某个地方",
+   "artist": "陈绮贞",
+   "album": "沙发海",
+   "fee": 8,
+   "rank": 67
+  },
+  {
+   "id": 1332424898,
+   "name": "光年之外 (热爱版)",
+   "artist": "G.E.M.邓紫棋/艾热 AIR",
+   "album": "光年之外 (热爱版)",
+   "fee": 8,
+   "rank": 68
+  },
+  {
+   "id": 1328047738,
+   "name": "Different World",
+   "artist": "Alan Walker/K-391/CORSAK胡梦周",
+   "album": "Different World",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 864647841,
+   "name": "一个人去巴黎",
+   "artist": "董又霖",
+   "album": "一个人去巴黎",
+   "fee": 1,
+   "rank": 70
+  },
+  {
+   "id": 1306431916,
+   "name": "凌晨三点（demo）",
+   "artist": "陈硕子",
+   "album": "凌晨三点",
+   "fee": 0,
+   "rank": 71
+  },
+  {
+   "id": 1294899029,
+   "name": "心事",
+   "artist": "徐秉龙",
+   "album": "零零",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 1327456179,
+   "name": "绝代风华",
+   "artist": "许嵩",
+   "album": "绝代风华",
+   "fee": 1,
+   "rank": 73
+  },
+  {
+   "id": 553546087,
+   "name": "最暖的忧伤",
+   "artist": "田馥甄",
+   "album": "温暖的弦 电视原声带",
+   "fee": 0,
+   "rank": 74
+  },
+  {
+   "id": 1300885683,
+   "name": "38度6",
+   "artist": "黑龙",
+   "album": "38度6",
+   "fee": 0,
+   "rank": 75
+  },
+  {
+   "id": 573843002,
+   "name": "买条街",
+   "artist": "唐语鸣/Wya乌鸦",
+   "album": "买条街",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 548648087,
+   "name": "戒烟 (Live)",
+   "artist": "李荣浩/朱正廷/陈立农",
+   "album": "偶像练习生 表演曲目合集",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 570326067,
+   "name": "青梅竹马",
+   "artist": "陈秋含",
+   "album": "青梅竹马",
+   "fee": 0,
+   "rank": 78
+  },
+  {
+   "id": 1332718235,
+   "name": "不开心就要消你呀",
+   "artist": "牛奶咖啡/仙羽/Yunomi",
+   "album": "不开心就要消你呀",
+   "fee": 8,
+   "rank": 79
+  },
+  {
+   "id": 502103677,
+   "name": "你是我最愚蠢的一次浪漫",
+   "artist": "房东的猫",
+   "album": "柔软",
+   "fee": 8,
+   "rank": 80
+  },
+  {
+   "id": 1294924388,
+   "name": "一生等你",
+   "artist": "袁娅维TIA RAY",
+   "album": "媚者无疆 电视剧原声带",
+   "fee": 0,
+   "rank": 81
+  },
+  {
+   "id": 1325905146,
+   "name": "胡广生",
+   "artist": "任素汐",
+   "album": "胡广生",
+   "fee": 8,
+   "rank": 82
+  },
+  {
+   "id": 1325484613,
+   "name": "姬和不如",
+   "artist": "隔壁老樊",
+   "album": "我曾",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 543987400,
+   "name": "小半 (Live)",
+   "artist": "周锐/郑艺彬/ONER灵超",
+   "album": "偶像练习生 表演曲目合集",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 557581095,
+   "name": "双子",
+   "artist": "徐秉龙",
+   "album": "双子",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 1335420898,
+   "name": "雾霭有时晴",
+   "artist": "河图/音频怪物/李常超 (Lao乾妈)",
+   "album": "雾霭有时晴",
+   "fee": 0,
+   "rank": 86
+  },
+  {
+   "id": 864100958,
+   "name": "小鹿乱撞",
+   "artist": "永彬Ryan.B/狄迪（D-DAY）",
+   "album": "小鹿乱撞",
+   "fee": 8,
+   "rank": 87
+  },
+  {
+   "id": 1304920094,
+   "name": "目不转睛 (Live)",
+   "artist": "王以太",
+   "album": "中国新说唱 第7期",
+   "fee": 1,
+   "rank": 88
+  },
+  {
+   "id": 545590290,
+   "name": "Firewalking (Live)",
+   "artist": "ONER灵超/余明君/林超泽",
+   "album": "偶像练习生 表演曲目合集",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 1305366556,
+   "name": "寒鸦少年",
+   "artist": "华晨宇",
+   "album": "寒鸦少年",
+   "fee": 8,
+   "rank": 90
+  },
+  {
+   "id": 1298219148,
+   "name": "你的前男友",
+   "artist": "Young 7",
+   "album": "你的前男友",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 1331584791,
+   "name": "遗书",
+   "artist": "蔡健雅",
+   "album": "我要给世界最悠长的湿吻",
+   "fee": 8,
+   "rank": 92
+  },
+  {
+   "id": 553813030,
+   "name": "Dawn of us",
+   "artist": "王嘉尔",
+   "album": "Dawn of us",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 562598081,
+   "name": "房间-新版",
+   "artist": "刘瑞琦",
+   "album": "房间-新版",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 1876226709,
+   "name": "想你想你想我",
+   "artist": "巴音汗",
+   "album": "想你想你想我",
+   "fee": 1,
+   "rank": 95
+  },
+  {
+   "id": 543988388,
+   "name": "我怀念的 (Live)",
+   "artist": "陈立农/李权哲/韩沐伯",
+   "album": "偶像练习生 表演曲目合集",
+   "fee": 1,
+   "rank": 96
+  },
+  {
+   "id": 1294889112,
+   "name": "孤独她呀",
+   "artist": "二珂",
+   "album": "孤独她呀",
+   "fee": 8,
+   "rank": 97
+  },
+  {
+   "id": 1311345316,
+   "name": "你是年少的欢喜",
+   "artist": "王贰浪",
+   "album": "你是年少的欢喜",
+   "fee": 8,
+   "rank": 98
+  },
+  {
+   "id": 1296410418,
+   "name": "Darkside",
+   "artist": "Alan Walker/Au/Ra/Tomine Harket",
+   "album": "Darkside",
+   "fee": 1,
+   "rank": 99
+  },
+  {
+   "id": 1322780845,
+   "name": "thank u, next",
+   "artist": "Ariana Grande",
+   "album": "thank u, next",
+   "fee": 1,
+   "rank": 100
+  }
+ ]
+}

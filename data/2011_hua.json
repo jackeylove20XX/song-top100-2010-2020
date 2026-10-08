@@ -1,0 +1,802 @@
+{
+ "year": 2011,
+ "cat": "hua",
+ "pid": 5014080766,
+ "pname": "2011年华语精选",
+ "creator": "没有一个冬天可以逾越",
+ "fetched": 99,
+ "tracks": [
+  {
+   "id": 355992,
+   "name": "追梦赤子心",
+   "artist": "GALA",
+   "album": "追梦痴子心",
+   "fee": 1,
+   "rank": 1
+  },
+  {
+   "id": 25706282,
+   "name": "夜空中最亮的星",
+   "artist": "逃跑计划",
+   "album": "世界",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 202373,
+   "name": "南方姑娘",
+   "artist": "赵雷",
+   "album": "赵小雷",
+   "fee": 1,
+   "rank": 3
+  },
+  {
+   "id": 175072,
+   "name": "不再联系",
+   "artist": "夏天Alex",
+   "album": "不再联系",
+   "fee": 8,
+   "rank": 4
+  },
+  {
+   "id": 368727,
+   "name": "明天，你好",
+   "artist": "牛奶咖啡",
+   "album": "Lost & Found 去寻找",
+   "fee": 0,
+   "rank": 5
+  },
+  {
+   "id": 97357,
+   "name": "那些年",
+   "artist": "胡夏",
+   "album": "那些年，我们一起追的女孩 电影原声带",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 108138,
+   "name": "那些你很冒险的梦",
+   "artist": "林俊杰",
+   "album": "学不会",
+   "fee": 1,
+   "rank": 7
+  },
+  {
+   "id": 64093,
+   "name": "孤独患者",
+   "artist": "陈奕迅",
+   "album": "？",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 28111646,
+   "name": "只是太爱你",
+   "artist": "张敬轩",
+   "album": "是时候…",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 26402069,
+   "name": "上心",
+   "artist": "郑欣宜",
+   "album": "故事的配角",
+   "fee": 0,
+   "rank": 10
+  },
+  {
+   "id": 109998,
+   "name": "贝加尔湖畔",
+   "artist": "李健",
+   "album": "依然",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 210281,
+   "name": "心動",
+   "artist": "陈洁仪",
+   "album": "重译 陈洁仪",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 108281,
+   "name": "想自由",
+   "artist": "林宥嘉",
+   "album": "美妙生活",
+   "fee": 0,
+   "rank": 13
+  },
+  {
+   "id": 167799,
+   "name": "怎么说我不爱你",
+   "artist": "萧敬腾",
+   "album": "狂想曲",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 174944,
+   "name": "后会无期",
+   "artist": "徐良/汪苏泷",
+   "album": "不良少年",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 362996,
+   "name": "父亲",
+   "artist": "筷子兄弟",
+   "album": "父亲",
+   "fee": 0,
+   "rank": 16
+  },
+  {
+   "id": 274686,
+   "name": "煎熬",
+   "artist": "李佳薇",
+   "album": "感谢爱人",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 298258,
+   "name": "吴哥窟",
+   "artist": "吴雨霏",
+   "album": "我本人",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 296837,
+   "name": "魔鬼中的天使",
+   "artist": "田馥甄",
+   "album": "My Love",
+   "fee": 0,
+   "rank": 19
+  },
+  {
+   "id": 108134,
+   "name": "学不会",
+   "artist": "林俊杰",
+   "album": "学不会",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 326784,
+   "name": "我最亲爱的",
+   "artist": "张惠妹",
+   "album": "你在看我吗",
+   "fee": 0,
+   "rank": 21
+  },
+  {
+   "id": 167732,
+   "name": "千百度",
+   "artist": "许嵩",
+   "album": "苏格拉没有底",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 64317,
+   "name": "因为爱情",
+   "artist": "陈奕迅/王菲",
+   "album": "Stranger Under My Skin",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 175991,
+   "name": "那个男人",
+   "artist": "杨宗纬",
+   "album": "原色",
+   "fee": 0,
+   "rank": 24
+  },
+  {
+   "id": 392524,
+   "name": "我不会喜欢你",
+   "artist": "陈柏霖",
+   "album": "我可能不会爱你 电视原声带",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 208889,
+   "name": "别找我麻烦",
+   "artist": "蔡健雅",
+   "album": "说到爱",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 393335,
+   "name": "爱的供养",
+   "artist": "杨幂",
+   "album": "宫锁心玉",
+   "fee": 0,
+   "rank": 27
+  },
+  {
+   "id": 240125,
+   "name": "小永远",
+   "artist": "何洁",
+   "album": "短暂的爱情",
+   "fee": 0,
+   "rank": 28
+  },
+  {
+   "id": 25642129,
+   "name": "依然爱你",
+   "artist": "王力宏",
+   "album": "火力全开 (新歌+精选)",
+   "fee": 0,
+   "rank": 29
+  },
+  {
+   "id": 340376,
+   "name": "夜车",
+   "artist": "曾轶可",
+   "album": "一只猫的旅行 Forever 21",
+   "fee": 8,
+   "rank": 30
+  },
+  {
+   "id": 374621,
+   "name": "你在烦恼什么",
+   "artist": "苏打绿",
+   "album": "你在烦恼什么",
+   "fee": 0,
+   "rank": 31
+  },
+  {
+   "id": 374597,
+   "name": "你被写在我的歌里",
+   "artist": "苏打绿/陈嘉桦",
+   "album": "你在烦恼什么",
+   "fee": 0,
+   "rank": 32
+  },
+  {
+   "id": 297748,
+   "name": "香格里拉",
+   "artist": "魏如萱",
+   "album": "在哪里",
+   "fee": 8,
+   "rank": 33
+  },
+  {
+   "id": 28892231,
+   "name": "无法原谅",
+   "artist": "李佳璐",
+   "album": "回家的诱惑 电视原声带",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 285321,
+   "name": "如果爱忘了",
+   "artist": "戚薇",
+   "album": "如果爱忘了",
+   "fee": 1,
+   "rank": 35
+  },
+  {
+   "id": 229161,
+   "name": "最重要的决定",
+   "artist": "范玮琪",
+   "album": "Love and FanFan",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 255204,
+   "name": "那时候的我",
+   "artist": "刘惜君",
+   "album": "拂晓",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 101824,
+   "name": "三寸天堂",
+   "artist": "严艺丹",
+   "album": "步步惊心 电视剧原声音乐大碟",
+   "fee": 0,
+   "rank": 38
+  },
+  {
+   "id": 25698047,
+   "name": "亲密爱人",
+   "artist": "王若琳",
+   "album": "为爱做的一切",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 185617,
+   "name": "你好吗",
+   "artist": "周杰伦",
+   "album": "惊叹号",
+   "fee": 0,
+   "rank": 40
+  },
+  {
+   "id": 26619178,
+   "name": "说好了不见面",
+   "artist": "小贱",
+   "album": "小贱作品集",
+   "fee": 0,
+   "rank": 41
+  },
+  {
+   "id": 306877,
+   "name": "遗失的心跳",
+   "artist": "萧亚轩",
+   "album": "我爱我 (心跳100影音庆功版)",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 5356944,
+   "name": "爱很美",
+   "artist": "Sara/刘佳",
+   "album": "爱很美",
+   "fee": 0,
+   "rank": 43
+  },
+  {
+   "id": 185615,
+   "name": "Mine Mine",
+   "artist": "周杰伦",
+   "album": "惊叹号",
+   "fee": 0,
+   "rank": 44
+  },
+  {
+   "id": 168277,
+   "name": "末班车",
+   "artist": "萧煌奇",
+   "album": "孤独的和弦",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 25642119,
+   "name": "火力全开",
+   "artist": "王力宏",
+   "album": "火力全开 (新歌+精选)",
+   "fee": 0,
+   "rank": 46
+  },
+  {
+   "id": 66204,
+   "name": "瘾",
+   "artist": "陈楚生",
+   "album": "瘾",
+   "fee": 0,
+   "rank": 47
+  },
+  {
+   "id": 27511259,
+   "name": "分裂",
+   "artist": "苏醒",
+   "album": "进行式",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 183248,
+   "name": "忽然之间",
+   "artist": "炎亚纶",
+   "album": "下一个 炎亚纶",
+   "fee": 0,
+   "rank": 49
+  },
+  {
+   "id": 208639,
+   "name": "你在看孤独的风景",
+   "artist": "本兮",
+   "album": "你在看孤独的风景",
+   "fee": 0,
+   "rank": 50
+  },
+  {
+   "id": 205320,
+   "name": "我很忙",
+   "artist": "黄丽玲",
+   "album": "我们会更好的",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 393021,
+   "name": "等不到的爱",
+   "artist": "文章",
+   "album": "裸婚时代 电视原声带",
+   "fee": 0,
+   "rank": 52
+  },
+  {
+   "id": 286970,
+   "name": "愚人的国度",
+   "artist": "孙燕姿",
+   "album": "是时候",
+   "fee": 1,
+   "rank": 53
+  },
+  {
+   "id": 26159506,
+   "name": "对嘴",
+   "artist": "周笔畅",
+   "album": "周游拾光",
+   "fee": 1,
+   "rank": 54
+  },
+  {
+   "id": 316152,
+   "name": "听你说",
+   "artist": "郁可唯/林凡",
+   "album": "微加幸福",
+   "fee": 1,
+   "rank": 55
+  },
+  {
+   "id": 25884677,
+   "name": "仰望",
+   "artist": "杨丞琳",
+   "album": "仰望",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 297482,
+   "name": "Wonderland",
+   "artist": "卫兰/廿四味",
+   "album": "Wonderland",
+   "fee": 0,
+   "rank": 57
+  },
+  {
+   "id": 297488,
+   "name": "不哭",
+   "artist": "王心凌",
+   "album": "（黏黏）²",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 392516,
+   "name": "还是会",
+   "artist": "韦礼安",
+   "album": "我可能不会爱你 电视原声带",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 239159,
+   "name": "重来",
+   "artist": "黄小琥",
+   "album": "如果能...重来",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 191392,
+   "name": "你爱上的我",
+   "artist": "张智成",
+   "album": "你爱上的...",
+   "fee": 1,
+   "rank": 61
+  },
+  {
+   "id": 274796,
+   "name": "爱 喔爱",
+   "artist": "廖语晴",
+   "album": "爱.现",
+   "fee": 0,
+   "rank": 62
+  },
+  {
+   "id": 280464,
+   "name": "海枯石烂",
+   "artist": "Olivia Ong",
+   "album": "Romance",
+   "fee": 0,
+   "rank": 63
+  },
+  {
+   "id": 222589,
+   "name": "Mask",
+   "artist": "岑宁儿",
+   "album": "4-6 pm",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 387478,
+   "name": "总有一天我会欺骗你",
+   "artist": "新裤子",
+   "album": "Sex Drugs Internet",
+   "fee": 8,
+   "rank": 65
+  },
+  {
+   "id": 354220,
+   "name": "亚特兰提斯",
+   "artist": "F.I.R.",
+   "album": "亚特兰提斯",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 26084247,
+   "name": "保留",
+   "artist": "黄义达",
+   "album": "微光 EP",
+   "fee": 0,
+   "rank": 67
+  },
+  {
+   "id": 303279,
+   "name": "伤不起",
+   "artist": "王麟",
+   "album": "伤不起",
+   "fee": 0,
+   "rank": 68
+  },
+  {
+   "id": 233840,
+   "name": "陪着我的时候想着她",
+   "artist": "郭静",
+   "album": "陪着我的时候想着她",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 139512,
+   "name": "U U U",
+   "artist": "潘玮柏",
+   "album": "808",
+   "fee": 1,
+   "rank": 70
+  },
+  {
+   "id": 132306,
+   "name": "雨花石",
+   "artist": "李玉刚/石头",
+   "album": "雨花石",
+   "fee": 0,
+   "rank": 71
+  },
+  {
+   "id": 344389,
+   "name": "不是故意",
+   "artist": "By2",
+   "album": "90'闹Now",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 66743,
+   "name": "尊严",
+   "artist": "陈柏宇",
+   "album": "Quinquennium 新曲+精选",
+   "fee": 8,
+   "rank": 73
+  },
+  {
+   "id": 343476,
+   "name": "忘记你太难 (流行版)",
+   "artist": "阿里郎",
+   "album": "忘记你太难",
+   "fee": 8,
+   "rank": 74
+  },
+  {
+   "id": 190993,
+   "name": "第一夫人",
+   "artist": "张杰",
+   "album": "最接近天堂的地方",
+   "fee": 8,
+   "rank": 75
+  },
+  {
+   "id": 355729,
+   "name": "我对自己开了一枪",
+   "artist": "佛跳墙",
+   "album": "佛跳墙 BUDDHA JUMP 同名专辑",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 81997,
+   "name": "好不容易",
+   "artist": "方大同",
+   "album": "15",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 251588,
+   "name": "武装",
+   "artist": "江映蓉",
+   "album": "女人帮",
+   "fee": 8,
+   "rank": 78
+  },
+  {
+   "id": 25638811,
+   "name": "好的事情",
+   "artist": "严爵",
+   "album": "2011 Hit Fm 年度百首单曲",
+   "fee": 0,
+   "rank": 79
+  },
+  {
+   "id": 394707,
+   "name": "咬耳朵",
+   "artist": "至上励合",
+   "album": "Lucky Boys",
+   "fee": 8,
+   "rank": 80
+  },
+  {
+   "id": 363258,
+   "name": "厦门之夏",
+   "artist": "旅行团乐队",
+   "album": "Wonderful Day",
+   "fee": 8,
+   "rank": 81
+  },
+  {
+   "id": 167664,
+   "name": "远得要命的爱情",
+   "artist": "苏见信 (信)",
+   "album": "黎明之前",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 63637,
+   "name": "别碰我的人",
+   "artist": "陈小春",
+   "album": "别碰我的人",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 280030,
+   "name": "长镜头",
+   "artist": "那英",
+   "album": "那又怎样",
+   "fee": 0,
+   "rank": 84
+  },
+  {
+   "id": 92824,
+   "name": "伤痕",
+   "artist": "胡彦斌",
+   "album": "Who Cares?",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 209028,
+   "name": "蜉蝣",
+   "artist": "陈绮贞",
+   "album": "蜉蝣",
+   "fee": 1,
+   "rank": 86
+  },
+  {
+   "id": 25641032,
+   "name": "破晓",
+   "artist": "魏晨",
+   "album": "破晓",
+   "fee": 8,
+   "rank": 87
+  },
+  {
+   "id": 293211,
+   "name": "爱我的每个人",
+   "artist": "任家萱",
+   "album": "重作一个梦",
+   "fee": 0,
+   "rank": 88
+  },
+  {
+   "id": 328000,
+   "name": "情人结",
+   "artist": "张芸京",
+   "album": "我要我们情人结",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 191589,
+   "name": "别再惊动爱情",
+   "artist": "张栋梁",
+   "album": "别再惊动爱情",
+   "fee": 0,
+   "rank": 90
+  },
+  {
+   "id": 109948,
+   "name": "独一无二",
+   "artist": "罗志祥",
+   "album": "独一无二",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 85901,
+   "name": "爆了",
+   "artist": "古巨基",
+   "album": "Amazing World",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 286713,
+   "name": "花千树",
+   "artist": "容祖儿",
+   "album": "Joey & Joey",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 156084,
+   "name": "星辰变",
+   "artist": "吴克群",
+   "album": "星辰变",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 374022,
+   "name": "向日葵",
+   "artist": "RTA",
+   "album": "向日葵",
+   "fee": 0,
+   "rank": 95
+  },
+  {
+   "id": 223636,
+   "name": "光着我的脚丫子",
+   "artist": "戴佩妮",
+   "album": "回家路上",
+   "fee": 8,
+   "rank": 96
+  },
+  {
+   "id": 327633,
+   "name": "话说夏娃",
+   "artist": "卓文萱",
+   "album": "反正卓文萱",
+   "fee": 1,
+   "rank": 97
+  },
+  {
+   "id": 187137,
+   "name": "无声的吉他",
+   "artist": "张学友",
+   "album": "无声的吉他",
+   "fee": 8,
+   "rank": 98
+  },
+  {
+   "id": 255720,
+   "name": "还是朋友",
+   "artist": "梁文音",
+   "album": "情人X知己",
+   "fee": 8,
+   "rank": 99
+  }
+ ]
+}

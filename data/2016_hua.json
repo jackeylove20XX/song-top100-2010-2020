@@ -1,0 +1,770 @@
+{
+ "year": 2016,
+ "cat": "hua",
+ "pid": 554473977,
+ "pname": "2016年度最热新歌TOP100",
+ "creator": "网易云音乐",
+ "fetched": 95,
+ "tracks": [
+  {
+   "id": 418603077,
+   "name": "告白气球",
+   "artist": "周杰伦",
+   "album": "周杰伦的床边故事",
+   "fee": 0,
+   "rank": 1
+  },
+  {
+   "id": 415792881,
+   "name": "刚刚好",
+   "artist": "薛之谦",
+   "album": "初学者",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 436514312,
+   "name": "成都",
+   "artist": "赵雷",
+   "album": "成都",
+   "fee": 1,
+   "rank": 3
+  },
+  {
+   "id": 432821633,
+   "name": "ペンパイナッポーアッポーペン(PPAP)",
+   "artist": "PIKO太郎",
+   "album": "PPAP",
+   "fee": 1,
+   "rank": 4
+  },
+  {
+   "id": 432509483,
+   "name": "全世界谁倾听你",
+   "artist": "林宥嘉",
+   "album": "全世界谁倾听你",
+   "fee": 8,
+   "rank": 5
+  },
+  {
+   "id": 417859631,
+   "name": "我好像在哪见过你",
+   "artist": "薛之谦",
+   "album": "初学者",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 432506809,
+   "name": "致姗姗来迟的你",
+   "artist": "阿肆/林宥嘉",
+   "album": "我愚蠢的理想主义",
+   "fee": 8,
+   "rank": 7
+  },
+  {
+   "id": 431610014,
+   "name": "Starboy",
+   "artist": "The Weeknd/Daft Punk",
+   "album": "Starboy",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 411907897,
+   "name": "極楽浄土",
+   "artist": "GARNiDELiA",
+   "album": "約束 -Promise code-",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 442869498,
+   "name": "齐天大圣",
+   "artist": "华晨宇",
+   "album": "天籁之战 第七期",
+   "fee": 0,
+   "rank": 10
+  },
+  {
+   "id": 442869386,
+   "name": "Baby ，До свидания",
+   "artist": "朴树",
+   "album": "猎户星座",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 443277013,
+   "name": "火星人来过",
+   "artist": "薛之谦",
+   "album": "渡",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 437292675,
+   "name": "我要你",
+   "artist": "任素汐",
+   "album": "我要你",
+   "fee": 0,
+   "rank": 13
+  },
+  {
+   "id": 434974661,
+   "name": "Don't Wanna Know",
+   "artist": "Maroon 5/Kendrick Lamar",
+   "album": "Red Pill Blues (Deluxe)",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 431357712,
+   "name": "你在终点等我",
+   "artist": "王菲",
+   "album": "你在终点等我",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 421423806,
+   "name": "小半",
+   "artist": "陈粒",
+   "album": "小梦大半",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 437859519,
+   "name": "我的滑板鞋2016",
+   "artist": "华晨宇",
+   "album": "天籁之战 第三期",
+   "fee": 0,
+   "rank": 17
+  },
+  {
+   "id": 433681259,
+   "name": "24K Magic",
+   "artist": "Bruno Mars",
+   "album": "24K Magic",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 409102911,
+   "name": "Home",
+   "artist": "王诗安",
+   "album": "Diana Wang",
+   "fee": 8,
+   "rank": 19
+  },
+  {
+   "id": 426852063,
+   "name": "一笑倾城",
+   "artist": "汪苏泷",
+   "album": "微微一笑很倾城 电视原声带",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 423228325,
+   "name": "Closer",
+   "artist": "The Chainsmokers/Halsey",
+   "album": "Closer",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 428375722,
+   "name": "不说",
+   "artist": "李荣浩",
+   "album": "不说 (电影《从你的全世界路过》路过版主题曲)",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 437856611,
+   "name": "불장난（PLAYING WITH FIRE）",
+   "artist": "BLACKPINK",
+   "album": "SQUARE TWO",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 426881506,
+   "name": "なんでもないや (movie ver.)",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 401249910,
+   "name": "We Don't Talk Anymore",
+   "artist": "Charlie Puth/Selena Gomez",
+   "album": "Nine Track Mind",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 442315773,
+   "name": "当我在这里",
+   "artist": "陈粒",
+   "album": "当我在这里",
+   "fee": 8,
+   "rank": 26
+  },
+  {
+   "id": 440411424,
+   "name": "缘分一道桥",
+   "artist": "王力宏/谭维维",
+   "album": "A.I. 爱",
+   "fee": 0,
+   "rank": 27
+  },
+  {
+   "id": 437608773,
+   "name": "无法长大",
+   "artist": "赵雷",
+   "album": "无法长大",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 435004281,
+   "name": "茜さす (TV size)",
+   "artist": "Aimer",
+   "album": "茜さす/everlasting snow",
+   "fee": 1,
+   "rank": 29
+  },
+  {
+   "id": 426881480,
+   "name": "夢灯籠",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 30
+  },
+  {
+   "id": 413812448,
+   "name": "大鱼",
+   "artist": "周深",
+   "album": "",
+   "fee": 0,
+   "rank": 31
+  },
+  {
+   "id": 418602087,
+   "name": "爱情废柴",
+   "artist": "周杰伦",
+   "album": "周杰伦的床边故事",
+   "fee": 0,
+   "rank": 32
+  },
+  {
+   "id": 444269612,
+   "name": "红豆词",
+   "artist": "好妹妹乐队",
+   "album": "红豆词",
+   "fee": 8,
+   "rank": 33
+  },
+  {
+   "id": 424474214,
+   "name": "微微一笑很倾城",
+   "artist": "杨洋",
+   "album": "微微一笑很倾城 电视原声带",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 417250561,
+   "name": "不该",
+   "artist": "周杰伦/张惠妹",
+   "album": "周杰伦的床边故事",
+   "fee": 0,
+   "rank": 35
+  },
+  {
+   "id": 406475394,
+   "name": "Wonderful U (Demo Version)",
+   "artist": "AGA",
+   "album": "Ginadoll",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 420922950,
+   "name": "Let Me Love You",
+   "artist": "DJ Snake/Justin Bieber",
+   "album": "Encore",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 432506367,
+   "name": "电台情歌",
+   "artist": "邓超",
+   "album": "电台情歌",
+   "fee": 0,
+   "rank": 38
+  },
+  {
+   "id": 408814900,
+   "name": "借我",
+   "artist": "谢春花",
+   "album": "算云烟",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 419594258,
+   "name": "Hymn For The Weekend（Remix）",
+   "artist": "Alan Walker/Coldplay",
+   "album": "Hymn For The Weekend [Remix]",
+   "fee": 8,
+   "rank": 40
+  },
+  {
+   "id": 426881487,
+   "name": "前前前世 (movie ver.)",
+   "artist": "RADWIMPS",
+   "album": "君の名は。",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 438801672,
+   "name": "让我留在你身边",
+   "artist": "陈奕迅",
+   "album": "让我留在你身边",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 407002483,
+   "name": "浪费",
+   "artist": "徐佳莹",
+   "album": "我是歌手第四季 第10期",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 415792222,
+   "name": "Sing Me to Sleep",
+   "artist": "Alan Walker/Iselin Solheim",
+   "album": "Sing Me To Sleep",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 425298905,
+   "name": "下一秒",
+   "artist": "张碧晨",
+   "album": "微微一笑很倾城 电视原声带",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 432698441,
+   "name": "All We Know",
+   "artist": "The Chainsmokers/Phoebe Ryan",
+   "album": "All We Know",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 411314681,
+   "name": "This Is What You Came For",
+   "artist": "Calvin Harris/Rihanna",
+   "album": "This Is What You Came For",
+   "fee": 1,
+   "rank": 47
+  },
+  {
+   "id": 426850348,
+   "name": "所幸 (世界再大，我走不出你)",
+   "artist": "阿肆",
+   "album": "我愚蠢的理想主义",
+   "fee": 8,
+   "rank": 48
+  },
+  {
+   "id": 407761576,
+   "name": "儿时",
+   "artist": "刘昊霖",
+   "album": "鱼干铺里",
+   "fee": 1,
+   "rank": 49
+  },
+  {
+   "id": 431080419,
+   "name": "回忆那么伤",
+   "artist": "孙子涵",
+   "album": "双子涵",
+   "fee": 0,
+   "rank": 50
+  },
+  {
+   "id": 412493245,
+   "name": "很久以前",
+   "artist": "鹿先森乐队",
+   "album": "所有的酒，都不如你",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 424477572,
+   "name": "WHISTLE",
+   "artist": "BLACKPINK",
+   "album": "SQUARE ONE",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 444267928,
+   "name": "一生所爱",
+   "artist": "莫文蔚",
+   "album": "天籁之战 第八期",
+   "fee": 0,
+   "rank": 53
+  },
+  {
+   "id": 422132237,
+   "name": "Cold Water",
+   "artist": "Major Lazer/Justin Bieber/MØ",
+   "album": "Cold Water",
+   "fee": 1,
+   "rank": 54
+  },
+  {
+   "id": 434550534,
+   "name": "下完这场雨",
+   "artist": "后弦",
+   "album": "下完这场雨",
+   "fee": 0,
+   "rank": 55
+  },
+  {
+   "id": 417911175,
+   "name": "Heathens",
+   "artist": "twenty one pilots",
+   "album": "Heathens",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 411214279,
+   "name": "雅俗共赏",
+   "artist": "许嵩",
+   "album": "青年晚报",
+   "fee": 1,
+   "rank": 57
+  },
+  {
+   "id": 438204707,
+   "name": "天若有情",
+   "artist": "黄丽玲",
+   "album": "天若有情",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 405485737,
+   "name": "Try Everything",
+   "artist": "Shakira",
+   "album": "Zootopia (Original Motion Picture Soundtrack)",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 445702397,
+   "name": "饕餮",
+   "artist": "南征北战NZBZ",
+   "album": "饕餮",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 413961906,
+   "name": "STYX HELIX",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「Re：ゼロから始める異世界生活」エンディングテーマ「STYX HELIX」 歌：MYTH ＆ ROID 読み：STYX HELIX＝ステュクス ヘリックス",
+   "fee": 1,
+   "rank": 61
+  },
+  {
+   "id": 415086030,
+   "name": "我从崖边跌落",
+   "artist": "谢春花",
+   "album": "算云烟",
+   "fee": 1,
+   "rank": 62
+  },
+  {
+   "id": 442867409,
+   "name": "你说",
+   "artist": "易烊千玺",
+   "album": "你说",
+   "fee": 0,
+   "rank": 63
+  },
+  {
+   "id": 420513275,
+   "name": "还魂门",
+   "artist": "胡彦斌",
+   "album": "还魂门",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 418602088,
+   "name": "Nevada",
+   "artist": "Vicetone/Cozi Zuehlsdorff",
+   "album": "Nevada",
+   "fee": 1,
+   "rank": 65
+  },
+  {
+   "id": 417859220,
+   "name": "皆非",
+   "artist": "马頔",
+   "album": "皆非",
+   "fee": 8,
+   "rank": 66
+  },
+  {
+   "id": 436699534,
+   "name": "TT",
+   "artist": "TWICE",
+   "album": "TWICEcoaster：LANE 1",
+   "fee": 1,
+   "rank": 67
+  },
+  {
+   "id": 428642533,
+   "name": "The Greatest",
+   "artist": "Sia/Kendrick Lamar",
+   "album": "The Greatest",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 427595456,
+   "name": "우주를 줄게",
+   "artist": "脸红的思春期",
+   "album": "Full Album RED PLANET",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 420513838,
+   "name": "湫兮如风",
+   "artist": "徐佳莹",
+   "album": "湫兮如风",
+   "fee": 0,
+   "rank": 70
+  },
+  {
+   "id": 444269135,
+   "name": "Alone",
+   "artist": "Alan Walker",
+   "album": "Alone",
+   "fee": 1,
+   "rank": 71
+  },
+  {
+   "id": 405597568,
+   "name": "山外小楼夜听雨",
+   "artist": "任然",
+   "album": "从小到大",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 412902950,
+   "name": "最佳歌手",
+   "artist": "许嵩",
+   "album": "青年晚报",
+   "fee": 1,
+   "rank": 73
+  },
+  {
+   "id": 447280306,
+   "name": "Take Me To Shanghai",
+   "artist": "John Hughes/Íse Downes",
+   "album": "Take Me To Shanghai",
+   "fee": 0,
+   "rank": 74
+  },
+  {
+   "id": 437856612,
+   "name": "STAY",
+   "artist": "BLACKPINK",
+   "album": "SQUARE TWO",
+   "fee": 1,
+   "rank": 75
+  },
+  {
+   "id": 431259341,
+   "name": "你喜欢海却不喜欢山 ",
+   "artist": "鹿先森乐队",
+   "album": "所有的酒，都不如你",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 420125810,
+   "name": "Here We Are",
+   "artist": "华晨宇",
+   "album": "H",
+   "fee": 8,
+   "rank": 77
+  },
+  {
+   "id": 418550479,
+   "name": "Sucker For Pain",
+   "artist": "Lil Wayne/Wiz Khalifa/Imagine Dragons",
+   "album": "Suicide Squad: The Album",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 433223079,
+   "name": "Million Reasons",
+   "artist": "Lady Gaga",
+   "album": "Million Reasons",
+   "fee": 1,
+   "rank": 79
+  },
+  {
+   "id": 431811484,
+   "name": "Ignite",
+   "artist": "Zedd",
+   "album": "Ignite (2016 League Of Legends World Championship)",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 421160850,
+   "name": "陆垚知马俐",
+   "artist": "火星电台",
+   "album": "陆垚知马俐",
+   "fee": 1,
+   "rank": 81
+  },
+  {
+   "id": 411921855,
+   "name": "CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's \"TROLLS\")",
+   "artist": "Justin Timberlake",
+   "album": "CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's \"TROLLS\")",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 428095913,
+   "name": "江湖",
+   "artist": "许嵩",
+   "album": "江湖",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 409916250,
+   "name": "The Ocean (Radio Edit)",
+   "artist": "Mike Perry/SHY Martin",
+   "album": "The Ocean",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 407679465,
+   "name": "耿耿于怀",
+   "artist": "王笑文",
+   "album": "耿耿于怀",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 439915067,
+   "name": "TIAMO",
+   "artist": "T-ara",
+   "album": "REMEMBER",
+   "fee": 1,
+   "rank": 86
+  },
+  {
+   "id": 408212737,
+   "name": "在,也不见",
+   "artist": "孙燕姿",
+   "album": "在,也不见",
+   "fee": 1,
+   "rank": 87
+  },
+  {
+   "id": 413074398,
+   "name": "我是全英雄联盟最骚的骚猪",
+   "artist": "PDD",
+   "album": "我是全英雄联盟最骚的骚猪",
+   "fee": 0,
+   "rank": 88
+  },
+  {
+   "id": 439076364,
+   "name": "Solo Dance",
+   "artist": "Martin Jensen",
+   "album": "Solo Dance",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 436305364,
+   "name": "某时某刻 Catch me when I fall",
+   "artist": "鹿晗",
+   "album": "Xperience",
+   "fee": 1,
+   "rank": 90
+  },
+  {
+   "id": 432698452,
+   "name": "Trust Nobody",
+   "artist": "Cashmere Cat/Selena Gomez/Tory Lanez",
+   "album": "Wild Love",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 420513158,
+   "name": "红蔷薇白玫瑰",
+   "artist": "G.E.M.邓紫棋",
+   "album": "红蔷薇白玫瑰",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 434550872,
+   "name": "败将",
+   "artist": "陈势安",
+   "album": "亲爱的偏执狂",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 429482207,
+   "name": "Perfect Illusion",
+   "artist": "Lady Gaga",
+   "album": "Perfect Illusion",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 421203086,
+   "name": "时光正好",
+   "artist": "郁可唯",
+   "album": "时光正好",
+   "fee": 8,
+   "rank": 95
+  }
+ ]
+}

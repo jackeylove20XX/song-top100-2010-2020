@@ -1,0 +1,802 @@
+{
+ "year": 2014,
+ "cat": "acg",
+ "pid": 585289619,
+ "pname": "『2014年动漫推荐TOP100』",
+ "creator": "三角仔",
+ "fetched": 99,
+ "tracks": [
+  {
+   "id": 29307041,
+   "name": "aLIEz",
+   "artist": "瑞葵(mizuki)/SawanoHiroyuki[nZk]",
+   "album": "A/Z|aLIEz",
+   "fee": 1,
+   "rank": 1
+  },
+  {
+   "id": 28497272,
+   "name": "Rising Hope",
+   "artist": "LiSA",
+   "album": "Rising Hope",
+   "fee": 8,
+   "rank": 2
+  },
+  {
+   "id": 31421235,
+   "name": "STEP",
+   "artist": "ClariS",
+   "album": "ClariS 〜SINGLE BEST 1st〜",
+   "fee": 1,
+   "rank": 3
+  },
+  {
+   "id": 28563196,
+   "name": "虹のかけら",
+   "artist": "昆夏美",
+   "album": "虹のかけら",
+   "fee": 0,
+   "rank": 4
+  },
+  {
+   "id": 436147540,
+   "name": "IGNITE",
+   "artist": "藍井エイル",
+   "album": "BEST -A-",
+   "fee": 1,
+   "rank": 5
+  },
+  {
+   "id": 31066263,
+   "name": "名前のない怪物",
+   "artist": "EGOIST",
+   "album": "「PSYCHO-PASS サイコパス」Complete Original Soundtrack 2",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 28891491,
+   "name": "世界は恋に落ちている",
+   "artist": "CHiCO with HoneyWorks",
+   "album": "世界は恋に落ちている",
+   "fee": 8,
+   "rank": 7
+  },
+  {
+   "id": 28563214,
+   "name": "This game",
+   "artist": "鈴木このみ",
+   "album": "TVアニメ「ノーゲーム・ノーライフ」OPテーマ「This game」【通常盤】 歌：鈴木このみ",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 28987987,
+   "name": "Mirror",
+   "artist": "安田レイ",
+   "album": "Mirror",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 30706885,
+   "name": "プラチナジェット",
+   "artist": "佳村はるか/千菅春香/木村珠莉",
+   "album": "宝箱 -TREASURE BOX- / プラチナジェット",
+   "fee": 0,
+   "rank": 10
+  },
+  {
+   "id": 28241236,
+   "name": "CLICK",
+   "artist": "ClariS",
+   "album": "CLICK",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 29732992,
+   "name": "光るなら",
+   "artist": "Goose house",
+   "album": "光るなら",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 825652,
+   "name": "LOVE & ROLL",
+   "artist": "supercell",
+   "album": "君の知らない物語",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 29600021,
+   "name": "BLAZING",
+   "artist": "GARNiDELiA",
+   "album": "BLAZING",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 28875033,
+   "name": "BRYNHILDR IN THE DARKNESS -EJECTRO Extended-",
+   "artist": "鴇沢直",
+   "album": "TVアニメ「極黒のブリュンヒルデ」スペシャルCD",
+   "fee": 0,
+   "rank": 15
+  },
+  {
+   "id": 29709915,
+   "name": "キラメキ",
+   "artist": "wacci",
+   "album": "キラメキ",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 28941694,
+   "name": "君じゃなきゃダメみたい",
+   "artist": "オーイシマサヨシ",
+   "album": "TVアニメ「月刊少女野崎くん」OPテーマ「君じゃなきゃダメみたい」 歌：オーイシマサヨシ",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 26118113,
+   "name": "All Alone With You",
+   "artist": "EGOIST",
+   "album": "All Alone With You",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 28563201,
+   "name": "奏 (かなで)",
+   "artist": "雨宮天",
+   "album": "奏 (かなで)",
+   "fee": 0,
+   "rank": 19
+  },
+  {
+   "id": 29498251,
+   "name": "The Glory Days",
+   "artist": "Tia",
+   "album": "The Glory Days",
+   "fee": 8,
+   "rank": 20
+  },
+  {
+   "id": 28593019,
+   "name": "Daydream cafe",
+   "artist": "Petit Rabbit's",
+   "album": "Daydream café",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 29027218,
+   "name": "point at infinity",
+   "artist": "やなぎなぎ",
+   "album": "あの夏で待ってる 特別編 -THEME SONGS- Ray「季節のシャッター」/やなぎなぎ「point at infinity」",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 28234419,
+   "name": "午夜の待ち合わせ",
+   "artist": "Hello Sleepwalkers",
+   "album": "午夜の待ち合わせ",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 28528420,
+   "name": "black bullet",
+   "artist": "fripSide",
+   "album": "black bullet",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 28411788,
+   "name": "涙はらはら -Reprise-",
+   "artist": "大空直美",
+   "album": "TVアニメーション いなり、こんこん、恋いろは。 オリジナルサウンドトラック",
+   "fee": 0,
+   "rank": 25
+  },
+  {
+   "id": 29753401,
+   "name": "Animetic Love Letter",
+   "artist": "佳村はるか/千菅春香/木村珠莉",
+   "album": "COLORFUL BOX / Animetic Love Letter",
+   "fee": 0,
+   "rank": 26
+  },
+  {
+   "id": 28481337,
+   "name": "Trust in you",
+   "artist": "sweet ARMS",
+   "album": "Trust in you",
+   "fee": 0,
+   "rank": 27
+  },
+  {
+   "id": 28481582,
+   "name": "fallen down",
+   "artist": "早見沙織",
+   "album": "そらのおとしもの ～エターナル・イカロス～ そらのおとしものFinal 永遠の私の鳥籠(エターナルマイマスター) 上映記念アルバム",
+   "fee": 0,
+   "rank": 28
+  },
+  {
+   "id": 30854607,
+   "name": "No More Time Machine",
+   "artist": "LiSA",
+   "album": "Launcher",
+   "fee": 8,
+   "rank": 29
+  },
+  {
+   "id": 30474894,
+   "name": "いつかの、いくつかのきみとのせかい",
+   "artist": "fhána",
+   "album": "Outside of Melancholy",
+   "fee": 8,
+   "rank": 30
+  },
+  {
+   "id": 28528415,
+   "name": "微かな密かな確かなミライ",
+   "artist": "スフィア",
+   "album": "微かな密かな確かなミライ",
+   "fee": 1,
+   "rank": 31
+  },
+  {
+   "id": 31066203,
+   "name": "Fallen (TV Edit)",
+   "artist": "EGOIST",
+   "album": "「PSYCHO-PASS サイコパス」Complete Original Soundtrack 2",
+   "fee": 0,
+   "rank": 32
+  },
+  {
+   "id": 35023412,
+   "name": "Let Me Hear",
+   "artist": "Fear, and Loathing in Las Vegas",
+   "album": "Feeling of Unity",
+   "fee": 1,
+   "rank": 33
+  },
+  {
+   "id": 29736027,
+   "name": "believe",
+   "artist": "Kalafina",
+   "album": "believe",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 29550217,
+   "name": "ideal white",
+   "artist": "綾野ましろ",
+   "album": "ideal white (期間生産限定アニメ盤)",
+   "fee": 8,
+   "rank": 35
+  },
+  {
+   "id": 29027056,
+   "name": "A/Z",
+   "artist": "瑞葵(mizuki)/SawanoHiroyuki[nZk]",
+   "album": "A/Z|aLIEz",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 28497211,
+   "name": "ミレナリオ",
+   "artist": "ELISA",
+   "album": "ミレナリオ(期間生産限定アニメ盤)",
+   "fee": 8,
+   "rank": 37
+  },
+  {
+   "id": 28884238,
+   "name": "ひまわりの約束",
+   "artist": "秦基博",
+   "album": "ひまわりの約束",
+   "fee": 1,
+   "rank": 38
+  },
+  {
+   "id": 28864166,
+   "name": "スタートライン",
+   "artist": "seven oops",
+   "album": "スタートライン",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 28850709,
+   "name": "grilletto",
+   "artist": "GARNiDELiA",
+   "album": "grilletto (期間生産限定アニメ盤)",
+   "fee": 8,
+   "rank": 40
+  },
+  {
+   "id": 28854006,
+   "name": "Sincerely",
+   "artist": "早見沙織",
+   "album": "Sincerely",
+   "fee": 0,
+   "rank": 41
+  },
+  {
+   "id": 29436425,
+   "name": "BRE@TH//LESS <a0v>",
+   "artist": "小林未郁",
+   "album": "アルドノア・ゼロ 劇伴リアレンジCD",
+   "fee": 0,
+   "rank": 42
+  },
+  {
+   "id": 31134830,
+   "name": "こんな世界、知りたくなかった。",
+   "artist": "沢井美空",
+   "album": "憂鬱日和。",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 29357474,
+   "name": "心の鍵",
+   "artist": "May J.",
+   "album": "本当の恋",
+   "fee": 8,
+   "rank": 44
+  },
+  {
+   "id": 29764199,
+   "name": "北極星～ポラリス～",
+   "artist": "得田真裕",
+   "album": "戦国BASARA Judge End オリジナル・サウンドトラック",
+   "fee": 8,
+   "rank": 45
+  },
+  {
+   "id": 30706884,
+   "name": "宝箱-TREASURE BOX-",
+   "artist": "奥井雅美",
+   "album": "宝箱 -TREASURE BOX- / プラチナジェット",
+   "fee": 0,
+   "rank": 46
+  },
+  {
+   "id": 28528407,
+   "name": "My Sweet Shelter",
+   "artist": "花澤香菜/佐藤利奈/金元寿子",
+   "album": "My Sweet Shelter",
+   "fee": 0,
+   "rank": 47
+  },
+  {
+   "id": 28642911,
+   "name": "唯一人",
+   "artist": "爆弾ジョニー",
+   "album": "唯一人",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 28870317,
+   "name": "夏の日と君の声",
+   "artist": "ChouCho",
+   "album": "夏の日と君の声",
+   "fee": 1,
+   "rank": 49
+  },
+  {
+   "id": 29753399,
+   "name": "COLORFUL BOX",
+   "artist": "石田燿子",
+   "album": "COLORFUL BOX / Animetic Love Letter",
+   "fee": 0,
+   "rank": 50
+  },
+  {
+   "id": 29550260,
+   "name": "エクストラ・マジック・アワー",
+   "artist": "AKINO",
+   "album": "エクストラ・マジック・アワー",
+   "fee": 8,
+   "rank": 51
+  },
+  {
+   "id": 28258450,
+   "name": "オトノナルホウヘ→",
+   "artist": "Goose house",
+   "album": "オトノナルホウヘ→コンプリートパック",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 30373880,
+   "name": "Don't let me down",
+   "artist": "西内まりや",
+   "album": "7 WONDERS",
+   "fee": 8,
+   "rank": 53
+  },
+  {
+   "id": 29738175,
+   "name": "You Gotta Love Me!",
+   "artist": "かと*ふく",
+   "album": "You Gotta Love Me!",
+   "fee": 8,
+   "rank": 54
+  },
+  {
+   "id": 28387793,
+   "name": "Another Letter",
+   "artist": "中島愛",
+   "album": "アンサーソングス",
+   "fee": 0,
+   "rank": 55
+  },
+  {
+   "id": 27598472,
+   "name": "Sparkling Daydream",
+   "artist": "ZAQ",
+   "album": "Sparkling Daydream",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 28411780,
+   "name": "誰よりも大切な人へ",
+   "artist": "桑島法子",
+   "album": "TVアニメーション いなり、こんこん、恋いろは。 オリジナルサウンドトラック",
+   "fee": 0,
+   "rank": 57
+  },
+  {
+   "id": 28563189,
+   "name": "StarRingChild",
+   "artist": "Aimer",
+   "album": "StarRingChild EP",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 28391396,
+   "name": "蒼穹ノ旗",
+   "artist": "吉岡亜衣加",
+   "album": "蒼穹ノ旗",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 28838511,
+   "name": "Q&A (Full Size)",
+   "artist": "井上麻里奈/藏合紗恵子",
+   "album": "TVアニメ「デート・ア・ライブII」ミュージック・セレクション DATE A \"IMPRESSIVE\" MUSIC",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 34338167,
+   "name": "夢をかなえてドラえもん",
+   "artist": "mao",
+   "album": "夢をかなえてドラえもん",
+   "fee": 0,
+   "rank": 61
+  },
+  {
+   "id": 28875047,
+   "name": "いちばん星 -寧子 Solo Ver.-",
+   "artist": "種田梨沙",
+   "album": "TVアニメ「極黒のブリュンヒルデ」スペシャルCD",
+   "fee": 0,
+   "rank": 62
+  },
+  {
+   "id": 31165153,
+   "name": "Startear",
+   "artist": "春奈るな",
+   "album": "Candy Lips",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 28854720,
+   "name": "ブルー",
+   "artist": "フジファブリック",
+   "album": "ブルー/WIRED",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 28606195,
+   "name": "パスコード4854",
+   "artist": "安田レイ",
+   "album": "パスコード4854",
+   "fee": 8,
+   "rank": 65
+  },
+  {
+   "id": 29022907,
+   "name": "夕景イエスタデイ(Full Mix)",
+   "artist": "じん/LiSA",
+   "album": "夕景イエスタデイ(Full Mix & Instrumental)",
+   "fee": 0,
+   "rank": 66
+  },
+  {
+   "id": 28912023,
+   "name": "メカクシコード",
+   "artist": "じん/やさぐれ子猫",
+   "album": "メカクシコード(Full Mix & Instrumental)",
+   "fee": 0,
+   "rank": 67
+  },
+  {
+   "id": 28854199,
+   "name": "如月アテンション",
+   "artist": "春奈るな",
+   "album": "如月アテンション",
+   "fee": 0,
+   "rank": 68
+  },
+  {
+   "id": 28481585,
+   "name": "ハートの確率 (Main Vocal Saori)",
+   "artist": "blue drops",
+   "album": "そらのおとしもの ～エターナル・イカロス～ そらのおとしものFinal 永遠の私の鳥籠(エターナルマイマスター) 上映記念アルバム",
+   "fee": 0,
+   "rank": 69
+  },
+  {
+   "id": 29755465,
+   "name": "Determination",
+   "artist": "LASTGASP",
+   "album": "Determination",
+   "fee": 0,
+   "rank": 70
+  },
+  {
+   "id": 29794280,
+   "name": "Open The Doors",
+   "artist": "Aimer",
+   "album": "broKen NIGHT / holLow wORlD",
+   "fee": 8,
+   "rank": 71
+  },
+  {
+   "id": 29027215,
+   "name": "季節のシャッター",
+   "artist": "Ray",
+   "album": "あの夏で待ってる 特別編 -THEME SONGS- Ray「季節のシャッター」/やなぎなぎ「point at infinity」",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 28285651,
+   "name": "あの空に還る未来で",
+   "artist": "ChouCho",
+   "album": "あの空に還る未来で",
+   "fee": 0,
+   "rank": 73
+  },
+  {
+   "id": 28593014,
+   "name": "ぽっぴんジャンプ♪",
+   "artist": "村川梨衣/徳井青空/水瀬いのり",
+   "album": "ぽっぴんジャンプ♪",
+   "fee": 1,
+   "rank": 74
+  },
+  {
+   "id": 29460765,
+   "name": "夏色プレゼント",
+   "artist": "井口裕香/阿澄佳奈/日笠陽子",
+   "album": "夏色プレゼント",
+   "fee": 0,
+   "rank": 75
+  },
+  {
+   "id": 28987773,
+   "name": "花ハ踊レヤいろはにほ",
+   "artist": "チーム\"ハナヤマタ\"",
+   "album": "花ハ踊レヤいろはにほ",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 28457716,
+   "name": "プリンシプル",
+   "artist": "洲崎綾",
+   "album": "プリンシプル",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 30798092,
+   "name": "暁の華",
+   "artist": "Cyntia",
+   "album": "暁の華",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 29744626,
+   "name": "月灯り",
+   "artist": "雨宮天",
+   "album": "月灯り",
+   "fee": 1,
+   "rank": 79
+  },
+  {
+   "id": 29567534,
+   "name": "Le jour Character Cover Ver.",
+   "artist": "友永朱音/高田初美",
+   "album": "明日また会えるよね",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 29709924,
+   "name": "瞳に映るセカイ",
+   "artist": "深川芹亜",
+   "album": "歌声の欠片",
+   "fee": 0,
+   "rank": 81
+  },
+  {
+   "id": 28442575,
+   "name": "STAND PROUD",
+   "artist": "橋本仁",
+   "album": "STAND PROUD",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 28497575,
+   "name": "どんなときもずっと",
+   "artist": "μ's",
+   "album": "どんなときもずっと",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 28838487,
+   "name": "精霊剣舞祭",
+   "artist": "にーそっくすす",
+   "album": "TVアニメ「精霊使いの剣舞（ブレイドダンス）」エンディングテーマ「精霊剣舞祭（ブレイドダンス）」 歌：にーそっくすす",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 28850740,
+   "name": "moving soul",
+   "artist": "栗林みな実",
+   "album": "moving soul",
+   "fee": 0,
+   "rank": 85
+  },
+  {
+   "id": 29567383,
+   "name": "ギミー!レボリューション",
+   "artist": "内田真礼",
+   "album": "ギミー!レボリューション 通常盤",
+   "fee": 1,
+   "rank": 86
+  },
+  {
+   "id": 28457708,
+   "name": "彼女がフラグを立てる理由",
+   "artist": "茅野愛衣/阿澄佳奈/花澤香菜",
+   "album": "彼女がフラグを立てる理由（ワケ）",
+   "fee": 8,
+   "rank": 87
+  },
+  {
+   "id": 28642504,
+   "name": "天地ガエシ",
+   "artist": "NICO Touches the Walls",
+   "album": "天地ガエシ",
+   "fee": 8,
+   "rank": 88
+  },
+  {
+   "id": 28364322,
+   "name": "シャツとブラウス",
+   "artist": "I-1 Club",
+   "album": "リトル・チャレンジャー",
+   "fee": 8,
+   "rank": 89
+  },
+  {
+   "id": 578758,
+   "name": "Glossy:MMM",
+   "artist": "橋本みゆき",
+   "album": "Glossy: MMM",
+   "fee": 1,
+   "rank": 90
+  },
+  {
+   "id": 28432021,
+   "name": "DECIDE MY FATE",
+   "artist": "宮野真守",
+   "album": "TVアニメ『ノブナガ・ザ・フール』キャラクターソング Vol.1 オダ・ノブナガ (CV.宮野真守)",
+   "fee": 8,
+   "rank": 91
+  },
+  {
+   "id": 29307348,
+   "name": "夢幻の華",
+   "artist": "茅野愛衣",
+   "album": "キャプテン・アース VOL.2 特典CD",
+   "fee": 0,
+   "rank": 92
+  },
+  {
+   "id": 29744777,
+   "name": "Aurora Days",
+   "artist": "照井春佳/三森すずこ/内山夕実",
+   "album": "Aurora Days",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 28864189,
+   "name": "好感Win-Win無条件",
+   "artist": "ハート♡インベーダー",
+   "album": "好感Win-Win無条件",
+   "fee": 0,
+   "rank": 94
+  },
+  {
+   "id": 28815097,
+   "name": "This Old House",
+   "artist": "Priscilla Ahn",
+   "album": "Fine On The Outside",
+   "fee": 0,
+   "rank": 95
+  },
+  {
+   "id": 30413553,
+   "name": "syncretism (animesize ver.)",
+   "artist": "Annabel",
+   "album": "アニメ Hybrid Child オリジナルサウンドトラック",
+   "fee": 0,
+   "rank": 96
+  },
+  {
+   "id": 28593206,
+   "name": "サヨナラ嘘ツキ",
+   "artist": "みみめめMIMI",
+   "album": "サヨナラ嘘ツキ",
+   "fee": 1,
+   "rank": 97
+  },
+  {
+   "id": 29713049,
+   "name": "花咲く☆最強レジェンドDays",
+   "artist": "トリプルブッキング",
+   "album": "生徒会役員共の楽曲が全部分かるラッキーなCD、略して、全ラ。",
+   "fee": 0,
+   "rank": 98
+  },
+  {
+   "id": 29713053,
+   "name": "桜の空",
+   "artist": "杉並児童合唱団",
+   "album": "生徒会役員共の楽曲が全部分かるラッキーなCD、略して、全ラ。",
+   "fee": 1,
+   "rank": 99
+  }
+ ]
+}

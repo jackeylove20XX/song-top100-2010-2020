@@ -1,0 +1,810 @@
+{
+ "year": 2020,
+ "cat": "acg",
+ "pid": 5344048011,
+ "pname": "【ACG】盘点2020年百首好听的动漫歌曲",
+ "creator": "爆肝工程师的狂想曲",
+ "fetched": 100,
+ "tracks": [
+  {
+   "id": 1309903594,
+   "name": "Lost Princess",
+   "artist": "M・A・O/伊藤美来/立花理香",
+   "album": "プリンセスコネクト! Re:Dive PRICONNE CHARACTER SONG 01",
+   "fee": 0,
+   "rank": 1
+  },
+  {
+   "id": 1475841362,
+   "name": "Memento",
+   "artist": "nonoc",
+   "album": "TVアニメ「Re:ゼロから始める異世界生活」第2期エンディングテーマ「Memento」 歌：nonoc",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 1378406180,
+   "name": "Other Side",
+   "artist": "MIYAVI",
+   "album": "NO SLEEP TILL TOKYO",
+   "fee": 1,
+   "rank": 3
+  },
+  {
+   "id": 1417265422,
+   "name": "nameless story",
+   "artist": "岸田教団＆THE明星ロケッツ",
+   "album": "nameless story",
+   "fee": 0,
+   "rank": 4
+  },
+  {
+   "id": 1483023596,
+   "name": "LOST IN PARADISE",
+   "artist": "ALI/AKLO",
+   "album": "LOST IN PARADISE",
+   "fee": 1,
+   "rank": 5
+  },
+  {
+   "id": 1501529238,
+   "name": "衝撃",
+   "artist": "安藤裕子",
+   "album": "衝撃",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 1440648326,
+   "name": "DADDY! DADDY! DO!",
+   "artist": "鈴木雅之/鈴木愛理",
+   "album": "DADDY! DADDY! DO! feat. 鈴木愛理",
+   "fee": 0,
+   "rank": 7
+  },
+  {
+   "id": 1415328054,
+   "name": "名前のない青",
+   "artist": "神様、僕は気づいてしまった",
+   "album": "名前のない青",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 1415579843,
+   "name": "蝶の飛ぶ水槽",
+   "artist": "TK from 凛として時雨",
+   "album": "蝶の飛ぶ水槽",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 1429420739,
+   "name": "春はゆく",
+   "artist": "Aimer",
+   "album": "春はゆく / marie",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 18317231,
+   "name": "The Great Pretender",
+   "artist": "Freddie Mercury",
+   "album": "Greatest Hits III",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 1805114540,
+   "name": "正しくなれない",
+   "artist": "ずっと真夜中でいいのに。",
+   "album": "正しくなれない",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 1501663017,
+   "name": "独白",
+   "artist": "坂本真綾",
+   "album": "独白↔躍動[FGO盤]",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 1483141348,
+   "name": "Ready",
+   "artist": "浦島坂田船",
+   "album": "Ready",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 1460609379,
+   "name": "Welcome My Friend",
+   "artist": "OKAMOTO'S",
+   "album": "Welcome My Friend",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 1415754858,
+   "name": "LAST DANCE",
+   "artist": "宮野真守",
+   "album": "LAST DANCE",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 1484336476,
+   "name": "恋のうた",
+   "artist": "Yunomi/鬼頭明里",
+   "album": "恋のうた  feat. 由崎司",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 1428695599,
+   "name": "FOREVER LOST",
+   "artist": "MYTH & ROID",
+   "album": "MYTH ＆ ROID ベストアルバム「MUSEUM-THE BEST OF MYTH ＆ ROID-」【通常盤】",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 1452840689,
+   "name": "Into the blue's",
+   "artist": "ACCAMER",
+   "album": "Into the blue's",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 1500122344,
+   "name": "心海",
+   "artist": "Eve",
+   "album": "心海",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 1497553459,
+   "name": "ヒプノシスマイク -Rhyme Anima-",
+   "artist": "Division All Stars",
+   "album": "ヒプノシスマイク -Rhyme Anima-",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 1459378620,
+   "name": "Contradiction (feat. Tyler Carter)",
+   "artist": "KSUKE/Tyler Carter",
+   "album": "Contradiction (feat. Tyler Carter)",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 633079,
+   "name": "a life",
+   "artist": "大貫妙子/坂本龍一",
+   "album": "UTAU",
+   "fee": 8,
+   "rank": 23
+  },
+  {
+   "id": 1436821624,
+   "name": "ad meliora",
+   "artist": "THE CHARM PARK",
+   "album": "ad meliora",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 1464476461,
+   "name": "芽ぐみの雨",
+   "artist": "やなぎなぎ",
+   "album": "芽ぐみの雨",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 1420533652,
+   "name": "Tell me",
+   "artist": "milet",
+   "album": "Prover / Tell me",
+   "fee": 8,
+   "rank": 26
+  },
+  {
+   "id": 1485826444,
+   "name": "I believe what you said (TV Size)",
+   "artist": "亜咲花",
+   "album": "",
+   "fee": 0,
+   "rank": 27
+  },
+  {
+   "id": 1431385869,
+   "name": "パレード",
+   "artist": "石崎ひゅーい",
+   "album": "パレード",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 1429420504,
+   "name": "red strand",
+   "artist": "Cö shu Nie",
+   "album": "red strand",
+   "fee": 1,
+   "rank": 29
+  },
+  {
+   "id": 1463887159,
+   "name": "ハミダシモノ (TV Size)",
+   "artist": "楠木ともり",
+   "album": "",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 1486060379,
+   "name": "Evergreen",
+   "artist": "sajou no hana",
+   "album": "Evergreen",
+   "fee": 1,
+   "rank": 31
+  },
+  {
+   "id": 1463649323,
+   "name": "記憶の箱舟",
+   "artist": "伊東歌詞太郎",
+   "album": "TVアニメ「デカダンス」エンディングテーマ「記憶の箱舟」 歌：伊東歌詞太郎",
+   "fee": 1,
+   "rank": 32
+  },
+  {
+   "id": 1474400778,
+   "name": "SPARK-AGAIN",
+   "artist": "Aimer",
+   "album": "SPARK-AGAIN",
+   "fee": 1,
+   "rank": 33
+  },
+  {
+   "id": 1421173637,
+   "name": "Be Zero",
+   "artist": "Hilcrhyme",
+   "album": "Be Zero",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 1418280047,
+   "name": "絶対零度",
+   "artist": "赤い公園",
+   "album": "絶対零度",
+   "fee": 1,
+   "rank": 35
+  },
+  {
+   "id": 1487550391,
+   "name": "炎 (THE FIRST TAKE Studio Ver.)",
+   "artist": "LiSA",
+   "album": "",
+   "fee": 0,
+   "rank": 36
+  },
+  {
+   "id": 1426126183,
+   "name": "Tiny Light",
+   "artist": "鬼頭明里",
+   "album": "Desire Again",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 1420533654,
+   "name": "Shout Baby",
+   "artist": "緑黄色社会",
+   "album": "Shout Baby",
+   "fee": 1,
+   "rank": 38
+  },
+  {
+   "id": 1409933391,
+   "name": "Only For You",
+   "artist": "Da-iCE",
+   "album": "BACK TO BACK",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 1398451197,
+   "name": "Magical Babyrinth",
+   "artist": "DA PUMP",
+   "album": "Magical Babyrinth",
+   "fee": 1,
+   "rank": 40
+  },
+  {
+   "id": 1482901529,
+   "name": "イツカノキオク",
+   "artist": "和氣あず未",
+   "album": "イツカノキオク／透明のペダル",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 1479561919,
+   "name": "WILL",
+   "artist": "TRUE",
+   "album": "WILL",
+   "fee": 8,
+   "rank": 42
+  },
+  {
+   "id": 1488282491,
+   "name": "バケモノと呼ばれて",
+   "artist": "藤川千愛",
+   "album": "バケモノと呼ばれて",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 1442466883,
+   "name": "花に亡霊",
+   "artist": "ヨルシカ",
+   "album": "花に亡霊",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 1442804786,
+   "name": "TOP -Japanese ver.-",
+   "artist": "Stray Kids",
+   "album": "TOP -Japanese ver.-",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 1488804344,
+   "name": "虹色Passions！",
+   "artist": "虹ヶ咲学園スクールアイドル同好会",
+   "album": "虹色Passions！",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 1499805620,
+   "name": "nice to NEET you!",
+   "artist": "A応P",
+   "album": "nice to NEET you!",
+   "fee": 0,
+   "rank": 47
+  },
+  {
+   "id": 1481126190,
+   "name": "Grey",
+   "artist": "FOMARE",
+   "album": "Grey",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 1450025051,
+   "name": "桜夢見し",
+   "artist": "佐倉綾音/内田真礼/山村響",
+   "album": "『新サクラ大戦 the Animation』エンディング主題歌「桜夢見し」",
+   "fee": 8,
+   "rank": 49
+  },
+  {
+   "id": 1494738699,
+   "name": "disclose",
+   "artist": "H-el-ical//",
+   "album": "disclose",
+   "fee": 1,
+   "rank": 50
+  },
+  {
+   "id": 1490097902,
+   "name": "夢?",
+   "artist": "はてな",
+   "album": "夢?",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 1484409789,
+   "name": "unforever",
+   "artist": "りぶ",
+   "album": "",
+   "fee": 0,
+   "rank": 52
+  },
+  {
+   "id": 1479372950,
+   "name": "One Day",
+   "artist": "SPYAIR",
+   "album": "One Day",
+   "fee": 1,
+   "rank": 53
+  },
+  {
+   "id": 1479372942,
+   "name": "Higher's High",
+   "artist": "七音阿卡莉",
+   "album": "Higher's High",
+   "fee": 1,
+   "rank": 54
+  },
+  {
+   "id": 1494507184,
+   "name": "瞬間ドラマチック",
+   "artist": "saji",
+   "album": "瞬間ドラマチック",
+   "fee": 1,
+   "rank": 55
+  },
+  {
+   "id": 1479783433,
+   "name": "Gravity",
+   "artist": "BUMP OF CHICKEN",
+   "album": "Gravity",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 1493144062,
+   "name": "Q？",
+   "artist": "Reol",
+   "album": "Q？",
+   "fee": 1,
+   "rank": 57
+  },
+  {
+   "id": 1447594603,
+   "name": "through the dark",
+   "artist": "安田レイ",
+   "album": "through the dark",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 1449986119,
+   "name": "Never Let You Go!",
+   "artist": "七穂",
+   "album": "Never Let You Go!／プラスマイナスゼロの法則",
+   "fee": 8,
+   "rank": 59
+  },
+  {
+   "id": 1447825513,
+   "name": "サイダーのように言葉が湧き上がる",
+   "artist": "never young beach",
+   "album": "サイダーのように言葉が湧き上がる",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 1444442051,
+   "name": "SEA HORIZON",
+   "artist": "高尾奏音/川井田夏海/篠原侑",
+   "album": "SEA HORIZON /釣りの世界へ",
+   "fee": 8,
+   "rank": 61
+  },
+  {
+   "id": 1438227278,
+   "name": "Fly with me",
+   "artist": "ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ",
+   "album": "Fly with me",
+   "fee": 1,
+   "rank": 62
+  },
+  {
+   "id": 1490617293,
+   "name": "ワンダー！",
+   "artist": "新田ひより/久保田梨沙/白石晴香",
+   "album": "TVアニメ「おちこぼれフルーツタルト」メインテーマCD 歌：フルーツタルト",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 1436553424,
+   "name": "アリシア (Asterisk Remix)",
+   "artist": "Asterisk",
+   "album": "アリシア (Asterisk Remix)",
+   "fee": 0,
+   "rank": 64
+  },
+  {
+   "id": 1484843338,
+   "name": "Howling (TV Size)",
+   "artist": "ASCA",
+   "album": "",
+   "fee": 0,
+   "rank": 65
+  },
+  {
+   "id": 1428655402,
+   "name": "ありがとうはこっちの言葉",
+   "artist": "森山直太朗",
+   "album": "ありがとうはこっちの言葉",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 1470154797,
+   "name": "Only wish",
+   "artist": "Luiza",
+   "album": "「デート・ア・バレット デッド・オア・バレット」主題歌",
+   "fee": 1,
+   "rank": 67
+  },
+  {
+   "id": 1491840980,
+   "name": "太陽とレインボー",
+   "artist": "富田美憂",
+   "album": "太陽とレインボー",
+   "fee": 0,
+   "rank": 68
+  },
+  {
+   "id": 1463649229,
+   "name": "Chaos Drifters (Short ver.)",
+   "artist": "SawanoHiroyuki[nZk]/Jean-Ken Johnny",
+   "album": "",
+   "fee": 0,
+   "rank": 69
+  },
+  {
+   "id": 1486051701,
+   "name": "ANIMA (THE FIRST TAKE Studio Ver.)",
+   "artist": "ReoNa",
+   "album": "",
+   "fee": 0,
+   "rank": 70
+  },
+  {
+   "id": 1443064508,
+   "name": "藪の中のジンテーゼ",
+   "artist": "南條愛乃",
+   "album": "藪の中のジンテーゼ",
+   "fee": 1,
+   "rank": 71
+  },
+  {
+   "id": 1435668824,
+   "name": "時としてバイオレンス",
+   "artist": "halca",
+   "album": "時としてバイオレンス",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 1453086731,
+   "name": "エフェメラをあつめて",
+   "artist": "鈴木みのり",
+   "album": "エフェメラをあつめて",
+   "fee": 0,
+   "rank": 73
+  },
+  {
+   "id": 1417265541,
+   "name": "チューリングラブ",
+   "artist": "七音阿卡莉/Sou",
+   "album": "チューリングラブ / ピヨ",
+   "fee": 1,
+   "rank": 74
+  },
+  {
+   "id": 1422763905,
+   "name": "異世界ショータイム",
+   "artist": "悠木碧/小林裕介/福島潤",
+   "album": "TVアニメ「異世界かるてっと2」オープニングテーマ／エンディングテーマ 歌：アインズ（CV：日野 聡）、カズマ（CV：福島 潤）、スバル（CV：小林裕介）、ターニャ（CV：悠木 碧）     ／シャルティア（CV：上坂すみれ）、めぐみん（CV：高橋李依）、レム（CV：水瀬いのり）、ヴィーシャ（CV：早見沙織）",
+   "fee": 1,
+   "rank": 75
+  },
+  {
+   "id": 1436444697,
+   "name": "光射す方へ",
+   "artist": "宮野真守",
+   "album": "光射す方へ",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 1425989284,
+   "name": "From The Seeds",
+   "artist": "上白石萌音",
+   "album": "From The Seeds",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 1424032383,
+   "name": "Static",
+   "artist": "Mili",
+   "album": "Static",
+   "fee": 8,
+   "rank": 78
+  },
+  {
+   "id": 1423038384,
+   "name": "夜空",
+   "artist": "鈴木みのり",
+   "album": "夜空",
+   "fee": 8,
+   "rank": 79
+  },
+  {
+   "id": 1418533676,
+   "name": "ムズイ",
+   "artist": "22/7",
+   "album": "ムズイ (Special Edition)",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 1422182253,
+   "name": "Plunderer",
+   "artist": "伊藤美来",
+   "album": "Plunderer",
+   "fee": 1,
+   "rank": 81
+  },
+  {
+   "id": 1478430867,
+   "name": "本日モ誠ニ晴天也",
+   "artist": "古川 慎",
+   "album": "本日モ誠ニ晴天也",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 1438203639,
+   "name": "乙女のルートはひとつじゃない！",
+   "artist": "angela",
+   "album": "乙女のルートはひとつじゃない！",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 1481710221,
+   "name": "Etoile",
+   "artist": "OH MY GIRL",
+   "album": "Etoile",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 1454873699,
+   "name": "ヨリドコロ",
+   "artist": "Hilcrhyme",
+   "album": "ヨリドコロ",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 1446326362,
+   "name": "葵橋",
+   "artist": "さユり",
+   "album": "葵橋",
+   "fee": 1,
+   "rank": 86
+  },
+  {
+   "id": 1445783796,
+   "name": "Pride",
+   "artist": "遥海",
+   "album": "Pride",
+   "fee": 1,
+   "rank": 87
+  },
+  {
+   "id": 1438227450,
+   "name": "HATENA",
+   "artist": "PENGUIN RESEARCH",
+   "album": "HATENA",
+   "fee": 1,
+   "rank": 88
+  },
+  {
+   "id": 1485826082,
+   "name": "君に会えた日",
+   "artist": "鬼頭明里/伊藤美来",
+   "album": "君に会えた日",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 1484411556,
+   "name": "Blowing",
+   "artist": "NiL",
+   "album": "",
+   "fee": 0,
+   "rank": 90
+  },
+  {
+   "id": 1467909572,
+   "name": "僕らだけの主題歌",
+   "artist": "センチミリメンタル",
+   "album": "僕らだけの主題歌",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 1460606296,
+   "name": "センチメートル",
+   "artist": "the peggies",
+   "album": "センチメートル",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 1481710228,
+   "name": "Break",
+   "artist": "Uru",
+   "album": "Break／振り子",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 1486723083,
+   "name": "天空カフェテリア",
+   "artist": "Petit Rabbit's",
+   "album": "天空カフェテリア",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 1490677360,
+   "name": "快眠! 安眠! スヤリスト生活",
+   "artist": "水瀬いのり",
+   "album": "",
+   "fee": 0,
+   "rank": 95
+  },
+  {
+   "id": 1490882128,
+   "name": "Goodbye Seven Seas",
+   "artist": "麻枝准/やなぎなぎ",
+   "album": "君という神話／Goodbye Seven Seas (アニメ「神様になった日」オープニング＆エンディングソング)",
+   "fee": 8,
+   "rank": 96
+  },
+  {
+   "id": 1484844664,
+   "name": "リテラチュア",
+   "artist": "上田麗奈",
+   "album": "リテラチュア",
+   "fee": 1,
+   "rank": 97
+  },
+  {
+   "id": 1486316093,
+   "name": "ALPHA",
+   "artist": "R・O・N",
+   "album": "ALPHA",
+   "fee": 8,
+   "rank": 98
+  },
+  {
+   "id": 1424028299,
+   "name": "Shiny Happy Days",
+   "artist": "八木侑紀/佐伯伊織/井澤詩織",
+   "album": "Shiny Happy Days",
+   "fee": 1,
+   "rank": 99
+  },
+  {
+   "id": 1454370016,
+   "name": "ハピネス＊センセーション",
+   "artist": "小倉唯",
+   "album": "ハピネス＊センセーション",
+   "fee": 1,
+   "rank": 100
+  }
+ ]
+}

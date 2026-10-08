@@ -1,0 +1,802 @@
+{
+ "year": 2015,
+ "cat": "acg",
+ "pid": 589884548,
+ "pname": "『2015年动漫推荐TOP100』",
+ "creator": "三角仔",
+ "fetched": 99,
+ "tracks": [
+  {
+   "id": 33418858,
+   "name": "Brave Shine",
+   "artist": "Aimer",
+   "album": "DAWN",
+   "fee": 1,
+   "rank": 1
+  },
+  {
+   "id": 436147539,
+   "name": "ラピスラズリ",
+   "artist": "藍井エイル",
+   "album": "BEST -A-",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 36198063,
+   "name": "不安定な神様",
+   "artist": "Suara",
+   "album": "不安定な神様",
+   "fee": 8,
+   "rank": 3
+  },
+  {
+   "id": 31191345,
+   "name": "海色",
+   "artist": "AKINO",
+   "album": "Decennia",
+   "fee": 1,
+   "rank": 4
+  },
+  {
+   "id": 30496836,
+   "name": "オレンジ",
+   "artist": "seven oops",
+   "album": "オレンジ(期間生産限定盤)",
+   "fee": 0,
+   "rank": 5
+  },
+  {
+   "id": 34367795,
+   "name": "おかえり",
+   "artist": "小岩井ことり/村川梨衣/佐倉綾音",
+   "album": "おかえり",
+   "fee": 0,
+   "rank": 6
+  },
+  {
+   "id": 32019707,
+   "name": "希望の唄",
+   "artist": "ULTRA TOWER",
+   "album": "希望の唄",
+   "fee": 1,
+   "rank": 7
+  },
+  {
+   "id": 30870155,
+   "name": "LOVE iLLUSiON",
+   "artist": "大西沙織/茅野愛衣/安野希世乃",
+   "album": "冴えない彼女の育てかた 第1巻 特典CD",
+   "fee": 0,
+   "rank": 8
+  },
+  {
+   "id": 33418857,
+   "name": "LAST STARDUST",
+   "artist": "Aimer",
+   "album": "DAWN",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 32303141,
+   "name": "Rally Go Round",
+   "artist": "LiSA",
+   "album": "Rally Go Round",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 402073893,
+   "name": "コロニー",
+   "artist": "BUMP OF CHICKEN",
+   "album": "Butterflies",
+   "fee": 0,
+   "rank": 11
+  },
+  {
+   "id": 33913985,
+   "name": "あまねき祈り",
+   "artist": "花たん",
+   "album": "昨日も、今日も、明日からも。",
+   "fee": 0,
+   "rank": 12
+  },
+  {
+   "id": 33054208,
+   "name": "Tweedia",
+   "artist": "安田レイ",
+   "album": "Tweedia",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 30496310,
+   "name": "ジョジョ その血の記憶～end of THE WORLD～",
+   "artist": "橋本仁/Coda(小田和奏)/富永TOMMY弘明",
+   "album": "ジョジョ その血の記憶~end of THE WORLD~",
+   "fee": 0,
+   "rank": 14
+  },
+  {
+   "id": 31165160,
+   "name": "君色シグナル",
+   "artist": "春奈るな",
+   "album": "Candy Lips",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 30284550,
+   "name": "カラフル。",
+   "artist": "沢井美空",
+   "album": "カラフル。",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 402073895,
+   "name": "Hello,world!",
+   "artist": "BUMP OF CHICKEN",
+   "album": "Butterflies",
+   "fee": 0,
+   "rank": 17
+  },
+  {
+   "id": 31108223,
+   "name": "THIS ILLUSION",
+   "artist": "LiSA",
+   "album": "Fate/stay night [Unlimited Blade Works] オリジナルサウンドトラック I",
+   "fee": 0,
+   "rank": 18
+  },
+  {
+   "id": 36924671,
+   "name": "ニルバナ",
+   "artist": "Tia",
+   "album": "ニルバナ",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 33715500,
+   "name": "プライド革命",
+   "artist": "CHiCO with HoneyWorks",
+   "album": "プライド革命",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 32648224,
+   "name": "幸せのありか",
+   "artist": "LOCAL CONNECT",
+   "album": "過去ツナグ未来",
+   "fee": 0,
+   "rank": 21
+  },
+  {
+   "id": 399342799,
+   "name": "にっこりカフェの魔法使い",
+   "artist": "水瀬いのり/種田梨沙/佐藤聡美",
+   "album": "ご注文はうさぎですか?? 第1巻",
+   "fee": 0,
+   "rank": 22
+  },
+  {
+   "id": 32432248,
+   "name": "エブリデイワールド",
+   "artist": "早見沙織/東山奈央",
+   "album": "エブリデイワールド",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 34077763,
+   "name": "灼け落ちない翼",
+   "artist": "多田葵",
+   "album": "Bravely You / 灼け落ちない翼",
+   "fee": 8,
+   "rank": 24
+  },
+  {
+   "id": 36198064,
+   "name": "ユメカウツツカ",
+   "artist": "Suara",
+   "album": "不安定な神様",
+   "fee": 8,
+   "rank": 25
+  },
+  {
+   "id": 38689864,
+   "name": "XY&Z",
+   "artist": "松本梨香",
+   "album": "XY&Z",
+   "fee": 0,
+   "rank": 26
+  },
+  {
+   "id": 36783007,
+   "name": "はなまるぴっぴはよいこだけ",
+   "artist": "A応P",
+   "album": "はなまるぴっぴはよいこだけ",
+   "fee": 0,
+   "rank": 27
+  },
+  {
+   "id": 38391304,
+   "name": "zoon politikon",
+   "artist": "やなぎなぎ",
+   "album": "オラリオン",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 29775810,
+   "name": "M♭",
+   "artist": "安野希世乃",
+   "album": "冴えない彼女の育てかた キャラクターイメージソング 加藤恵",
+   "fee": 8,
+   "rank": 29
+  },
+  {
+   "id": 31246596,
+   "name": "勇気の神様",
+   "artist": "大西沙織",
+   "album": "冴えない彼女の育てかた 第2巻 特典CD",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 29775778,
+   "name": "Blooming Lily",
+   "artist": "大西沙織",
+   "album": "冴えない彼女の育てかた キャラクターイメージソング 澤村・スペンサー・英梨々",
+   "fee": 8,
+   "rank": 31
+  },
+  {
+   "id": 31191531,
+   "name": "Cherish you",
+   "artist": "矢作紗友里",
+   "album": "Cherish you",
+   "fee": 0,
+   "rank": 32
+  },
+  {
+   "id": 36841167,
+   "name": "Embrace Blade",
+   "artist": "アフィリア・サーガ",
+   "album": "Embrace Blade",
+   "fee": 0,
+   "rank": 33
+  },
+  {
+   "id": 36668912,
+   "name": "星より先に見つけてあげる",
+   "artist": "森口博子",
+   "album": "星より先に見つけてあげる",
+   "fee": 8,
+   "rank": 34
+  },
+  {
+   "id": 36664989,
+   "name": "悲しみたちを抱きしめて",
+   "artist": "森口博子",
+   "album": "星より先に見つけてあげる",
+   "fee": 8,
+   "rank": 35
+  },
+  {
+   "id": 438801175,
+   "name": "さよならのゆくえ",
+   "artist": "瀧川ありさ",
+   "album": "at film.",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 31140826,
+   "name": "栄光への一秒",
+   "artist": "MAGIC OF LiFE",
+   "album": "栄光への一秒",
+   "fee": 0,
+   "rank": 37
+  },
+  {
+   "id": 33728002,
+   "name": "ワンダーステラ",
+   "artist": "fhána",
+   "album": "ワンダーステラ",
+   "fee": 8,
+   "rank": 38
+  },
+  {
+   "id": 36587201,
+   "name": "Brand-new World",
+   "artist": "西沢幸奏",
+   "album": "Brand-new World／ピアチェーレ",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 30706686,
+   "name": "Flyers",
+   "artist": "BRADIO",
+   "album": "Flyers",
+   "fee": 8,
+   "rank": 40
+  },
+  {
+   "id": 35955908,
+   "name": "Ghost of a smile",
+   "artist": "EGOIST",
+   "album": "Ghost of a smile",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 35090756,
+   "name": "狂乱 Hey Kids!!",
+   "artist": "THE ORAL CIGARETTES",
+   "album": "狂乱 Hey Kids!!",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 30512648,
+   "name": "GLITTER DAYS",
+   "artist": "Fo'xTails",
+   "album": "GLITTER DAYS",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 30245050,
+   "name": "For you～月の光が降り注ぐテラス",
+   "artist": "ENA☆",
+   "album": "四月は君の嘘 ORIGINAL SONG & SOUNDTRACK",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 409430249,
+   "name": "やきもち風味のカモミール",
+   "artist": "佐藤聡美/内田真礼",
+   "album": "やきもち風味のカモミール",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 454966921,
+   "name": "border",
+   "artist": "ClariS",
+   "album": "Fairy Castle(Deluxe Edition）",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 410446413,
+   "name": "春擬き",
+   "artist": "やなぎなぎ",
+   "album": "Follow My Tracks",
+   "fee": 1,
+   "rank": 47
+  },
+  {
+   "id": 32235718,
+   "name": "僕の言葉ではない これは僕達の言葉",
+   "artist": "UVERworld",
+   "album": "僕の言葉ではない これは僕達の言葉 (Extra Edition)",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 33510536,
+   "name": "GATE~それは暁のように~",
+   "artist": "岸田教団＆THE明星ロケッツ",
+   "album": "GATE～それは暁のように～",
+   "fee": 0,
+   "rank": 49
+  },
+  {
+   "id": 37095848,
+   "name": "piece of youth",
+   "artist": "ChouCho",
+   "album": "piece of youth",
+   "fee": 1,
+   "rank": 50
+  },
+  {
+   "id": 31917228,
+   "name": "ring your bell〜instrumental〜",
+   "artist": "Kalafina",
+   "album": "ring your bell",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 32102071,
+   "name": "X.U.",
+   "artist": "SawanoHiroyuki[nZk]/R!N/Gemie",
+   "album": "X.U. / scaPEGoat",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 33861445,
+   "name": "Day you laugh",
+   "artist": "豊永利行",
+   "album": "Day you laugh",
+   "fee": 0,
+   "rank": 53
+  },
+  {
+   "id": 36921850,
+   "name": "アイム・ア・ビリーバー",
+   "artist": "SPYAIR",
+   "album": "4",
+   "fee": 1,
+   "rank": 54
+  },
+  {
+   "id": 33913977,
+   "name": "Invisible Date",
+   "artist": "sweet ARMS",
+   "album": "Invisible Date",
+   "fee": 0,
+   "rank": 55
+  },
+  {
+   "id": 34169550,
+   "name": "初めてガールズ!",
+   "artist": "Ray",
+   "album": "初めてガールズ!",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 33861829,
+   "name": "NOW!!!GAMBLE",
+   "artist": "阿澄佳奈/藤田咲/喜多村英梨",
+   "album": "NOW!!!GAMBLE / まつ毛にLOCK",
+   "fee": 0,
+   "rank": 57
+  },
+  {
+   "id": 34002343,
+   "name": "ぷりずむコミュニケート",
+   "artist": "種田梨沙/金元寿子/東山奈央",
+   "album": "ぷりずむコミュニケート【テュカ (CV. 金元寿子)盘】",
+   "fee": 0,
+   "rank": 58
+  },
+  {
+   "id": 37095849,
+   "name": "GloryStory",
+   "artist": "ChouCho",
+   "album": "piece of youth",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 33510276,
+   "name": "secret arms",
+   "artist": "Ray",
+   "album": "secret arms",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 33913833,
+   "name": "コバルト",
+   "artist": "TrySail",
+   "album": "コバルト",
+   "fee": 0,
+   "rank": 61
+  },
+  {
+   "id": 35447793,
+   "name": "Dear answer",
+   "artist": "TRUE",
+   "album": "Dear answer",
+   "fee": 0,
+   "rank": 62
+  },
+  {
+   "id": 40188752,
+   "name": "イチズレシピ",
+   "artist": "アイドルカレッジ",
+   "album": "イチズレシピ",
+   "fee": 0,
+   "rank": 63
+  },
+  {
+   "id": 34077762,
+   "name": "Bravely You",
+   "artist": "Lia",
+   "album": "Bravely You / 灼け落ちない翼",
+   "fee": 8,
+   "rank": 64
+  },
+  {
+   "id": 29775784,
+   "name": "饒舌スキャンダラス",
+   "artist": "茅野愛衣",
+   "album": "冴えない彼女の育てかた キャラクターイメージソング 霞ヶ丘詩羽",
+   "fee": 8,
+   "rank": 65
+  },
+  {
+   "id": 36872357,
+   "name": "ディアブレイブ",
+   "artist": "鹿乃",
+   "album": "ディアブレイブ (アーティスト盤)",
+   "fee": 0,
+   "rank": 66
+  },
+  {
+   "id": 31861287,
+   "name": "fish in the pool",
+   "artist": "ヘクとパスカル",
+   "album": "fish in the pool",
+   "fee": 8,
+   "rank": 67
+  },
+  {
+   "id": 34179228,
+   "name": "ミカヅキ",
+   "artist": "さユり",
+   "album": "ミカヅキ",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 30706129,
+   "name": "GLASSY SKY",
+   "artist": "Donna Burke",
+   "album": "TV ANIMATION Tokyo Ghoul Original Soundtrack",
+   "fee": 8,
+   "rank": 69
+  },
+  {
+   "id": 30496872,
+   "name": "Blade of Hope",
+   "artist": "sweet ARMS",
+   "album": "Blade of Hope",
+   "fee": 0,
+   "rank": 70
+  },
+  {
+   "id": 40157187,
+   "name": "decent black",
+   "artist": "水橋かおり",
+   "album": "decent black & あとがたり",
+   "fee": 8,
+   "rank": 71
+  },
+  {
+   "id": 37240991,
+   "name": "トワイライトに消えないで",
+   "artist": "原由実",
+   "album": "トワイライトに消えないで (TVアニメ「俺がお嬢様学校に「庶民サンプル」としてゲッツされた件」EDテーマ)",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 35040542,
+   "name": "Waiting for the rain",
+   "artist": "坂本真綾",
+   "album": "FOLLOW ME UP",
+   "fee": 8,
+   "rank": 73
+  },
+  {
+   "id": 36492782,
+   "name": "ときめきポポロン♪",
+   "artist": "水瀬いのり/徳井青空/村川梨衣",
+   "album": "ときめきポポロン♪",
+   "fee": 1,
+   "rank": 74
+  },
+  {
+   "id": 32235723,
+   "name": "色彩crossroad",
+   "artist": "西明日香/明坂聡美/大橋彩香",
+   "album": "やっぱりStand Up!!!!!／色彩crossroad",
+   "fee": 8,
+   "rank": 75
+  },
+  {
+   "id": 37132491,
+   "name": "解 (TV Size)",
+   "artist": "カスタマイZ",
+   "album": "解(アニメ盤)",
+   "fee": 0,
+   "rank": 76
+  },
+  {
+   "id": 40188402,
+   "name": "ライア",
+   "artist": "Zwei",
+   "album": "ライア (ゲーム「STEINS;GATE 0」EDテーマ)",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 33410381,
+   "name": "Secret Sky",
+   "artist": "MICHI",
+   "album": "Cry for the Truth/Secret Sky",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 36025997,
+   "name": "コメットルシファー ～The Seed and the Sower～",
+   "artist": "fhána",
+   "album": "コメット・ルシファー 〜The Seed and the Sower〜 [アニメ盤]",
+   "fee": 8,
+   "rank": 79
+  },
+  {
+   "id": 40188397,
+   "name": "IF",
+   "artist": "彩音",
+   "album": "IF (「想定科学パチスロ シュタインズゲート 廻転世界のインダクタンス」オリジナルソング)",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 41632418,
+   "name": "THE HERO !! ～怒れる拳に火をつけろ～ (TV Size)",
+   "artist": "JAM Project",
+   "album": "TVアニメ『ワンパンマン』オリジナルサウンドトラック「ONE TAKE MAN」",
+   "fee": 8,
+   "rank": 81
+  },
+  {
+   "id": 34723334,
+   "name": "ライジングレインボウ",
+   "artist": "ミソッカス",
+   "album": "ライジングレインボウ",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 31478523,
+   "name": "会いたかった空",
+   "artist": "茅原実里",
+   "album": "会いたかった空",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 31478519,
+   "name": "DREAM SOLISTER",
+   "artist": "TRUE",
+   "album": "DREAM SOLISTER",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 30431342,
+   "name": "&Z",
+   "artist": "瑞葵(mizuki)",
+   "album": "&Z",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 38019197,
+   "name": "とあるいつもを",
+   "artist": "幽閉サテライト",
+   "album": "とあるいつもを",
+   "fee": 0,
+   "rank": 86
+  },
+  {
+   "id": 33510451,
+   "name": "ふ・れ・ん・ど・し・た・い",
+   "artist": "水瀬いのり/M・A・O/小澤亜李",
+   "album": "ふ・れ・ん・ど・し・た・い",
+   "fee": 1,
+   "rank": 87
+  },
+  {
+   "id": 34045116,
+   "name": "かくしん的☆めたまるふぉ～ぜっ!",
+   "artist": "田中あいみ",
+   "album": "かくしん的☆めたまるふぉ~ぜっ!",
+   "fee": 0,
+   "rank": 88
+  },
+  {
+   "id": 32405867,
+   "name": "嵐のあとで",
+   "artist": "Galileo Galilei",
+   "album": "嵐のあとで",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 37095620,
+   "name": "オルフェンズの涙",
+   "artist": "MISIA",
+   "album": "オルフェンズの涙",
+   "fee": 1,
+   "rank": 90
+  },
+  {
+   "id": 31861342,
+   "name": "未来形Answer",
+   "artist": "TRUSTRICK",
+   "album": "未来形Answer E.P.",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 32069273,
+   "name": "刹那の果実",
+   "artist": "黒崎真音",
+   "album": "刹那の果実",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 41650076,
+   "name": "チャチャチャ",
+   "artist": "みみめめMIMI",
+   "album": "チャチャチャ",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 31311851,
+   "name": "ハーモニア",
+   "artist": "三森すずこ",
+   "album": "Fantasic Funfair",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 30352646,
+   "name": "Lovely Blue",
+   "artist": "Trident",
+   "album": "Blue Snow",
+   "fee": 8,
+   "rank": 95
+  },
+  {
+   "id": 35848041,
+   "name": "アイデンティティ",
+   "artist": "酒井ミキオ",
+   "album": "アイデンティティ",
+   "fee": 8,
+   "rank": 96
+  },
+  {
+   "id": 32364449,
+   "name": "朝焼けのスターマイン",
+   "artist": "今井麻美",
+   "album": "朝焼けのスターマイン",
+   "fee": 0,
+   "rank": 97
+  },
+  {
+   "id": 34045906,
+   "name": "絆にのせて",
+   "artist": "eyelis",
+   "album": "絆にのせて",
+   "fee": 0,
+   "rank": 98
+  },
+  {
+   "id": 30830450,
+   "name": "ふたりのまほう",
+   "artist": "May J.",
+   "album": "ReBirth",
+   "fee": 8,
+   "rank": 99
+  }
+ ]
+}

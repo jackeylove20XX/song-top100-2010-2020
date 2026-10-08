@@ -1,0 +1,778 @@
+{
+ "year": 2013,
+ "cat": "acg",
+ "pid": 597557323,
+ "pname": "『2013年动漫推荐TOP100』",
+ "creator": "三角仔",
+ "fetched": 96,
+ "tracks": [
+  {
+   "id": 28815139,
+   "name": "oblivious",
+   "artist": "Kalafina",
+   "album": "THE BEST “Red”",
+   "fee": 1,
+   "rank": 1
+  },
+  {
+   "id": 26590305,
+   "name": "Best of my Love",
+   "artist": "安田レイ",
+   "album": "Best of my Love (期間限定生産盤)",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 26259014,
+   "name": "いつもこの場所で",
+   "artist": "彩音",
+   "album": "劇場版「STEINS;GATE 負荷領域のデジャヴ」エンディングテーマ「いつもこの場所で」",
+   "fee": 1,
+   "rank": 3
+  },
+  {
+   "id": 28390041,
+   "name": "WHITE ALBUM Live at Campus Fes(TV anime ver.)",
+   "artist": "米澤円",
+   "album": "WHITE ALBUM2 VOCAL COLLECTION",
+   "fee": 0,
+   "rank": 4
+  },
+  {
+   "id": 28390033,
+   "name": "届かない恋 Live at Campus Fes(TV anime ver.)",
+   "artist": "米澤円",
+   "album": "WHITE ALBUM2 VOCAL COLLECTION",
+   "fee": 0,
+   "rank": 5
+  },
+  {
+   "id": 29307059,
+   "name": "sister's noise",
+   "artist": "fripSide",
+   "album": "infinite synthesis 2",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 26117010,
+   "name": "星々の渡り鳥",
+   "artist": "やなぎなぎ",
+   "album": "Zoetrope",
+   "fee": 1,
+   "rank": 7
+  },
+  {
+   "id": 27906573,
+   "name": "なないろびより",
+   "artist": "nano.RIPE",
+   "album": "なないろびより",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 31421233,
+   "name": "カラフル",
+   "artist": "ClariS",
+   "album": "ClariS 〜SINGLE BEST 1st〜",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 29027453,
+   "name": "crossing field",
+   "artist": "LiSA",
+   "album": "ソードアート・オンライン ソングコレクション",
+   "fee": 8,
+   "rank": 10
+  },
+  {
+   "id": 32272858,
+   "name": "POWDER SNOW",
+   "artist": "小木曽雪菜",
+   "album": "WHITE ALBUM2 Original Soundtrack ～setsuna～",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 28018269,
+   "name": "Daisy",
+   "artist": "R・O・N",
+   "album": "Daisy",
+   "fee": 8,
+   "rank": 12
+  },
+  {
+   "id": 28784433,
+   "name": "eternal reality",
+   "artist": "fripSide",
+   "album": "eternal reality",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 29777943,
+   "name": "アクアテラリウム",
+   "artist": "やなぎなぎ",
+   "album": "ポリオミノ",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 27526074,
+   "name": "starlog",
+   "artist": "ChouCho",
+   "album": "starlog",
+   "fee": 0,
+   "rank": 15
+  },
+  {
+   "id": 29095899,
+   "name": "美しき残酷な世界",
+   "artist": "日笠陽子",
+   "album": "Couleur (通常盤)",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 26270016,
+   "name": "紅蓮の弓矢(TVサイズver.)",
+   "artist": "Linked Horizon",
+   "album": "紅蓮の弓矢(TVサイズver.)",
+   "fee": 1,
+   "rank": 17
+  },
+  {
+   "id": 28018274,
+   "name": "回レ！雪月花",
+   "artist": "原田ひとみ/茅野愛衣/小倉唯",
+   "album": "TVアニメ「機巧少女（マシンドール）は傷つかない」エンディングテーマ「回レ！雪月花」 歌：歌組雪月花（夜々（CV：原田ひとみ）・いろり（CV：茅野愛衣）・小紫（CV：小倉唯））",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 27955372,
+   "name": "のんのん日和",
+   "artist": "佐倉綾音/阿澄佳奈/小岩井ことり",
+   "album": "のんのん日和",
+   "fee": 0,
+   "rank": 19
+  },
+  {
+   "id": 31421232,
+   "name": "reunion",
+   "artist": "ClariS",
+   "album": "ClariS 〜SINGLE BEST 1st〜",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 28287612,
+   "name": "ambiguous",
+   "artist": "GARNiDELiA",
+   "album": "ambiguous",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 26830750,
+   "name": "アイヲウタエ",
+   "artist": "春奈るな",
+   "album": "アイヲウタエ",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 27903312,
+   "name": "君の銀の庭",
+   "artist": "Kalafina",
+   "album": "君の銀の庭",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 27090430,
+   "name": "Be the light",
+   "artist": "ONE OK ROCK",
+   "album": "人生×僕=",
+   "fee": 0,
+   "rank": 24
+  },
+  {
+   "id": 399367222,
+   "name": "chocolate insomnia",
+   "artist": "堀江由衣",
+   "album": "歌物語-〈物語〉シリーズ主題歌集-",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 28748634,
+   "name": "fast love",
+   "artist": "斎藤千和",
+   "album": "fast love＆｢恋物語」劇伴音楽集",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 436147541,
+   "name": "シリウス",
+   "artist": "藍井エイル",
+   "album": "BEST -A-",
+   "fee": 1,
+   "rank": 27
+  },
+  {
+   "id": 28254774,
+   "name": "三つ葉の結びめ",
+   "artist": "やなぎなぎ",
+   "album": "三つ葉の結びめ",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 26439381,
+   "name": "空とキミのメッセージ",
+   "artist": "ChouCho",
+   "album": "空とキミのメッセージ",
+   "fee": 1,
+   "rank": 29
+  },
+  {
+   "id": 26212741,
+   "name": "茜空",
+   "artist": "瀬戸麻沙美",
+   "album": "ちはやふる2 オリジナル・サウンドトラック",
+   "fee": 1,
+   "rank": 30
+  },
+  {
+   "id": 27901487,
+   "name": "lull ～そして僕らは～",
+   "artist": "Ray",
+   "album": "lull～そして僕らは～",
+   "fee": 1,
+   "rank": 31
+  },
+  {
+   "id": 26380298,
+   "name": "デート・ア・ライブ",
+   "artist": "sweet ARMS",
+   "album": "デート・ア・ライブ",
+   "fee": 0,
+   "rank": 32
+  },
+  {
+   "id": 27901850,
+   "name": "ブルー・フィールド",
+   "artist": "Trident",
+   "album": "ブルー・フィールド",
+   "fee": 8,
+   "rank": 33
+  },
+  {
+   "id": 26082645,
+   "name": "僕らのLIVE 君とのLIFE",
+   "artist": "μ's",
+   "album": "僕らのLIVE 君とのLIFE",
+   "fee": 0,
+   "rank": 34
+  },
+  {
+   "id": 26139008,
+   "name": "ENERGY",
+   "artist": "earthmind",
+   "album": "ENERGY",
+   "fee": 1,
+   "rank": 35
+  },
+  {
+   "id": 27955373,
+   "name": "ひだまり笑顔",
+   "artist": "佐倉綾音/村川梨衣",
+   "album": "のんのん日和",
+   "fee": 0,
+   "rank": 36
+  },
+  {
+   "id": 27684880,
+   "name": "サークルゲーム",
+   "artist": "Galileo Galilei",
+   "album": "サークルゲーム",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 28068687,
+   "name": "snowdrop -春奈るなVer.-",
+   "artist": "春奈るな",
+   "album": "snowdrop (期間生産限定盤)",
+   "fee": 0,
+   "rank": 38
+  },
+  {
+   "id": 410446425,
+   "name": "ユキトキ",
+   "artist": "やなぎなぎ",
+   "album": "Follow My Tracks",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 28008418,
+   "name": "リクライム",
+   "artist": "ROOKiEZ is PUNK'D",
+   "album": "リクライム",
+   "fee": 0,
+   "rank": 40
+  },
+  {
+   "id": 28377108,
+   "name": "Best FriendS",
+   "artist": "沼倉愛美/赤﨑千夏/佐倉綾音",
+   "album": "恋愛ラボ 第2巻 特典CD",
+   "fee": 0,
+   "rank": 41
+  },
+  {
+   "id": 30953065,
+   "name": "シアワセ☆ハイテンション↑↑",
+   "artist": "佐藤利奈/茅原実里/井上麻里奈",
+   "album": "シアワセ☆ハイテンション↑↑",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 26584929,
+   "name": "現状ディストラクション",
+   "artist": "SPYAIR",
+   "album": "現状ディストラクション",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 28283602,
+   "name": "もうそう♥えくすぷれす",
+   "artist": "花澤香菜",
+   "album": "「囮物語」劇伴音楽集 & あとがたり",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 26231187,
+   "name": "スモルワールドロップ",
+   "artist": "Annabel",
+   "album": "スモルワールドロップ",
+   "fee": 8,
+   "rank": 45
+  },
+  {
+   "id": 26260654,
+   "name": "愛してるばんざーい！ (Prepro Piano Mix)",
+   "artist": "Pile",
+   "album": "TVアニメ『ラブライブ！』オリジナルサウンドトラック「Notes of School idol days」",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 26118081,
+   "name": "Girlish Lover",
+   "artist": "赤﨑千夏/田村ゆかり/金元寿子",
+   "album": "Girlish Lover",
+   "fee": 0,
+   "rank": 47
+  },
+  {
+   "id": 27927500,
+   "name": "さよならのこと",
+   "artist": "上原れな",
+   "album": "届かない恋 '13",
+   "fee": 8,
+   "rank": 48
+  },
+  {
+   "id": 28191479,
+   "name": "境界の彼方 (TV Size)",
+   "artist": "茅原実里",
+   "album": "TVアニメ 境界の彼方 オリジナルサウンドトラック",
+   "fee": 0,
+   "rank": 49
+  },
+  {
+   "id": 28240362,
+   "name": "ebb and flow",
+   "artist": "Ray",
+   "album": "ebb and flow",
+   "fee": 1,
+   "rank": 50
+  },
+  {
+   "id": 28482599,
+   "name": "月光STORY",
+   "artist": "SCREEN mode",
+   "album": "月光STORY",
+   "fee": 0,
+   "rank": 51
+  },
+  {
+   "id": 27534285,
+   "name": "Hello Especially",
+   "artist": "スキマスイッチ",
+   "album": "Hello Especially",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 27928035,
+   "name": "X-encounter",
+   "artist": "黒崎真音",
+   "album": "X-encounter",
+   "fee": 1,
+   "rank": 53
+  },
+  {
+   "id": 27733963,
+   "name": "恋愛したいっ！",
+   "artist": "藤女学生会执行部",
+   "album": "TVアニメ「恋愛ラボ」Blu-ray第1巻特典CD",
+   "fee": 0,
+   "rank": 54
+  },
+  {
+   "id": 27562067,
+   "name": "風色のフィルム",
+   "artist": "中島愛",
+   "album": "ありがとう",
+   "fee": 8,
+   "rank": 55
+  },
+  {
+   "id": 28029660,
+   "name": "MoonRise Romance",
+   "artist": "麻生夏子",
+   "album": "MoonRise Romance",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 27927501,
+   "name": "closing '13",
+   "artist": "上原れな",
+   "album": "届かない恋 '13",
+   "fee": 8,
+   "rank": 57
+  },
+  {
+   "id": 26124657,
+   "name": "STAR",
+   "artist": "99RadioService",
+   "album": "STAR",
+   "fee": 8,
+   "rank": 58
+  },
+  {
+   "id": 27876164,
+   "name": "ユニバーページ",
+   "artist": "三森すずこ",
+   "album": "ユニバーページ【通常盤】",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 26609868,
+   "name": "笑顔",
+   "artist": "いきものがかり",
+   "album": "笑顔",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 595295,
+   "name": "STRAIGHT JET",
+   "artist": "栗林みな実",
+   "album": "STRAIGHT JET",
+   "fee": 0,
+   "rank": 61
+  },
+  {
+   "id": 26220358,
+   "name": "きっとね、ずっとね、よろしくね。",
+   "artist": "洲崎綾/金子有希/長妻樹里",
+   "album": "TVアニメ「たまこまーけっと」キャラクターソングアルバム twinkle ride CD",
+   "fee": 1,
+   "rank": 62
+  },
+  {
+   "id": 26562718,
+   "name": "The Reluctant Heroes",
+   "artist": "澤野弘之/mpi",
+   "album": "「進撃の巨人」オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 27573465,
+   "name": "Sympathy",
+   "artist": "Larval Stage Planning",
+   "album": "TVアニメ「ハイスクールD×D NEW 月光校庭のエクスカリバー」OPテーマ -「Sympathy」",
+   "fee": 0,
+   "rank": 64
+  },
+  {
+   "id": 26117657,
+   "name": "闇夜は乙女を花にする",
+   "artist": "喜多村英梨/茅野愛衣/白石涼子",
+   "album": "Fighting Dreamer／闇夜は乙女を花にする",
+   "fee": 0,
+   "rank": 65
+  },
+  {
+   "id": 31134840,
+   "name": "ごめんね、いいコじゃいられない。",
+   "artist": "沢井美空",
+   "album": "憂鬱日和。",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 28481062,
+   "name": "Life Goes On ~ReMix2013",
+   "artist": "有坂美香",
+   "album": "Tears~ReMix2013",
+   "fee": 0,
+   "rank": 67
+  },
+  {
+   "id": 27927692,
+   "name": "Anicca",
+   "artist": "原田ひとみ",
+   "album": "TVアニメ「機巧少女（マシンドール）は傷つかない」オープニングテーマ「Anicca」 歌：原田ひとみ",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 27712729,
+   "name": "絶望性：ヒーロー治療薬",
+   "artist": "スズム/そらる",
+   "album": "絶望性：ヒーロー治療薬 (初回限定盤)",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 28308627,
+   "name": "君の引力 【晴喜と葵編テーマソング】",
+   "artist": "eufonius",
+   "album": "恋旅～True Tours Nanto～ 音楽集",
+   "fee": 0,
+   "rank": 70
+  },
+  {
+   "id": 28786000,
+   "name": "Precious",
+   "artist": "碧陽学園生徒会 Lv.2",
+   "album": "Precious (TVアニメ「生徒会の一存 Lv. 2」)",
+   "fee": 1,
+   "rank": 71
+  },
+  {
+   "id": 28019691,
+   "name": "空色モノローグ",
+   "artist": "鳴海杏子",
+   "album": "ビューティフル・ドリーマー(TVアニメ「世界でいちばん強くなりたい!」オープニングテーマ) - EP",
+   "fee": 0,
+   "rank": 72
+  },
+  {
+   "id": 28018285,
+   "name": "君が笑む夕暮れ",
+   "artist": "南條愛乃",
+   "album": "君が笑む夕暮れ",
+   "fee": 1,
+   "rank": 73
+  },
+  {
+   "id": 27804766,
+   "name": "その声を覚えてる",
+   "artist": "河野マリナ",
+   "album": "その声を覚えてる",
+   "fee": 8,
+   "rank": 74
+  },
+  {
+   "id": 26429089,
+   "name": "Sticky Lucky Stupids (米倉千尋ver.)",
+   "artist": "米倉千尋",
+   "album": "りばいばる!",
+   "fee": 0,
+   "rank": 75
+  },
+  {
+   "id": 28068859,
+   "name": "Imagination > Reality",
+   "artist": "AiRI",
+   "album": "Imagination>Reality",
+   "fee": 0,
+   "rank": 76
+  },
+  {
+   "id": 27927604,
+   "name": "君とのなくしもの",
+   "artist": "北沢綾香",
+   "album": "君とのなくしもの / 涙色の翼",
+   "fee": 0,
+   "rank": 77
+  },
+  {
+   "id": 26447595,
+   "name": "Hello Alone",
+   "artist": "早見沙織/東山奈央",
+   "album": "Hello Alone",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 27955631,
+   "name": "S・M・L☆",
+   "artist": "アフィリア・サーガ",
+   "album": "S・M・L☆ / アフィリア・サーガ [のうコメコラボ盤]",
+   "fee": 0,
+   "rank": 79
+  },
+  {
+   "id": 27514620,
+   "name": "ちょっやっにゃっ",
+   "artist": "石原夏織",
+   "album": "変態王子と笑わない貓。 第2巻 キャラクターソング&サントラ収録CD",
+   "fee": 8,
+   "rank": 80
+  },
+  {
+   "id": 32235932,
+   "name": "僕らは今のなかで",
+   "artist": "μ's",
+   "album": "μ's Best Album Best Live! Collection Ⅱ",
+   "fee": 1,
+   "rank": 81
+  },
+  {
+   "id": 26116000,
+   "name": "RE:I AM",
+   "artist": "Aimer",
+   "album": "RE:I AM EP",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 28481061,
+   "name": "君は僕に似ている ~ReMix2013",
+   "artist": "See-Saw",
+   "album": "Tears~ReMix2013",
+   "fee": 0,
+   "rank": 83
+  },
+  {
+   "id": 26574848,
+   "name": "そばにいるよ",
+   "artist": "ELISA",
+   "album": "そばにいるよ(期間生産限定アニメ盤)",
+   "fee": 8,
+   "rank": 84
+  },
+  {
+   "id": 27601943,
+   "name": "Shape My Story",
+   "artist": "やのあんな",
+   "album": "Shape My Story",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 28457989,
+   "name": "Patema Inverse",
+   "artist": "大島ミチル",
+   "album": "PATEMA INVERTED -SOUNDTRACK-",
+   "fee": 0,
+   "rank": 86
+  },
+  {
+   "id": 27526078,
+   "name": "はじまりの海",
+   "artist": "坂本真綾",
+   "album": "はじまりの海",
+   "fee": 8,
+   "rank": 87
+  },
+  {
+   "id": 27971574,
+   "name": "イノセント",
+   "artist": "earthmind",
+   "album": "イノセント(期間生産限定アニメ盤)",
+   "fee": 0,
+   "rank": 88
+  },
+  {
+   "id": 28029176,
+   "name": "Sticking Places",
+   "artist": "スフィア",
+   "album": "Sticking Places",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 27506207,
+   "name": "Prism Sympathy",
+   "artist": "StylipS",
+   "album": "Prism Sympathy",
+   "fee": 0,
+   "rank": 90
+  },
+  {
+   "id": 28190679,
+   "name": "wonderland",
+   "artist": "99RadioService",
+   "album": "wonderland",
+   "fee": 8,
+   "rank": 91
+  },
+  {
+   "id": 30431872,
+   "name": "you -Visionen im Spiegel",
+   "artist": "癒月",
+   "album": "「ひぐらしのなく頃に」テーマソングコレクション",
+   "fee": 0,
+   "rank": 92
+  },
+  {
+   "id": 33510451,
+   "name": "ふ・れ・ん・ど・し・た・い",
+   "artist": "水瀬いのり/M・A・O/小澤亜李",
+   "album": "ふ・れ・ん・ど・し・た・い",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 28391001,
+   "name": "Girlish Party",
+   "artist": "赤﨑千夏/田村ゆかり/金元寿子",
+   "album": "俺の彼女と幼なじみが修羅場すぎる 第7巻 特典CD",
+   "fee": 0,
+   "rank": 94
+  },
+  {
+   "id": 27526284,
+   "name": "君のいる町",
+   "artist": "細谷佳正",
+   "album": "君のいる町",
+   "fee": 0,
+   "rank": 95
+  },
+  {
+   "id": 28996636,
+   "name": "めいあいへるぷゆー?",
+   "artist": "茅野愛衣/中原麻衣/豊崎愛生",
+   "album": "サーバント×サービス 1 特典CD",
+   "fee": 0,
+   "rank": 96
+  }
+ ]
+}

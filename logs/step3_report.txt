@@ -1,0 +1,23 @@
+2010_acg: tracks=100 pid=7775361487 pname=怀旧 ｜ 2010-2019年动漫歌曲人气榜TOP100
+2010_hua: tracks=97 pid=5014147162 pname=2010年华语精选
+2011_acg: tracks=94 pid=7827392097 pname=2011-2015年TOP100动漫歌曲
+2011_hua: tracks=99 pid=5014080766 pname=2011年华语精选
+2012_acg: tracks=83 pid=22396305 pname=2012动漫歌曲精选
+2012_hua: tracks=97 pid=6837247802 pname=2012年华语精选
+2013_acg: tracks=96 pid=597557323 pname=『2013年动漫推荐TOP100』
+2013_hua: tracks=100 pid=7391449 pname=云音乐热歌榜2013
+2014_acg: tracks=99 pid=585289619 pname=『2014年动漫推荐TOP100』
+2014_hua: tracks=91 pid=44526677 pname=2014年度华语大爱单曲
+2015_acg: tracks=99 pid=589884548 pname=『2015年动漫推荐TOP100』
+2015_hua: tracks=100 pid=151354449 pname=2015年度最热歌曲
+2016_acg: tracks=96 pid=569962914 pname=【iTunes】2016 日本动漫 OP&ED&IN top
+2016_hua: tracks=95 pid=554473977 pname=2016年度最热新歌TOP100
+2017_acg: tracks=99 pid=647852181 pname=2017人气动漫歌曲Top100
+2017_hua: tracks=100 pid=2131586557 pname=2017年度最热新歌TOP100
+2018_acg: tracks=97 pid=650878014 pname=2018最具人气的动漫歌曲top100
+2018_hua: tracks=100 pid=2650288937 pname=2018年度最热新歌TOP100
+2019_acg: tracks=100 pid=3138280405 pname=【ACG】盘点2019年百首好听的动漫歌曲
+2019_hua: tracks=100 pid=5456351670 pname=2019年度最热新歌TOP100
+2020_acg: tracks=100 pid=5344048011 pname=【ACG】盘点2020年百首好听的动漫歌曲
+2020_hua: tracks=100 pid=5370923597 pname=2020年度最热新歌TOP100精选
+years_missing=[]

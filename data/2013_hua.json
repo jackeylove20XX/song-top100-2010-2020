@@ -1,0 +1,810 @@
+{
+ "year": 2013,
+ "cat": "hua",
+ "pid": 7391449,
+ "pname": "云音乐热歌榜2013",
+ "creator": "lljfuture",
+ "fetched": 120,
+ "tracks": [
+  {
+   "id": 25706282,
+   "name": "夜空中最亮的星",
+   "artist": "逃跑计划",
+   "album": "世界",
+   "fee": 1,
+   "rank": 1
+  },
+  {
+   "id": 27853752,
+   "name": "爸爸去哪儿",
+   "artist": "林志颖/郭涛/KIMI",
+   "album": "爸爸去哪儿 原声带",
+   "fee": 0,
+   "rank": 2
+  },
+  {
+   "id": 27836179,
+   "name": "终于等到你",
+   "artist": "张靓颖",
+   "album": "终于等到你",
+   "fee": 0,
+   "rank": 3
+  },
+  {
+   "id": 26438211,
+   "name": "Sexy Bitch",
+   "artist": "David Guetta/Akon",
+   "album": "Clubfete 2013 - 42 Club Dance & Party Hits",
+   "fee": 8,
+   "rank": 4
+  },
+  {
+   "id": 27902537,
+   "name": "我们好像在哪见过",
+   "artist": "杨宗纬/叶蓓",
+   "album": "咱们结婚吧 电视原声带",
+   "fee": 0,
+   "rank": 5
+  },
+  {
+   "id": 22854159,
+   "name": "愿得一人心",
+   "artist": "李行亮",
+   "album": "愿得一人心",
+   "fee": 0,
+   "rank": 6
+  },
+  {
+   "id": 27965155,
+   "name": "生来彷徨",
+   "artist": "汪峰",
+   "album": "生来彷徨",
+   "fee": 1,
+   "rank": 7
+  },
+  {
+   "id": 27566922,
+   "name": "Roar",
+   "artist": "Katy Perry",
+   "album": "Roar",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 27697195,
+   "name": "Wrecking Ball",
+   "artist": "Miley Cyrus",
+   "album": "Wrecking Ball",
+   "fee": 8,
+   "rank": 9
+  },
+  {
+   "id": 27804336,
+   "name": "Timber",
+   "artist": "Pitbull/Kesha",
+   "album": "Timber",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 26429346,
+   "name": "We Can't Stop",
+   "artist": "Miley Cyrus",
+   "album": "We Can't Stop - Single",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 21373645,
+   "name": "Just Give Me a Reason",
+   "artist": "P!nk/Nate Ruess",
+   "album": "The Truth About Love",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 27698223,
+   "name": "Royals",
+   "artist": "Lorde",
+   "album": "Royals",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 27902187,
+   "name": "The Monster",
+   "artist": "Eminem/Rihanna",
+   "album": "The Monster",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 27906331,
+   "name": "The Monster",
+   "artist": "Eminem/Rihanna",
+   "album": "The Marshall Mathers LP2 (Deluxe)",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 27706564,
+   "name": "The Fox (What Does the Fox Say?)",
+   "artist": "Ylvis",
+   "album": "The Fox (What Does the Fox Say?)",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 25702068,
+   "name": "董小姐",
+   "artist": "宋冬野",
+   "album": "摩登天空7",
+   "fee": 8,
+   "rank": 17
+  },
+  {
+   "id": 26524510,
+   "name": "我好想你",
+   "artist": "苏打绿",
+   "album": "秋：故事",
+   "fee": 0,
+   "rank": 18
+  },
+  {
+   "id": 26075485,
+   "name": "Blurred Lines",
+   "artist": "Robin Thicke/T.I./Pharrell Williams",
+   "album": "Blurred Lines",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 18161816,
+   "name": "Let Her Go",
+   "artist": "Passenger",
+   "album": "All The Little Lights",
+   "fee": 1,
+   "rank": 20
+  },
+  {
+   "id": 19945735,
+   "name": "Demons",
+   "artist": "Imagine Dragons",
+   "album": "Night Visions (Deluxe)",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 27853739,
+   "name": "Unconditionally",
+   "artist": "Katy Perry",
+   "album": "PRISM (Deluxe Version)",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 26060065,
+   "name": "Counting Stars",
+   "artist": "OneRepublic",
+   "album": "Native (Deluxe Version)",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 368727,
+   "name": "明天，你好",
+   "artist": "牛奶咖啡",
+   "album": "Lost & Found 去寻找",
+   "fee": 0,
+   "rank": 24
+  },
+  {
+   "id": 25714197,
+   "name": "Feel This Moment",
+   "artist": "Pitbull/Christina Aguilera",
+   "album": "Global Warming (Deluxe Version)",
+   "fee": 8,
+   "rank": 25
+  },
+  {
+   "id": 28029837,
+   "name": "마음으로만",
+   "artist": "朴正炫",
+   "album": "상속자들 OST Part 8",
+   "fee": 0,
+   "rank": 26
+  },
+  {
+   "id": 28111157,
+   "name": "解放",
+   "artist": "羽·泉",
+   "album": "私人定制  电影原声带",
+   "fee": 0,
+   "rank": 27
+  },
+  {
+   "id": 28208046,
+   "name": "Say Something",
+   "artist": "A Great Big World",
+   "album": "Is There Anybody Out There?",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 28048822,
+   "name": "原来爱情没有刚刚好",
+   "artist": "李代沫",
+   "album": "原来爱情没有刚刚好",
+   "fee": 1,
+   "rank": 29
+  },
+  {
+   "id": 28018075,
+   "name": "你就不要想起我",
+   "artist": "田馥甄",
+   "album": "渺小",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 296885,
+   "name": "寂寞寂寞就好",
+   "artist": "田馥甄",
+   "album": "To Hebe",
+   "fee": 0,
+   "rank": 31
+  },
+  {
+   "id": 27785673,
+   "name": "一起摇摆",
+   "artist": "汪峰",
+   "album": "生来彷徨",
+   "fee": 1,
+   "rank": 32
+  },
+  {
+   "id": 25648017,
+   "name": "I Knew You Were Trouble.",
+   "artist": "Taylor Swift",
+   "album": "I Knew You Were Trouble.",
+   "fee": 1,
+   "rank": 33
+  },
+  {
+   "id": 26145391,
+   "name": "Here's To Never Growing Up",
+   "artist": "Avril Lavigne",
+   "album": "Here's To Never Growing Up",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 64317,
+   "name": "因为爱情",
+   "artist": "陈奕迅/王菲",
+   "album": "Stranger Under My Skin",
+   "fee": 1,
+   "rank": 35
+  },
+  {
+   "id": 108557,
+   "name": "残酷月光",
+   "artist": "林宥嘉",
+   "album": "神秘嘉宾",
+   "fee": 0,
+   "rank": 36
+  },
+  {
+   "id": 17793611,
+   "name": "Whistle",
+   "artist": "Flo Rida",
+   "album": "Wild Ones",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 26598172,
+   "name": "Holy Grail",
+   "artist": "JAŸ-Z/Justin Timberlake",
+   "album": "Magna Carta... Holy Grail",
+   "fee": 1,
+   "rank": 38
+  },
+  {
+   "id": 355992,
+   "name": "追梦赤子心",
+   "artist": "GALA",
+   "album": "追梦痴子心",
+   "fee": 1,
+   "rank": 39
+  },
+  {
+   "id": 27646205,
+   "name": "安和桥",
+   "artist": "宋冬野",
+   "album": "安和桥北",
+   "fee": 8,
+   "rank": 40
+  },
+  {
+   "id": 19945732,
+   "name": "Radioactive",
+   "artist": "Imagine Dragons",
+   "album": "Night Visions (Deluxe)",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 224000,
+   "name": "怎样",
+   "artist": "戴佩妮",
+   "album": "怎样",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 25706279,
+   "name": "一万次悲伤",
+   "artist": "逃跑计划",
+   "album": "世界",
+   "fee": 1,
+   "rank": 43
+  },
+  {
+   "id": 27713920,
+   "name": "Wake Me Up",
+   "artist": "Avicii/Aloe Blacc",
+   "album": "True",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 176053,
+   "name": "洋葱",
+   "artist": "杨宗纬",
+   "album": "鸽子",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 347230,
+   "name": "海阔天空",
+   "artist": "Beyond",
+   "album": "海阔天空",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 27571440,
+   "name": "Applause",
+   "artist": "Lady Gaga",
+   "album": "Applause",
+   "fee": 1,
+   "rank": 47
+  },
+  {
+   "id": 27955409,
+   "name": "真的假的",
+   "artist": "陶晶莹",
+   "album": "真的假的",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 19945726,
+   "name": "Radioactive",
+   "artist": "Imagine Dragons",
+   "album": "Continued Silence EP",
+   "fee": 1,
+   "rank": 49
+  },
+  {
+   "id": 26524358,
+   "name": "Walking Away",
+   "artist": "ChianoSky",
+   "album": "最新热歌慢摇1",
+   "fee": 1,
+   "rank": 50
+  },
+  {
+   "id": 27528308,
+   "name": "Counting Stars",
+   "artist": "OneRepublic",
+   "album": "We Love Summer 2013",
+   "fee": 1,
+   "rank": 51
+  },
+  {
+   "id": 28059507,
+   "name": "十二月的奇迹 (Miracles in December)",
+   "artist": "EXO",
+   "album": "Winter Special Album '12月的奇迹 (Miracles In December)'",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 26598946,
+   "name": "山丘",
+   "artist": "李宗盛",
+   "album": "山丘",
+   "fee": 1,
+   "rank": 53
+  },
+  {
+   "id": 346576,
+   "name": "光辉岁月",
+   "artist": "Beyond",
+   "album": "光辉岁月十五年",
+   "fee": 1,
+   "rank": 54
+  },
+  {
+   "id": 4164331,
+   "name": "Bye Bye Bye",
+   "artist": "Lovestoned",
+   "album": "Rising Love",
+   "fee": 8,
+   "rank": 55
+  },
+  {
+   "id": 254191,
+   "name": "可惜不是你",
+   "artist": "梁静茹",
+   "album": "丝路",
+   "fee": 1,
+   "rank": 56
+  },
+  {
+   "id": 108390,
+   "name": "说谎",
+   "artist": "林宥嘉",
+   "album": "感官/世界",
+   "fee": 0,
+   "rank": 57
+  },
+  {
+   "id": 2001320,
+   "name": "Valder Fields",
+   "artist": "Tamas Wells",
+   "album": "A Plea en Vendredi",
+   "fee": 8,
+   "rank": 58
+  },
+  {
+   "id": 296837,
+   "name": "魔鬼中的天使",
+   "artist": "田馥甄",
+   "album": "My Love",
+   "fee": 0,
+   "rank": 59
+  },
+  {
+   "id": 168091,
+   "name": "蓝莲花",
+   "artist": "许巍",
+   "album": "时光.漫步",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 25657229,
+   "name": "When I Was Your Man",
+   "artist": "Bruno Mars",
+   "album": "When I Was Your Man",
+   "fee": 1,
+   "rank": 61
+  },
+  {
+   "id": 2182987,
+   "name": "Without You",
+   "artist": "Alyssa Reid",
+   "album": "The Game",
+   "fee": 1,
+   "rank": 62
+  },
+  {
+   "id": 239188,
+   "name": "没那么简单",
+   "artist": "黄小琥",
+   "album": "简单/不简单",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 274686,
+   "name": "煎熬",
+   "artist": "李佳薇",
+   "album": "感谢爱人",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 202373,
+   "name": "南方姑娘",
+   "artist": "赵雷",
+   "album": "赵小雷",
+   "fee": 1,
+   "rank": 65
+  },
+  {
+   "id": 1297650,
+   "name": "Love the Way You Lie (Clean)",
+   "artist": "Eminem/Rihanna",
+   "album": "Love the Way You Lie",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 27896574,
+   "name": "Story of My Life",
+   "artist": "One Direction",
+   "album": "Story of My Life",
+   "fee": 1,
+   "rank": 67
+  },
+  {
+   "id": 26207292,
+   "name": "致青春",
+   "artist": "王菲",
+   "album": "致青春",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 155887,
+   "name": "当我想你的时候",
+   "artist": "汪峰",
+   "album": "信仰在空中飘扬",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 326784,
+   "name": "我最亲爱的",
+   "artist": "张惠妹",
+   "album": "你在看我吗",
+   "fee": 0,
+   "rank": 70
+  },
+  {
+   "id": 223972,
+   "name": "街角的祝福",
+   "artist": "戴佩妮",
+   "album": "Just Sing It",
+   "fee": 1,
+   "rank": 71
+  },
+  {
+   "id": 65355,
+   "name": "圣诞结",
+   "artist": "陈奕迅",
+   "album": "你的陈奕迅 国语精选",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 25730757,
+   "name": "稳稳的幸福",
+   "artist": "陈奕迅",
+   "album": "稳稳的幸福",
+   "fee": 1,
+   "rank": 73
+  },
+  {
+   "id": 207254,
+   "name": "美丽心情",
+   "artist": "本多RuRu",
+   "album": "美丽心情",
+   "fee": 1,
+   "rank": 74
+  },
+  {
+   "id": 17194024,
+   "name": "Cry on My Shoulder",
+   "artist": "Deutschland sucht den Superstar",
+   "album": "United",
+   "fee": 1,
+   "rank": 75
+  },
+  {
+   "id": 26243686,
+   "name": "Young And Beautiful",
+   "artist": "Lana Del Rey",
+   "album": "Young And Beautiful",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 27836035,
+   "name": "心火",
+   "artist": "姚贝娜",
+   "album": "1/2 的我",
+   "fee": 0,
+   "rank": 77
+  },
+  {
+   "id": 18836961,
+   "name": "Stay Here Forever (Acoustic)",
+   "artist": "Jewel",
+   "album": "Sweet And Wild (Acoustic)",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 327163,
+   "name": "我们说好的",
+   "artist": "张靓颖",
+   "album": "Update",
+   "fee": 0,
+   "rank": 79
+  },
+  {
+   "id": 27890541,
+   "name": "One More Sleep",
+   "artist": "Leona Lewis",
+   "album": "One More Sleep",
+   "fee": 1,
+   "rank": 80
+  },
+  {
+   "id": 28068530,
+   "name": "没那么简单",
+   "artist": "胡彦斌",
+   "album": "《全能星战》第九期",
+   "fee": 0,
+   "rank": 81
+  },
+  {
+   "id": 65538,
+   "name": "好久不见",
+   "artist": "陈奕迅",
+   "album": "认了吧",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 28126661,
+   "name": "时间都去哪儿了",
+   "artist": "王铮亮",
+   "album": "私人定制  电影原声带",
+   "fee": 0,
+   "rank": 83
+  },
+  {
+   "id": 254132,
+   "name": "会呼吸的痛",
+   "artist": "梁静茹",
+   "album": "崇拜",
+   "fee": 1,
+   "rank": 84
+  },
+  {
+   "id": 25640847,
+   "name": "Trespassing",
+   "artist": "Adam Lambert",
+   "album": "中国好声音第一季 第十四期",
+   "fee": 0,
+   "rank": 85
+  },
+  {
+   "id": 26569168,
+   "name": "Stronger",
+   "artist": "Kelly Clarkson",
+   "album": "Kids Top 20 - De Grootste Hits Van 2013 - Summer Edition 2013",
+   "fee": 0,
+   "rank": 86
+  },
+  {
+   "id": 28126255,
+   "name": "明明爱你",
+   "artist": "林凡",
+   "album": "明明爱你",
+   "fee": 0,
+   "rank": 87
+  },
+  {
+   "id": 27731537,
+   "name": "说了再见以后",
+   "artist": "苏打绿",
+   "album": "秋：故事",
+   "fee": 0,
+   "rank": 88
+  },
+  {
+   "id": 27902536,
+   "name": "我们好像在哪见过",
+   "artist": "小柯/叶蓓",
+   "album": "咱们结婚吧 电视原声带",
+   "fee": 0,
+   "rank": 89
+  },
+  {
+   "id": 1210496,
+   "name": "What Are Words",
+   "artist": "Chris Medina",
+   "album": "What Are Words",
+   "fee": 0,
+   "rank": 90
+  },
+  {
+   "id": 19572271,
+   "name": "Gotta Have You",
+   "artist": "The Weepies",
+   "album": "Say I Am You",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 26625301,
+   "name": "Pacific Rim (feat. Tom Morello)",
+   "artist": "Ramin Djawadi/Tom Morello",
+   "album": "Pacific Rim (Original Motion Picture Soundtrack)",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 326904,
+   "name": "如果你也听说",
+   "artist": "张惠妹",
+   "album": "Star",
+   "fee": 0,
+   "rank": 93
+  },
+  {
+   "id": 2117228,
+   "name": "Chasing Pavements",
+   "artist": "Adele",
+   "album": "Chasing Pavements",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 27713714,
+   "name": "爱的海洋",
+   "artist": "曲婉婷",
+   "album": "Say The Words",
+   "fee": 8,
+   "rank": 95
+  },
+  {
+   "id": 25657236,
+   "name": "When I Was Your Man",
+   "artist": "Bruno Mars",
+   "album": "Unorthodox Jukebox",
+   "fee": 1,
+   "rank": 96
+  },
+  {
+   "id": 25657233,
+   "name": "Treasure",
+   "artist": "Bruno Mars",
+   "album": "Unorthodox Jukebox",
+   "fee": 1,
+   "rank": 97
+  },
+  {
+   "id": 3852042,
+   "name": "New Soul",
+   "artist": "Yael Naim",
+   "album": "Yael Naim",
+   "fee": 0,
+   "rank": 98
+  },
+  {
+   "id": 18513043,
+   "name": "Love you like I do",
+   "artist": "Jamillions",
+   "album": "Almost Famous",
+   "fee": 1,
+   "rank": 99
+  },
+  {
+   "id": 185868,
+   "name": "不能说的秘密",
+   "artist": "周杰伦",
+   "album": "不能说的秘密 电影原声带",
+   "fee": 0,
+   "rank": 100
+  }
+ ]
+}

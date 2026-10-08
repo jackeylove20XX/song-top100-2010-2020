@@ -1,0 +1,810 @@
+{
+ "year": 2019,
+ "cat": "acg",
+ "pid": 3138280405,
+ "pname": "【ACG】盘点2019年百首好听的动漫歌曲",
+ "creator": "爆肝工程师的狂想曲",
+ "fetched": 100,
+ "tracks": [
+  {
+   "id": 1459710910,
+   "name": "紅蓮華 (THE FIRST TAKE Studio Ver.)",
+   "artist": "LiSA",
+   "album": "",
+   "fee": 0,
+   "rank": 1
+  },
+  {
+   "id": 1374245779,
+   "name": "憧憬と屍の道",
+   "artist": "Linked Horizon",
+   "album": "真実への進撃",
+   "fee": 1,
+   "rank": 2
+  },
+  {
+   "id": 1358912769,
+   "name": "グレイ (TV EDIT)",
+   "artist": "sajou no hana",
+   "album": "「モブサイコ100 II」オリジナルサウンドトラック",
+   "fee": 0,
+   "rank": 3
+  },
+  {
+   "id": 1399256902,
+   "name": "アンノウン・ワールドマップ",
+   "artist": "やくしまるえつこ",
+   "album": "アンノウン・ワールドマップ",
+   "fee": 8,
+   "rank": 4
+  },
+  {
+   "id": 1348721722,
+   "name": "やっぱりみゃー姉なんばーわん",
+   "artist": "長江里加",
+   "album": "天使のうたごえ",
+   "fee": 8,
+   "rank": 5
+  },
+  {
+   "id": 1384830910,
+   "name": "裏切り者のレクイエム (Diavolo Ver.)",
+   "artist": "長谷川大祐",
+   "album": "ジョジョの奇妙な冒険 黄金の風 O.S.T Vol.3 Finale",
+   "fee": 0,
+   "rank": 6
+  },
+  {
+   "id": 1361188105,
+   "name": "チカっとチカ千花っ",
+   "artist": "小原好美",
+   "album": "チカっとチカ千花っ",
+   "fee": 8,
+   "rank": 7
+  },
+  {
+   "id": 1381578834,
+   "name": "The Loneliest Girl",
+   "artist": "Nai Br.XX/Celeina Ann",
+   "album": "TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 1392924993,
+   "name": "冬のはなし",
+   "artist": "矢野奨吾",
+   "album": "まるつけ/冬のはなし",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 1343016205,
+   "name": "closer again",
+   "artist": "Miyuu",
+   "album": "closer again",
+   "fee": 8,
+   "rank": 10
+  },
+  {
+   "id": 1386091650,
+   "name": "FINAL COMMANDER",
+   "artist": "水樹奈々",
+   "album": "FINAL COMMANDER",
+   "fee": 1,
+   "rank": 11
+  },
+  {
+   "id": 1396666304,
+   "name": "Phantom Joke",
+   "artist": "UNISON SQUARE GARDEN",
+   "album": "Phantom Joke (初回限定盤)",
+   "fee": 0,
+   "rank": 12
+  },
+  {
+   "id": 1342950406,
+   "name": "カワキヲアメク",
+   "artist": "美波",
+   "album": "カワキヲアメク",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 541511325,
+   "name": "Ψレントプリズナー",
+   "artist": "YOFFY/神谷浩史/小野大輔",
+   "album": "テレビアニメ「斉木楠雄のΨ難」第2期オープニングテーマ「Ψレントプリズナー」",
+   "fee": 1,
+   "rank": 14
+  },
+  {
+   "id": 1356295445,
+   "name": "RISE",
+   "artist": "MADKID",
+   "album": "RISE",
+   "fee": 1,
+   "rank": 15
+  },
+  {
+   "id": 1385141884,
+   "name": "ROAR",
+   "artist": "黒崎真音",
+   "album": "ROAR",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 1353381404,
+   "name": "AIAIAI",
+   "artist": "Kizuna AI/中田ヤスタカ",
+   "album": "AIAIAI",
+   "fee": 0,
+   "rank": 17
+  },
+  {
+   "id": 1359978993,
+   "name": "コトノハノオモイ",
+   "artist": "井上苑子",
+   "album": "コトノハノオモイ",
+   "fee": 1,
+   "rank": 18
+  },
+  {
+   "id": 1341323866,
+   "name": "火炎",
+   "artist": "女王蜂",
+   "album": "火炎",
+   "fee": 8,
+   "rank": 19
+  },
+  {
+   "id": 1374489488,
+   "name": "Taste of home",
+   "artist": "陶典/Hanser/花玲",
+   "album": "崩坏3「女武神的餐桌」Original Soundtrack",
+   "fee": 0,
+   "rank": 20
+  },
+  {
+   "id": 1379848038,
+   "name": "お願いマッスル",
+   "artist": "ファイルーズあい/石川界人",
+   "album": "TVアニメ「ダンベル何キロ持てる？」OPテーマ「お願いマッスル」／EDテーマ「マッチョアネーム？」 歌：紗倉ひびき（CV：ファイルーズあい） ＆ 街雄鳴造（CV：石川界人）／街雄鳴造（CV：石川界人）",
+   "fee": 1,
+   "rank": 21
+  },
+  {
+   "id": 1388828303,
+   "name": "starting the case- Rail Zeppelin",
+   "artist": "梶浦由記",
+   "album": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note- Original Soundtrack",
+   "fee": 1,
+   "rank": 22
+  },
+  {
+   "id": 1379839469,
+   "name": "輪！Moon！dass！cry！",
+   "artist": "赤﨑千夏/戸松遥/豊崎愛生",
+   "album": "TVアニメ「女子高生の無駄づかい」OPテーマ「輪！Moon！dass！cry！」／EDテーマ「青春のリバーブ」 歌：田中 望(CV:赤﨑千夏)、菊池 茜(CV:戸松 遥)、鷺宮しおり(CV:豊崎愛生)",
+   "fee": 1,
+   "rank": 23
+  },
+  {
+   "id": 1380438579,
+   "name": "乙女どもよ。",
+   "artist": "CHiCO with HoneyWorks",
+   "album": "乙女どもよ。",
+   "fee": 1,
+   "rank": 24
+  },
+  {
+   "id": 1368348845,
+   "name": "ひとりぼっちのモノローグ",
+   "artist": "森下千咲/田中美海/鬼頭明里",
+   "album": "TVアニメ「ひとりぼっちの○○生活」オープニングテーマ「ひとりぼっちのモノローグ」 歌：一里ぼっち（CV：森下千咲）、砂尾なこ（CV：田中美海）、本庄アル（CV：鬼頭明里）、ソトカ・ラキター（CV：黒瀬ゆうこ）",
+   "fee": 1,
+   "rank": 25
+  },
+  {
+   "id": 1359275278,
+   "name": "ボン♡キュッ♡ボンは彼のモノ♡",
+   "artist": "上坂すみれ",
+   "album": "ボン♡キュッ♡ボンは彼のモノ♡",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 1350640661,
+   "name": "Reason",
+   "artist": "竹中凌平",
+   "album": "Reason (アニメ盤)",
+   "fee": 0,
+   "rank": 27
+  },
+  {
+   "id": 1341578203,
+   "name": "Do The Fight",
+   "artist": "三畿道",
+   "album": "凹凸世界 第三季",
+   "fee": 1,
+   "rank": 28
+  },
+  {
+   "id": 1376669669,
+   "name": "ゼロセンチメートル (试听版)",
+   "artist": "大原ゆい子",
+   "album": "ゼロセンチメートル (アニメ盤)",
+   "fee": 0,
+   "rank": 29
+  },
+  {
+   "id": 1341520414,
+   "name": "エガオノカナタ",
+   "artist": "Chiho/majiko",
+   "album": "エガオノカナタ",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 1397243021,
+   "name": "STILL STANDING",
+   "artist": "(K)NoW_NAME",
+   "album": "STILL STANDING/Stay Gold",
+   "fee": 0,
+   "rank": 31
+  },
+  {
+   "id": 1356537985,
+   "name": "Innocent Notes",
+   "artist": "竹達彩奈",
+   "album": "Innocent Notes",
+   "fee": 8,
+   "rank": 32
+  },
+  {
+   "id": 1398617270,
+   "name": "TIT FOR TAT",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～」オープニングテーマ「TIT FOR TAT」 歌：MYTH ＆ ROID",
+   "fee": 1,
+   "rank": 33
+  },
+  {
+   "id": 1406051970,
+   "name": "Share the light",
+   "artist": "Run Girls, Run!",
+   "album": "Share the Light",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 1378032574,
+   "name": "I'm with you",
+   "artist": "高尾奏音",
+   "album": "I'm with you",
+   "fee": 1,
+   "rank": 35
+  },
+  {
+   "id": 1337938362,
+   "name": "shadowgraph",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「ブギーポップは笑わない」オープニングテーマ「shadowgraph」 歌：MYTH ＆ ROID",
+   "fee": 1,
+   "rank": 36
+  },
+  {
+   "id": 1341578175,
+   "name": "えんどろ～る！",
+   "artist": "勇者パーティー",
+   "album": "えんどろ～る！",
+   "fee": 1,
+   "rank": 37
+  },
+  {
+   "id": 1405069965,
+   "name": "Stay With Me",
+   "artist": "Seven Billion Dots",
+   "album": "Stay With Me",
+   "fee": 1,
+   "rank": 38
+  },
+  {
+   "id": 1342988479,
+   "name": "I swear",
+   "artist": "sweet ARMS",
+   "album": "I swear",
+   "fee": 0,
+   "rank": 39
+  },
+  {
+   "id": 1348625245,
+   "name": "Touch off",
+   "artist": "UVERworld",
+   "album": "Touch off",
+   "fee": 1,
+   "rank": 40
+  },
+  {
+   "id": 1348725201,
+   "name": "KODO",
+   "artist": "nonoc",
+   "album": "TVアニメ「魔法少女特殊戦あすか」オープニングテーマ「KODO」 歌：nonoc(読み：ノノック)",
+   "fee": 1,
+   "rank": 41
+  },
+  {
+   "id": 1382751092,
+   "name": "star*frost",
+   "artist": "nonoc",
+   "album": "TVアニメ「彼方のアストラ」オープニングテーマ「star*frost」 歌：nonoc",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 1401899937,
+   "name": "水槽",
+   "artist": "中島愛",
+   "album": "髪飾りの天使／水槽 [本好き盤]",
+   "fee": 8,
+   "rank": 43
+  },
+  {
+   "id": 419238716,
+   "name": "厨病激発ボーイ",
+   "artist": "れるりり/鏡音レン",
+   "album": "厨病激発ボーイ",
+   "fee": 1,
+   "rank": 44
+  },
+  {
+   "id": 1394807008,
+   "name": "サクリファイス",
+   "artist": "まふまふ",
+   "album": "神楽色アーティファクト",
+   "fee": 1,
+   "rank": 45
+  },
+  {
+   "id": 1384299608,
+   "name": "町かどタンジェント",
+   "artist": "小原好美/鬼頭明里",
+   "album": "町かどタンジェント/よいまちカンターレ",
+   "fee": 1,
+   "rank": 46
+  },
+  {
+   "id": 1407411414,
+   "name": "Wild Side -Anime Ver.-",
+   "artist": "ALI",
+   "album": "Wild Side",
+   "fee": 8,
+   "rank": 47
+  },
+  {
+   "id": 1377728988,
+   "name": "HELLO to DREAM",
+   "artist": "井口裕香",
+   "album": "HELLO to DREAM",
+   "fee": 1,
+   "rank": 48
+  },
+  {
+   "id": 1368323552,
+   "name": "異世界かるてっと",
+   "artist": "日野聡/福島潤/小林裕介",
+   "album": "TVアニメ「異世界かるてっと」OPテーマ「異世界かるてっと」／EDテーマ「異世界ガールズ※トーク」 歌：アインズ（CV：日野 聡）、カズマ（CV：福島 潤）、スバル（CV：小林裕介）、ターニャ（CV：悠木 碧）／ 　　アルベド（CV：原 由実）、アクア（CV：雨宮 天）、エミリア：（CV：高橋李依）、ターニャ（CV：悠木 碧）",
+   "fee": 1,
+   "rank": 49
+  },
+  {
+   "id": 1398451197,
+   "name": "Magical Babyrinth",
+   "artist": "DA PUMP",
+   "album": "Magical Babyrinth",
+   "fee": 1,
+   "rank": 50
+  },
+  {
+   "id": 1397118378,
+   "name": "真夏绘卷",
+   "artist": "静电场朔",
+   "album": "阴阳师·平安物语",
+   "fee": 8,
+   "rank": 51
+  },
+  {
+   "id": 1350265597,
+   "name": "Sign",
+   "artist": "内田彩",
+   "album": "Sign / Candy Flavor",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 1379435395,
+   "name": "Parole",
+   "artist": "sajou no hana",
+   "album": "Parole",
+   "fee": 0,
+   "rank": 53
+  },
+  {
+   "id": 1346713363,
+   "name": "INDETERMINATE UNIVERSE",
+   "artist": "ゆうゆ/ケムリクサ",
+   "album": "INDETERMINATE UNIVERSE",
+   "fee": 8,
+   "rank": 54
+  },
+  {
+   "id": 1375753706,
+   "name": "Veil",
+   "artist": "須田景凪",
+   "album": "Porte",
+   "fee": 1,
+   "rank": 55
+  },
+  {
+   "id": 1401456829,
+   "name": "Drown",
+   "artist": "milet",
+   "album": "Drown / You & I",
+   "fee": 8,
+   "rank": 56
+  },
+  {
+   "id": 1399256538,
+   "name": "航海の唄",
+   "artist": "さユり",
+   "album": "航海の唄",
+   "fee": 1,
+   "rank": 57
+  },
+  {
+   "id": 1398299689,
+   "name": "アネクドット",
+   "artist": "ももすももす",
+   "album": "アネクドット",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 1395935939,
+   "name": "Regeneration",
+   "artist": "雨宮天",
+   "album": "Regeneration",
+   "fee": 1,
+   "rank": 59
+  },
+  {
+   "id": 1376283024,
+   "name": "地図が無くても戻るから（我终将回到这里，即使没有地图）-一拳超人第二季片尾曲（翻自 古川慎）",
+   "artist": "古川 慎",
+   "album": "一拳超人2最终ed",
+   "fee": 0,
+   "rank": 60
+  },
+  {
+   "id": 1368320329,
+   "name": "もっふもふ DE よいのじゃよ",
+   "artist": "和氣あず未",
+   "album": "TVアニメ「世話やきキツネの仙狐さん」OPテーマ「今宵mofumofu!!」／EDテーマ「もっふもっふ DE よいのじゃよ」 歌：仙狐（CV：和氣あず未）＆シロ（CV：内田真礼）／ 仙狐（CV：和氣あず未）",
+   "fee": 1,
+   "rank": 61
+  },
+  {
+   "id": 1358208464,
+   "name": "スタンドバイミー",
+   "artist": "the peggies",
+   "album": "スタンドバイミー",
+   "fee": 8,
+   "rank": 62
+  },
+  {
+   "id": 1313052943,
+   "name": "不可思議のカルテ",
+   "artist": "瀬戸麻沙美/東山奈央/種崎敦美",
+   "album": "【青春ブタ野郎はバニーガール先輩の夢を見ない】不可思議のカルテ",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 1397105401,
+   "name": "dear my distance",
+   "artist": "鬼頭明里",
+   "album": "Swinging Heart",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 1357395480,
+   "name": "Lucky Ending",
+   "artist": "ビッケブランカ",
+   "album": "Lucky Ending",
+   "fee": 8,
+   "rank": 65
+  },
+  {
+   "id": 1380438486,
+   "name": "願い",
+   "artist": "Uru",
+   "album": "願い",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 1376681800,
+   "name": "NEW",
+   "artist": "東城陽奏",
+   "album": "NEW",
+   "fee": 0,
+   "rank": 67
+  },
+  {
+   "id": 1382637646,
+   "name": "Connected",
+   "artist": "吉岡茉祐",
+   "album": "Connected",
+   "fee": 1,
+   "rank": 68
+  },
+  {
+   "id": 1397725153,
+   "name": "unlasting",
+   "artist": "LiSA",
+   "album": "unlasting",
+   "fee": 1,
+   "rank": 69
+  },
+  {
+   "id": 1404530607,
+   "name": "百億光年",
+   "artist": "ロザリーナ",
+   "album": "百億光年",
+   "fee": 1,
+   "rank": 70
+  },
+  {
+   "id": 1404884823,
+   "name": "Precious My Heroes (TV ver.)",
+   "artist": "fox capture plan/宮本一粋",
+   "album": "Precious My Heroes",
+   "fee": 0,
+   "rank": 71
+  },
+  {
+   "id": 1380832498,
+   "name": "against all gods",
+   "artist": "m-flo",
+   "album": "against all gods",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 1379511400,
+   "name": "LIFE",
+   "artist": "Rude-α",
+   "album": "LIFE",
+   "fee": 1,
+   "rank": 73
+  },
+  {
+   "id": 1401899934,
+   "name": "髪飾りの天使",
+   "artist": "中島愛",
+   "album": "髪飾りの天使／水槽 [本好き盤]",
+   "fee": 8,
+   "rank": 74
+  },
+  {
+   "id": 1397635021,
+   "name": "On the Board",
+   "artist": "宮下早紀/高野麻里佳/富田美憂",
+   "album": "TVアニメ「放課後さいころ倶楽部」エンディング・テーマ 「On the Board」",
+   "fee": 1,
+   "rank": 75
+  },
+  {
+   "id": 1369723590,
+   "name": "WISH",
+   "artist": "majiko",
+   "album": "寂しい人が一番偉いんだ",
+   "fee": 1,
+   "rank": 76
+  },
+  {
+   "id": 1398318017,
+   "name": "Game Over",
+   "artist": "DATS",
+   "album": "Game Over",
+   "fee": 1,
+   "rank": 77
+  },
+  {
+   "id": 1385141392,
+   "name": "君のとなり わたしの場所",
+   "artist": "南條愛乃",
+   "album": "君のとなり わたしの場所",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 1406051405,
+   "name": "光の道標",
+   "artist": "鹿乃",
+   "album": "光の道標",
+   "fee": 1,
+   "rank": 79
+  },
+  {
+   "id": 1368328434,
+   "name": "Never Give It Up‼",
+   "artist": "Study",
+   "album": "セイシュンゼミナール/Never Give It Up!!",
+   "fee": 0,
+   "rank": 80
+  },
+  {
+   "id": 1398320466,
+   "name": "bullet",
+   "artist": "Cö shu Nie",
+   "album": "PURE",
+   "fee": 1,
+   "rank": 81
+  },
+  {
+   "id": 1348625270,
+   "name": "Remembrance",
+   "artist": "MYTH & ROID",
+   "album": "TVアニメ「ブギーポップは笑わない」オープニングテーマ「shadowgraph」 歌：MYTH ＆ ROID",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 1357399415,
+   "name": "BLUE SAPPHIRE",
+   "artist": "ØMI",
+   "album": "SUPERMOON",
+   "fee": 1,
+   "rank": 83
+  },
+  {
+   "id": 1323302672,
+   "name": "azure",
+   "artist": "TrySail",
+   "album": "azure (アニメ盤)",
+   "fee": 0,
+   "rank": 84
+  },
+  {
+   "id": 1338149091,
+   "name": "I beg you",
+   "artist": "Aimer",
+   "album": "I beg you / 花びらたちのマーチ / Sailing",
+   "fee": 1,
+   "rank": 85
+  },
+  {
+   "id": 1390124713,
+   "name": "空の青さを知る人よ",
+   "artist": "あいみょん",
+   "album": "空の青さを知る人よ",
+   "fee": 1,
+   "rank": 86
+  },
+  {
+   "id": 1344830378,
+   "name": "リバイブ",
+   "artist": "UNIONE",
+   "album": "リバイブ",
+   "fee": 8,
+   "rank": 87
+  },
+  {
+   "id": 1398320493,
+   "name": "glory days",
+   "artist": "春奈るな",
+   "album": "glory days",
+   "fee": 1,
+   "rank": 88
+  },
+  {
+   "id": 1401860919,
+   "name": "1ミリ Symphony",
+   "artist": "Machico",
+   "album": "マチビトサガシ",
+   "fee": 1,
+   "rank": 89
+  },
+  {
+   "id": 1378491298,
+   "name": "愛にできることはまだあるかい",
+   "artist": "RADWIMPS",
+   "album": "天気の子",
+   "fee": 1,
+   "rank": 90
+  },
+  {
+   "id": 1365898672,
+   "name": "アンコール",
+   "artist": "宮野真守",
+   "album": "アンコール",
+   "fee": 1,
+   "rank": 91
+  },
+  {
+   "id": 1369595168,
+   "name": "Brand New Story",
+   "artist": "GENERATIONS from EXILE TRIBE",
+   "album": "Brand New Story",
+   "fee": 1,
+   "rank": 92
+  },
+  {
+   "id": 1375235767,
+   "name": "GONG",
+   "artist": "WANIMA",
+   "album": "Summer Trap!!",
+   "fee": 1,
+   "rank": 93
+  },
+  {
+   "id": 1381054296,
+   "name": "#Love",
+   "artist": "supercell/Ann/gaku",
+   "album": "#Love",
+   "fee": 1,
+   "rank": 94
+  },
+  {
+   "id": 1369903412,
+   "name": "海の幽霊",
+   "artist": "米津玄師",
+   "album": "海の幽霊",
+   "fee": 1,
+   "rank": 95
+  },
+  {
+   "id": 1345141009,
+   "name": "ら、のはなし",
+   "artist": "あいみょん",
+   "album": "瞬間的シックスセンス",
+   "fee": 1,
+   "rank": 96
+  },
+  {
+   "id": 1348373332,
+   "name": "THE GIFT",
+   "artist": "平井 大",
+   "album": "THE GIFT",
+   "fee": 1,
+   "rank": 97
+  },
+  {
+   "id": 1395807189,
+   "name": "イエスタデイ",
+   "artist": "Official髭男dism",
+   "album": "Traveler",
+   "fee": 1,
+   "rank": 98
+  },
+  {
+   "id": 1355861659,
+   "name": "ハルノヒ",
+   "artist": "あいみょん",
+   "album": "ハルノヒ",
+   "fee": 1,
+   "rank": 99
+  },
+  {
+   "id": 33709351,
+   "name": "ユーノ",
+   "artist": "梅本竜/与猶啓至",
+   "album": "この世の果てで恋を唄う少女 YU-NO SUPER SOUND TRACK",
+   "fee": 0,
+   "rank": 100
+  }
+ ]
+}

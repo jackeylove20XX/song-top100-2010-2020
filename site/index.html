@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>华语·二次元 年度百强 (2010-2020)</title>
+<style>
+:root{--bg:#0f1420;--card:#171d2e;--ink:#e8ecf5;--sub:#8fa0bd;--gold:#f5c451;--line:#263049;--lynk:#5ea1ff}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.6 "Microsoft YaHei",system-ui,sans-serif}
+header{padding:44px 16px 22px;text-align:center}
+header h1{font-size:30px;letter-spacing:1px}
+header h1 b{color:var(--gold)}
+header p{color:var(--sub);margin-top:8px;font-size:13px}
+.wrap{max-width:960px;margin:0 auto;padding:0 14px 60px}
+.tabs{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:14px 0 6px}
+.tabs button{background:var(--card);border:1px solid var(--line);color:var(--sub);padding:7px 15px;border-radius:20px;cursor:pointer;font-size:14px}
+.tabs button.on{background:var(--gold);border-color:var(--gold);color:#20232a;font-weight:700}
+.cats{display:flex;gap:10px;justify-content:center;margin:10px 0 4px}
+.cats button{background:none;border:1px solid var(--line);color:var(--sub);padding:6px 18px;border-radius:6px;cursor:pointer}
+.cats button.on{color:var(--gold);border-color:var(--gold)}
+.meta{color:var(--sub);font-size:12px;text-align:center;margin:6px 0 14px;min-height:1.2em}
+.search{display:block;margin:0 auto 14px;width:min(420px,90%);background:var(--card);border:1px solid var(--line);color:var(--ink);padding:9px 14px;border-radius:8px;font-size:14px}
+table{width:100%;border-collapse:collapse;background:var(--card);border-radius:10px;overflow:hidden}
+th,td{padding:9px 12px;text-align:left;border-bottom:1px solid var(--line);font-size:14px}
+th{color:var(--sub);font-weight:600;font-size:13px;background:#141a29;position:sticky;top:0}
+tr:hover td{background:#1c2438}
+td.rk{width:56px;color:var(--sub)}
+tr.top td.rk{color:var(--gold);font-weight:700}
+td.sn{font-weight:600}
+td.ar{color:#c7d2e8;width:24%}
+td.al{color:var(--sub);width:22%;font-size:13px}
+td.tl{width:64px}
+td.tl a{color:var(--lynk);text-decoration:none;font-size:13px}
+td.tl a:hover{text-decoration:underline}
+.empty{color:var(--sub);text-align:center;padding:40px 0}
+footer{color:var(--sub);font-size:12px;text-align:center;padding:18px;line-height:1.8}
+footer a{color:var(--lynk)}
+@media (max-width:640px){td.al{display:none}th.al{display:none}header h1{font-size:22px}}
+</style>
+</head>
+<body>
+<header>
+  <h1>年度歌曲百强榜 <b>2010–2020</b></h1>
+  <p>华语流行 & 二次元（含中日）· 数据整理自网易云音乐年度歌单 · 点击"试听"直达网易云播放页</p>
+</header>
+<div class="wrap">
+  <div class="tabs" id="yearTabs"></div>
+  <div class="cats">
+    <button id="cat-hua" class="on" onclick="setCat('hua')">华语流行榜</button>
+    <button id="cat-acg" onclick="setCat('acg')">二次元榜</button>
+  </div>
+  <div class="meta" id="meta"></div>
+  <input class="search" id="q" placeholder="搜索歌名 / 歌手 / 专辑…" oninput="render()">
+  <div id="tableArea"></div>
+  <footer>
+    排名为歌单整理者的编排显示，非官方权威榜单；标注 VIP 的歌曲需网易云会员，免费曲目直接播放。<br>
+    链接均指向 music.163.com 歌曲页 · 数据文件 <code>data/*.json</code> · 访问受限时请以网易云客户端为准。
+  </footer>
+</div>
+<script src="data.js"></script>
+<script>
+const DATA = window.SITE_DATA || {};
+let curYear=null, curCat='hua';
+function init(){
+  const years=[...new Set(Object.values(DATA).map(x=>x.year))].sort((a,b)=>b-a);
+  const tabs=document.getElementById('yearTabs');
+  tabs.innerHTML=years.map(y=>`<button data-y="${y}" onclick="setYear(${y})">${y}</button>`).join('');
+  if(years.length) setYear(years[0]);
+}
+function setYear(y){curYear=y;document.querySelectorAll('#yearTabs button').forEach(b=>b.classList.toggle('on',+b.dataset.y===y));render();}
+function setCat(c){curCat=c;document.getElementById('cat-hua').classList.toggle('on',c==='hua');document.getElementById('cat-acg').classList.toggle('on',c==='acg');render();}
+function render(){
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  const d=DATA[`${curYear}_${curCat}`];
+  const meta=document.getElementById('meta');
+  const area=document.getElementById('tableArea');
+  if(!d){meta.textContent=`${curYear} ${curCat==='hua'?'华语流行榜':'二次元榜'} 数据待补齐`;area.innerHTML=`<div class="empty">该年份暂无数据</div>`;return;}
+  meta.textContent=`数据来源：网易云歌单《${d.pname}》${d.creator?` · by ${d.creator}`:''} · 收录 ${d.tracks.length} 首`;
+  const kw=q?(t)=>((t.name+t.artist+t.album).toLowerCase().includes(q)):()=>true;
+  const rows=d.tracks.filter(kw).map(t=>`<tr class="${t.rank<=3?'top':''}">
+    <td class="rk">${t.rank}</td><td class="sn">${esc(t.name)}</td>
+    <td class="ar">${esc(t.artist)}</td><td class="al">${esc(t.album||'')}</td>
+    <td class="tl"><a href="https://music.163.com/song?id=${t.id}" target="_blank" rel="noopener">▶ 试听</a></td></tr>`).join('');
+  area.innerHTML=rows?`<table><thead><tr><th class="rk">#</th><th>歌曲</th><th class="ar">歌手</th><th class="al">专辑</th><th class="tl">试听</th></tr></thead><tbody>${rows}</tbody></table>`
+    :`<div class="empty">没有匹配" ${esc(q)} "的歌曲</div>`;
+}
+function esc(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,674 @@
+{
+ "year": 2012,
+ "cat": "acg",
+ "pid": 22396305,
+ "pname": "2012动漫歌曲精选",
+ "creator": "大苦",
+ "fetched": 83,
+ "tracks": [
+  {
+   "id": 783619,
+   "name": "ペガサス幻想 (ver.Ω)",
+   "artist": "MAKE-UP/中川翔子/山田信夫",
+   "album": "ペガサス幻想 ver.Ω",
+   "fee": 0,
+   "rank": 1
+  },
+  {
+   "id": 559659,
+   "name": "Dreamer",
+   "artist": "AiRI",
+   "album": "Dreamer",
+   "fee": 0,
+   "rank": 2
+  },
+  {
+   "id": 809268,
+   "name": "sweets parade",
+   "artist": "花澤香菜",
+   "album": "妖狐×僕SS ENDING SONG Vol.3",
+   "fee": 8,
+   "rank": 3
+  },
+  {
+   "id": 28315777,
+   "name": "Burst the Gravity",
+   "artist": "ALTIMA",
+   "album": "TRYANGLE",
+   "fee": 0,
+   "rank": 4
+  },
+  {
+   "id": 656437,
+   "name": "ユメセカイ",
+   "artist": "戸松遥",
+   "album": "ユメセカイ",
+   "fee": 1,
+   "rank": 5
+  },
+  {
+   "id": 718372,
+   "name": "パラダイム",
+   "artist": "eufonius",
+   "album": "パラダイム",
+   "fee": 1,
+   "rank": 6
+  },
+  {
+   "id": 460528,
+   "name": "白金ディスコ",
+   "artist": "井口裕香",
+   "album": "白金ディスコ & 「偽物語」劇伴音楽集 其ノ參",
+   "fee": 8,
+   "rank": 7
+  },
+  {
+   "id": 26083081,
+   "name": "BRIGHT STREAM",
+   "artist": "水樹奈々",
+   "album": "ROCKBOUND NEIGHBORS",
+   "fee": 1,
+   "rank": 8
+  },
+  {
+   "id": 656380,
+   "name": "朝ごはんの歌",
+   "artist": "手嶌葵",
+   "album": "コクリコ坂から歌集",
+   "fee": 1,
+   "rank": 9
+  },
+  {
+   "id": 694849,
+   "name": "BROKEN MIRROR",
+   "artist": "BOOM BOOM SATELLITES",
+   "album": "BROKEN MIRROR",
+   "fee": 1,
+   "rank": 10
+  },
+  {
+   "id": 28838546,
+   "name": "From new world",
+   "artist": "佐咲紗花/橋本みゆき/Faylan",
+   "album": "From new world",
+   "fee": 0,
+   "rank": 11
+  },
+  {
+   "id": 414307,
+   "name": "Time to Rock and roll",
+   "artist": "岩崎琢",
+   "album": "ヨルムンガンド オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 12
+  },
+  {
+   "id": 26584828,
+   "name": "Ambivalentidea",
+   "artist": "やなぎなぎ",
+   "album": "エウアル",
+   "fee": 1,
+   "rank": 13
+  },
+  {
+   "id": 22711650,
+   "name": "foret noire",
+   "artist": "釘宮理恵",
+   "album": "kokohadoko",
+   "fee": 0,
+   "rank": 14
+  },
+  {
+   "id": 532502,
+   "name": "ずっと「君と僕。2」オープニングバージョン",
+   "artist": "少年T-佐香智久",
+   "album": "ずっと (期間生産限定盤)",
+   "fee": 0,
+   "rank": 15
+  },
+  {
+   "id": 22640568,
+   "name": "Glitter (Starving Trancer Remix)",
+   "artist": "Senya/Another Infinity/Starving Trancer",
+   "album": "Glitter/神巫詞",
+   "fee": 1,
+   "rank": 16
+  },
+  {
+   "id": 460641,
+   "name": "二言目 -instrumental-",
+   "artist": "神前暁",
+   "album": "二言目 & 「偽物語」劇伴音楽集 其ノ壹",
+   "fee": 0,
+   "rank": 17
+  },
+  {
+   "id": 506697,
+   "name": "东京决戦",
+   "artist": "佐藤直紀",
+   "album": "剧场版 BLOOD-C The Last Dark オリジナルサウンドトラック",
+   "fee": 0,
+   "rank": 18
+  },
+  {
+   "id": 26083080,
+   "name": "METRO BAROQUE",
+   "artist": "水樹奈々",
+   "album": "ROCKBOUND NEIGHBORS",
+   "fee": 1,
+   "rank": 19
+  },
+  {
+   "id": 28152885,
+   "name": "Bamboo☆Scramble",
+   "artist": "福山潤",
+   "album": "しろくまカフェ ミュージックベスト",
+   "fee": 0,
+   "rank": 20
+  },
+  {
+   "id": 28152882,
+   "name": "ボクにインビテーション",
+   "artist": "JP",
+   "album": "しろくまカフェ ミュージックベスト",
+   "fee": 0,
+   "rank": 21
+  },
+  {
+   "id": 588449,
+   "name": "ユノハノモリ",
+   "artist": "小倉唯",
+   "album": "TVアニメーション「アクエリオンEVOL」イヴの詩篇",
+   "fee": 8,
+   "rank": 22
+  },
+  {
+   "id": 423840,
+   "name": "Aria",
+   "artist": "平沢進",
+   "album": "Aria",
+   "fee": 0,
+   "rank": 23
+  },
+  {
+   "id": 422389,
+   "name": "アルタイル",
+   "artist": "秦基博",
+   "album": "アルタイル",
+   "fee": 0,
+   "rank": 24
+  },
+  {
+   "id": 834516,
+   "name": "空も飛べるはず(「つり球」エンディングバージョン)",
+   "artist": "さよならポニーテール",
+   "album": "空も飛べるはず/ビアンカ/恋するスポーツ【期間生産限定盤】",
+   "fee": 0,
+   "rank": 25
+  },
+  {
+   "id": 496602,
+   "name": "素晴らしき世界(instrumental)",
+   "artist": "Rake",
+   "album": "素晴らしき世界／大切な人",
+   "fee": 1,
+   "rank": 26
+  },
+  {
+   "id": 501645,
+   "name": "蒼崎青子",
+   "artist": "深澤秀行",
+   "album": "魔法使いの夜 オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 27
+  },
+  {
+   "id": 26160476,
+   "name": "Above your hand",
+   "artist": "Annabel",
+   "album": "Above your hand",
+   "fee": 0,
+   "rank": 28
+  },
+  {
+   "id": 27552692,
+   "name": "まどろみの約束 (Inst.)",
+   "artist": "岡本健介",
+   "album": "まどろみの約束",
+   "fee": 8,
+   "rank": 29
+  },
+  {
+   "id": 28050627,
+   "name": "→unfinished→",
+   "artist": "KOTOKO",
+   "album": "J-アニソン神曲祭り -パラダイス- [DJ和 in No.1胸熱MIX]",
+   "fee": 0,
+   "rank": 30
+  },
+  {
+   "id": 609840,
+   "name": "Chase the world -REMIX-",
+   "artist": "May'n",
+   "album": "Chase the world",
+   "fee": 0,
+   "rank": 31
+  },
+  {
+   "id": 22811593,
+   "name": "ゆめゆめ",
+   "artist": "DECO*27/初音ミク",
+   "album": "ゆめゆめ",
+   "fee": 8,
+   "rank": 32
+  },
+  {
+   "id": 655828,
+   "name": "CHOIR JAIL",
+   "artist": "鈴木このみ",
+   "album": "TVアニメ「黄昏乙女（たそがれおとめ）×アムネジア」オープニングテーマ 「CHOIR JAIL（クワイア ジェイル）」 歌：鈴木このみ",
+   "fee": 1,
+   "rank": 33
+  },
+  {
+   "id": 22749901,
+   "name": "優しさの理由",
+   "artist": "ChouCho",
+   "album": "flyleaf",
+   "fee": 1,
+   "rank": 34
+  },
+  {
+   "id": 28256235,
+   "name": "手をギュしてね",
+   "artist": "大久保瑠美",
+   "album": "手をギュしてね",
+   "fee": 1,
+   "rank": 35
+  },
+  {
+   "id": 28050651,
+   "name": "Non stop road",
+   "artist": "Sphere",
+   "album": "J-アニソン神曲祭り -パラダイス- [DJ和 in No.1胸熱MIX]",
+   "fee": 0,
+   "rank": 36
+  },
+  {
+   "id": 676508,
+   "name": "終わりの世界から",
+   "artist": "やなぎなぎ/麻枝准",
+   "album": "終わりの惑星のLove Song",
+   "fee": 8,
+   "rank": 37
+  },
+  {
+   "id": 579648,
+   "name": "星空☆ディスティネーション",
+   "artist": "花澤香菜",
+   "album": "星空☆ディスティネーション",
+   "fee": 1,
+   "rank": 38
+  },
+  {
+   "id": 28296061,
+   "name": "ねぇ(オンエアーｖｅｒ．｜オープニング主題歌)",
+   "artist": "藤田麻衣子",
+   "album": "TVアニメ『绯色の欠片』 オリジナルサウンドトラック",
+   "fee": 0,
+   "rank": 39
+  },
+  {
+   "id": 792165,
+   "name": "絵空事",
+   "artist": "nano.RIPE",
+   "album": "絵空事",
+   "fee": 1,
+   "rank": 40
+  },
+  {
+   "id": 583225,
+   "name": "空は高く風は歌う",
+   "artist": "春奈るな",
+   "album": "空は高く風は歌う (アニメ盤)",
+   "fee": 8,
+   "rank": 41
+  },
+  {
+   "id": 28814322,
+   "name": "to the beginning",
+   "artist": "Kalafina",
+   "album": "THE BEST “Blue”",
+   "fee": 1,
+   "rank": 42
+  },
+  {
+   "id": 591274,
+   "name": "風の境界線",
+   "artist": "黒石ひとみ",
+   "album": "LASTEXILE 銀翼のファム オリジナル・サウンドトラック 2",
+   "fee": 8,
+   "rank": 43
+  },
+  {
+   "id": 591188,
+   "name": "Starboard [Silky Wind ver.]",
+   "artist": "黒石ひとみ",
+   "album": "LASTEXILE 銀翼のファム オリジナル・サウンドトラック 2",
+   "fee": 8,
+   "rank": 44
+  },
+  {
+   "id": 643623,
+   "name": "ただひとつの星",
+   "artist": "上原れな",
+   "album": "虹色の未来/ただひとつの星/この世界に",
+   "fee": 0,
+   "rank": 45
+  },
+  {
+   "id": 825334,
+   "name": "僕らのあしあと (TV Edit)",
+   "artist": "supercell",
+   "album": "告白 / 僕らのあしあと",
+   "fee": 8,
+   "rank": 46
+  },
+  {
+   "id": 22677566,
+   "name": "ブラック★ロックシューター",
+   "artist": "ryo (supercell)/初音ミク",
+   "album": "初音ミクベスト ～impacts～",
+   "fee": 0,
+   "rank": 47
+  },
+  {
+   "id": 498080,
+   "name": "美♂-K $タすpAd",
+   "artist": "小林未郁",
+   "album": "GUILTY CROWN SOUNDTRACK ANOTHER SIDE 01",
+   "fee": 0,
+   "rank": 48
+  },
+  {
+   "id": 498168,
+   "name": "Rё∀L",
+   "artist": "Cyua",
+   "album": "ギルティクラウン オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 49
+  },
+  {
+   "id": 722906,
+   "name": "The Everlasting Guilty Crown -TV Edit-",
+   "artist": "EGOIST",
+   "album": "The Everlasting Guilty Crown",
+   "fee": 1,
+   "rank": 50
+  },
+  {
+   "id": 587843,
+   "name": "光をあつめて",
+   "artist": "KOKIA",
+   "album": "光をあつめて",
+   "fee": 8,
+   "rank": 51
+  },
+  {
+   "id": 867203,
+   "name": "filament",
+   "artist": "妖精帝國",
+   "album": "filament",
+   "fee": 1,
+   "rank": 52
+  },
+  {
+   "id": 28018222,
+   "name": "仲間",
+   "artist": "Good Coming",
+   "album": "银魂BEST3",
+   "fee": 0,
+   "rank": 53
+  },
+  {
+   "id": 606440,
+   "name": "たからもの -TV Ver.-",
+   "artist": "河野マリナ",
+   "album": "たからもの",
+   "fee": 0,
+   "rank": 54
+  },
+  {
+   "id": 743041,
+   "name": "今、このとき.",
+   "artist": "ひいらぎ",
+   "album": "今、このとき.",
+   "fee": 1,
+   "rank": 55
+  },
+  {
+   "id": 541389,
+   "name": "かなかなしぐれ",
+   "artist": "吉森信",
+   "album": "蛍火の杜へ オリジナル・サウンドトラック 季节の瞬き",
+   "fee": 0,
+   "rank": 56
+  },
+  {
+   "id": 588459,
+   "name": "月光シンフォニア",
+   "artist": "AKINO&AIKI",
+   "album": "TVアニメーション「アクエリオンEVOL」イヴの詩篇",
+   "fee": 8,
+   "rank": 57
+  },
+  {
+   "id": 676542,
+   "name": "ビードロ模様",
+   "artist": "やなぎなぎ",
+   "album": "ビードロ模様",
+   "fee": 1,
+   "rank": 58
+  },
+  {
+   "id": 26501414,
+   "name": "逆光のフリューゲル",
+   "artist": "水樹奈々/高山みなみ/ツヴァイウィング",
+   "album": "戦姫絶唱シンフォギア キャラクターソング 1",
+   "fee": 0,
+   "rank": 59
+  },
+  {
+   "id": 544156,
+   "name": "チームちはやふる",
+   "artist": "山下康介",
+   "album": "ちはやふる オリジナル・サウンドトラック＆キャラクターソング集 第1首",
+   "fee": 1,
+   "rank": 60
+  },
+  {
+   "id": 498153,
+   "name": "Home~in this corner~",
+   "artist": "Leina",
+   "album": "ギルティクラウン オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 61
+  },
+  {
+   "id": 498143,
+   "name": "Hill Of Sorrow",
+   "artist": "mpi",
+   "album": "ギルティクラウン オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 62
+  },
+  {
+   "id": 498134,
+   "name": "Release My Soul",
+   "artist": "Aimee Blackschleger",
+   "album": "ギルティクラウン オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 63
+  },
+  {
+   "id": 498121,
+   "name": "close your eyes",
+   "artist": "本田みちよ",
+   "album": "ギルティクラウン オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 64
+  },
+  {
+   "id": 498096,
+   "name": "βios",
+   "artist": "小林未郁",
+   "album": "ギルティクラウン オリジナルサウンドトラック",
+   "fee": 1,
+   "rank": 65
+  },
+  {
+   "id": 28629030,
+   "name": "ふたりのきもちのほんとのひみつ(カラオケ)",
+   "artist": "愛殺寶貝",
+   "album": "キルミーのベイベー!/ふたりのきもちのほんとのひみつ 【起】盤",
+   "fee": 1,
+   "rank": 66
+  },
+  {
+   "id": 592200,
+   "name": "Serment",
+   "artist": "川田まみ",
+   "album": "Serment",
+   "fee": 0,
+   "rank": 67
+  },
+  {
+   "id": 471273,
+   "name": "キスシテ↑アゲナイ↓ ~TV version~ (EDテーマ)",
+   "artist": "光宗信吉",
+   "album": "ゼロの使い魔F サウンドトラック",
+   "fee": 0,
+   "rank": 68
+  },
+  {
+   "id": 22727184,
+   "name": "Hello！",
+   "artist": "中島愛",
+   "album": "Be With You",
+   "fee": 8,
+   "rank": 69
+  },
+  {
+   "id": 623788,
+   "name": "TRY UNITE！",
+   "artist": "中島愛",
+   "album": "TRY UNITE!/Hello!",
+   "fee": 8,
+   "rank": 70
+  },
+  {
+   "id": 22730171,
+   "name": "ナイショの話",
+   "artist": "ClariS",
+   "album": "BIRTHDAY",
+   "fee": 1,
+   "rank": 71
+  },
+  {
+   "id": 26488792,
+   "name": "sign",
+   "artist": "Ray",
+   "album": "RAYVE",
+   "fee": 1,
+   "rank": 72
+  },
+  {
+   "id": 26202000,
+   "name": "Unmei♪wa♪Endless!",
+   "artist": "放課後ティータイム",
+   "album": "K-ON! Music History's Box",
+   "fee": 0,
+   "rank": 73
+  },
+  {
+   "id": 26202101,
+   "name": "Singing! (MOVIE size Ver.)",
+   "artist": "放課後ティータイム",
+   "album": "K-ON! Music History's Box",
+   "fee": 0,
+   "rank": 74
+  },
+  {
+   "id": 26202010,
+   "name": "いちばんいっぱい",
+   "artist": "放課後ティータイム",
+   "album": "K-ON! Music History's Box",
+   "fee": 0,
+   "rank": 75
+  },
+  {
+   "id": 691697,
+   "name": "I’ll believe",
+   "artist": "ALTIMA",
+   "album": "I'll believe (初回限定盤)",
+   "fee": 8,
+   "rank": 76
+  },
+  {
+   "id": 822183,
+   "name": "How to go",
+   "artist": "School Food Punishment",
+   "album": "How to go (期間生産限定盤)",
+   "fee": 8,
+   "rank": 77
+  },
+  {
+   "id": 22682168,
+   "name": "この手伸ばして",
+   "artist": "Hi-Fi CAMP",
+   "album": "SUNRISE",
+   "fee": 1,
+   "rank": 78
+  },
+  {
+   "id": 26122985,
+   "name": "コーヒー1杯のイマージュ",
+   "artist": "沼倉愛美",
+   "album": "THE IDOLM@STER ANIM@TION MASTER Namassuka SPECIAL Curtain Call",
+   "fee": 0,
+   "rank": 79
+  },
+  {
+   "id": 582834,
+   "name": "ROCK OVER JAPAN (TV-Size)",
+   "artist": "トリプルH",
+   "album": "輪るピングドラム オリジナルサウンドトラック 7",
+   "fee": 0,
+   "rank": 80
+  },
+  {
+   "id": 22805105,
+   "name": "Starboard",
+   "artist": "黒石ひとみ",
+   "album": "LASTEXILE 銀翼のファム O.S.T.",
+   "fee": 8,
+   "rank": 81
+  },
+  {
+   "id": 725117,
+   "name": "way to answer <instrumental>",
+   "artist": "fripSide",
+   "album": "way to answer",
+   "fee": 1,
+   "rank": 82
+  },
+  {
+   "id": 437392,
+   "name": "Dream of Life",
+   "artist": "伊藤祥平",
+   "album": "Dream of Life",
+   "fee": 0,
+   "rank": 83
+  }
+ ]
+}
